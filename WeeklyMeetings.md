@@ -1,14 +1,15 @@
+
 # Christine's Weekly Meeting Notes
 
-* [Template](#template-date-22-August-2022)
+* [22 August 2022](#date-22-august-2022)
 
-* [Template](#template-date-15-August-2022)
+* [15 August 2022](#date-15-august-2022)
 
-* [Template](#template-date-08-August-2022)
+* [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: [22 August 2022]
+### Date: 22 August 2022
 
 #### Who did you help this week?
 
@@ -38,7 +39,7 @@ Meeting with Veronica (last Monday) and getting confirmation that I was on the r
 
 
 
-### Date: [15 August 2022]
+### Date: 15 August 2022
 
 #### Who did you help this week?
 
@@ -74,7 +75,7 @@ Think this depends on what Veronika and I discuss during our meeting today.
 #### Any other topics
 
 
-### Date: [08 August 2022]
+### Date: 08 August 2022
 
 #### Who did you help this week?
 
