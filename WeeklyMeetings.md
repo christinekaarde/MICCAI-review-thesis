@@ -34,7 +34,7 @@ Getting into DASYA lab and having some more consistency. Also being able to acce
 * annotating more articles
 * maybe begin working on a jupyter notebook to handle some of the data I will be getting?
 
-#### Where do you need help from Veronica?
+#### Where do you need help from Veronika?
 
 * A lot of the newer articles mention doing an ablation study - something I should add to performance measures?
 * Feedback on updated columns as questions
@@ -48,7 +48,7 @@ Getting into DASYA lab and having some more consistency. Also being able to acce
 #### Who did you help this week?
 
 #### What helped you this week?
-Meeting with Veronica (last Monday) and getting confirmation that I was on the right track, plus additional work to do
+Meeting with Veronika (last Monday) and getting confirmation that I was on the right track, plus additional work to do
 
 #### What did you achieve?
 
@@ -66,7 +66,7 @@ Meeting with Veronica (last Monday) and getting confirmation that I was on the r
 * Contact Bethany and hear about a meeting to see if annotation schema is missing something
 * finish project agreement
 
-#### Where do you need help from Veronica?
+#### Where do you need help from Veronika?
 
 * Nothing yet
 
@@ -99,7 +99,7 @@ Think this depends on what Veronika and I discuss during our meeting today.
 * want to finish up part 1 
 
 
-#### Where do you need help from Veronica?
+#### Where do you need help from Veronika?
 
 * What did Veronika mean in the Abbassi text? Could only find “Papers were included if they focused on the diagnosis of detection of abnormalities”.
  (Talk about methodology, titles with detection, classification and prediction)
@@ -133,7 +133,7 @@ Meeting with Veronika on Monday helped me get properly started with my initial a
 
 * Will continue to test annotate this week, see if I can flesh things out a bit more
 
-#### Where do you need help from Veronica?
+#### Where do you need help from Veronika?
 
 * Clarification on Abbassi text
 * precision of methods
@@ -176,7 +176,7 @@ Replace this text with a one/two sentence description of what helped you this we
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Veronica?
+#### Where do you need help from Veronika?
 
 * Replace this text with a bullet point list of what you need help from Veronica on.
 * It's ok if your list is only one bullet point long!
