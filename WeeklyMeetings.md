@@ -1,6 +1,8 @@
 
 # Christine's Weekly Meeting Notes
 
+* [29 August 2022](#date-29-august-2022)
+
 * [22 August 2022](#date-22-august-2022)
 
 * [15 August 2022](#date-15-august-2022)
@@ -8,6 +10,39 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 29 August 2022
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+Getting into DASYA lab and having some more consistency. Also being able to access the MICCAI 2021 conference as epubs, and being able to easily copy/paste was great, working much faster!
+
+#### What did you achieve?
+
+* annotated 18 articles this week
+
+#### What did you struggle with?
+
+* Finding versions of the articles that I could copy from
+* database struggles, getting locked out
+
+#### What would you like to work on next week?
+
+* annotating more articles
+* maybe begin working on a jupyter notebook to handle some of the data I will be getting?
+
+#### Where do you need help from Veronica?
+
+* A lot of the newer articles mention doing an ablation study - something I should add to performance measures?
+* Feedback on updated columns as questions
+* A small thing, which date to use for the weekly markdowns?
+* get article about performance measures we spoke about last week
+
+#### Any other topics
+
 
 ### Date: 22 August 2022
 
@@ -30,6 +65,7 @@ Meeting with Veronica (last Monday) and getting confirmation that I was on the r
 * Fix the formatting of this weekly meetings file
 * Reannotate articles based on updated schema
 * Contact Bethany and hear about a meeting to see if annotation schema is missing something
+* finish project agreement
 
 #### Where do you need help from Veronica?
 
