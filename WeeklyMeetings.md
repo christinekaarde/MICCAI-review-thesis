@@ -33,7 +33,6 @@ Getting into DASYA lab and having some more consistency. Also being able to acce
 
 * annotating more articles
 * maybe begin working on a jupyter notebook to handle some of the data I will be getting?
-* finish project agreement
 
 #### Where do you need help from Veronica?
 
@@ -66,6 +65,7 @@ Meeting with Veronica (last Monday) and getting confirmation that I was on the r
 * Fix the formatting of this weekly meetings file
 * Reannotate articles based on updated schema
 * Contact Bethany and hear about a meeting to see if annotation schema is missing something
+* finish project agreement
 
 #### Where do you need help from Veronica?
 
