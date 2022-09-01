@@ -1,7 +1,7 @@
 
 # Christine's Weekly Meeting Notes
 
-* [5 September 2022](#date-05-september-2022)
+* [29 August 2022](#date-29-august-2022)
 
 * [22 August 2022](#date-22-august-2022)
 
@@ -11,7 +11,7 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 05 September 2022
+### Date: 29 August 2022
 
 #### Who did you help this week?
 
