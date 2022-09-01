@@ -38,7 +38,6 @@ Getting into DASYA lab and having some more consistency. Also being able to acce
 
 * A lot of the newer articles mention doing an ablation study - something I should add to performance measures?
 * Feedback on updated columns as questions
-* A small thing, which date to use for the weekly markdowns?
 * get article about performance measures we spoke about last week
 
 #### Any other topics
