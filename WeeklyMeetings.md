@@ -1,5 +1,6 @@
 
 # Christine's Weekly Meeting Notes
+* [05 September 2022](#date-05-september-2022)
 
 * [29 August 2022](#date-29-august-2022)
 
@@ -11,18 +12,56 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 29 August 2022
+### Date: 05 September 2022
 
 #### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
 
 
 #### What helped you this week?
 
+Replace this text with a one/two sentence description of what helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Veronika?
+
+* Replace this text with a bullet point list of what you need help from Veronica on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+
+
+### Date: 29 August 2022
+
+#### Who did you help this week?
+
+#### What helped you this week?
+
 Getting into DASYA lab and having some more consistency. Also being able to access the MICCAI 2021 conference as epubs, and being able to easily copy/paste was great, working much faster!
+Great meeting with Bethany and Veronika really pushed me to work on new things, seeing the potential scope of the project
 
 #### What did you achieve?
 
 * annotated 18 articles this week
+* created an initial mining script that extracts author, title, doi, page numbers and year (works for 2012, 2021 WIP)
 
 #### What did you struggle with?
 
@@ -31,14 +70,14 @@ Getting into DASYA lab and having some more consistency. Also being able to acce
 
 #### What would you like to work on next week?
 
-* annotating more articles
-* maybe begin working on a jupyter notebook to handle some of the data I will be getting?
+* finish initial mining script for 2021
+* start writing in overleaf
+* references mining
+* determining classification in an easy manner
 
 #### Where do you need help from Veronika?
 
-* A lot of the newer articles mention doing an ablation study - something I should add to performance measures?
-* Feedback on updated columns as questions
-* get article about performance measures we spoke about last week
+* add next week (skipping meeting Monday 5th)
 
 #### Any other topics
 
