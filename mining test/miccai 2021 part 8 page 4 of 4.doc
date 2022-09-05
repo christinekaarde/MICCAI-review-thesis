@@ -12,23 +12,23 @@
 
     
     
-    <meta name="doi" content="10.1007/978-3-030-97281-3"/>
-    <meta name="title" content="Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis"/>
-    <meta name="description" content="This MICCAI 2021 Challenges volume deals with algorithms in automated image analysis in clinically relevant applications."/>
-    <meta name="citation_springer_api_url" content="https://api.springernature.com/xmldata/jats?q=bookdoi:10.1007/978-3-030-97281-3&api_key="/>
+    <meta name="doi" content="10.1007/978-3-030-87237-3"/>
+    <meta name="title" content="Medical Image Computing and Computer Assisted Intervention – MICCAI 2021"/>
+    <meta name="description" content="The MICCAI 2021 proceedings focus on medical image computing and computer assisted intervention, modalities, and more."/>
+    <meta name="citation_springer_api_url" content="https://api.springernature.com/xmldata/jats?q=bookdoi:10.1007/978-3-030-87237-3&api_key="/>
     
 
     
     
-    <meta property="og:url" content="https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-97281-3"/>
+    <meta property="og:url" content="https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-87237-3"/>
     <meta property="og:type" content="book"/>
     <meta property="og:site_name" content="SpringerLink"/>
-    <meta property="og:title" content="Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis"/>
-    <meta property="og:image" content="https://media.springernature.com/w153/springer-static/cover/book/978-3-030-97281-3.jpg"/>
+    <meta property="og:title" content="Medical Image Computing and Computer Assisted Intervention – MICCAI 2021"/>
+    <meta property="og:image" content="https://media.springernature.com/w153/springer-static/cover/book/978-3-030-87237-3.jpg"/>
     
 
 
-    <title>Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis | SpringerLink</title>
+    <title>Medical Image Computing and Computer Assisted Intervention – MICCAI 2021 | SpringerLink</title>
 
     <link rel="shortcut icon" href=/oscar-static/images/favicons/springerlink/favicon-eb9f5576a3.ico />
 <link rel="icon" sizes="16x16 32x32 48x48" href=/oscar-static/images/favicons/springerlink/favicon-eb9f5576a3.ico />
@@ -59,7 +59,7 @@
 
     
     <script>
-        window.dataLayer = [{"GA Key":"UA-26408784-1","DOI":"10.1007/978-3-030-97281-3","page":{"attributes":{"environment":"live"}},"doi":"10.1007-978-3-030-97281-3","Features":["doNotAutoAssociate","doNotAutoAssociate","cobranding"],"hasAccess":"Y","Open Access":"N","user":{"license":{"businessPartnerID":["2000580012","3000236495","2000421697","3000092219","3004089649","3000209025"],"businessPartnerIDString":"2000580012|3000236495|2000421697|3000092219|3004089649|3000209025"}},"Access Type":"subscription","Page":"Book","Country":"DK","japan":false,"Bpids":"2000580012, 3000236495, 2000421697, 3000092219, 3004089649, 3000209025","Bpnames":"IT University of Copenhagen, 1236 DEFF LNCS, DEFF Consortium Danish National Library Authority, Det Kongelige Bibliotek The Royal Library, Royal Danish Library att: KBNL, DEFF Danish Agency for Culture","BPID":["2000580012","3000236495","2000421697","3000092219","3004089649","3000209025"],"VG Wort Identifier":"pw-vgzm.415900-10.1007-978-3-030-97281-3","Full HTML":"N","Has Body":"N","Has Preview":"N","Labs":"Y","Keywords":"anomaly localization, artificial intelligence, computer vision, domain shift and generalization , image analysis, image processing, image quality, image reconstruction, image segmentation, machine learning, multi-modality, neural networks, object detection, optimisation, pattern recognition, self-supervised learning, signal detection, signal processing, tumor diagnosis and mitosis detection, unsupervised learning","Event Category":"Book","SubjectCodes":"SCI, SCI22005, SCI24008, SCI23001, SCI21010","session":{"authentication":{"loginStatus":"N"},"attributes":{"edition":"academic"}},"content":{"attributes":{"deliveryPlatform":"oscar"},"book":{"bookProductType":"Proceedings","doi":{"value":"10.1007/978-3-030-97281-3"},"eisbn":"978-3-030-97281-3","pisbn":"978-3-030-97280-6","seriesId":"558","seriesTitle":"Lecture Notes in Computer Science","title":"Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis"},"category":{"pmc":{"primarySubject":"Computer Science","primarySubjectCode":"I","secondarySubjectCodes":{"1":"I22005","2":"I24008","3":"I23001","4":"I21010"},"secondarySubjects":{"1":"Computer Imaging, Vision, Pattern Recognition and Graphics","2":"Computing Milieux","3":"Computer Applications","4":"Machine Learning"}},"sucode":"SUCO11645"},"serial":{"eissn":"1611-3349","pissn":"0302-9743"},"type":"Book"},"pmc":["I","I22005","I24008","I23001","I21010"],"kwrd":["anomaly_localization","artificial_intelligence","computer_vision","domain_shift_and_generalization_","image_analysis","image_processing","image_quality","image_reconstruction","image_segmentation","machine_learning","multi-modality","neural_networks","object_detection","optimisation","pattern_recognition","self-supervised_learning","signal_detection","signal_processing","tumor_diagnosis_and_mitosis_detection","unsupervised_learning"],"topLevelCategory":"Computer Science","isbn":"978-3-030-97281-3","productId":"9783030972813","pIsbn":"978-3-030-97281-3","url":"https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-97281-3","photo":"https://media.springernature.com/w153/springer-static/cover/book/978-3-030-97281-3.jpg"}];
+        window.dataLayer = [{"GA Key":"UA-26408784-1","DOI":"10.1007/978-3-030-87237-3","page":{"attributes":{"environment":"live"}},"doi":"10.1007-978-3-030-87237-3","Features":["doNotAutoAssociate","doNotAutoAssociate","cobranding"],"hasAccess":"Y","Open Access":"N","user":{"license":{"businessPartnerID":["2000580012","3000236495","2000421697","3000092219","3004089649","3000209025"],"businessPartnerIDString":"2000580012|3000236495|2000421697|3000092219|3004089649|3000209025"}},"Access Type":"subscription","Page":"Book","Country":"DK","japan":false,"Bpids":"2000580012, 3000236495, 2000421697, 3000092219, 3004089649, 3000209025","Bpnames":"IT University of Copenhagen, 1236 DEFF LNCS, DEFF Consortium Danish National Library Authority, Det Kongelige Bibliotek The Royal Library, Royal Danish Library att: KBNL, DEFF Danish Agency for Culture","BPID":["2000580012","3000236495","2000421697","3000092219","3004089649","3000209025"],"VG Wort Identifier":"pw-vgzm.415900-10.1007-978-3-030-87237-3","Full HTML":"N","Has Body":"N","Has Preview":"N","Labs":"Y","Keywords":"artificial intelligence, color image processing, computer aided diagnosis, computer assisted interventions, computer vision, deep learning, image matching, image processing, image quality, image reconstruction, image segmentation, machine learning, medical image analysis, medical images, neural networks, pattern recognition, reference image, signal processing","Event Category":"Book","SubjectCodes":"SCI, SCI22021, SCI21000, SCI2203X, SCI23060","session":{"authentication":{"loginStatus":"N"},"attributes":{"edition":"academic"}},"content":{"attributes":{"deliveryPlatform":"oscar"},"book":{"bookProductType":"Proceedings","doi":{"value":"10.1007/978-3-030-87237-3"},"eisbn":"978-3-030-87237-3","pisbn":"978-3-030-87236-6","seriesId":"558","seriesTitle":"Lecture Notes in Computer Science","title":"Medical Image Computing and Computer Assisted Intervention – MICCAI 2021"},"category":{"pmc":{"primarySubject":"Computer Science","primarySubjectCode":"I","secondarySubjectCodes":{"1":"I22021","2":"I21000","3":"I2203X","4":"I23060"},"secondarySubjects":{"1":"Image Processing and Computer Vision","2":"Artificial Intelligence","3":"Pattern Recognition","4":"Health Informatics"}},"sucode":"SUCO11645"},"serial":{"eissn":"1611-3349","pissn":"0302-9743"},"type":"Book"},"pmc":["I","I22021","I21000","I2203X","I23060"],"kwrd":["artificial_intelligence","color_image_processing","computer_aided_diagnosis","computer_assisted_interventions","computer_vision","deep_learning","image_matching","image_processing","image_quality","image_reconstruction","image_segmentation","machine_learning","medical_image_analysis","medical_images","neural_networks","pattern_recognition","reference_image","signal_processing"],"topLevelCategory":"Computer Science","isbn":"978-3-030-87237-3","productId":"9783030872373","pIsbn":"978-3-030-87237-3","url":"https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-87237-3","photo":"https://media.springernature.com/w153/springer-static/cover/book/978-3-030-87237-3.jpg"}];
     </script>
 
     <script>
@@ -166,7 +166,7 @@
 
                 var headScripts = [
                     {'src': '/oscar-static/js/polyfill-es5-bundle-910e05ad12.js', 'async': false},
-                    {'src': '/oscar-static/js/airbrake-es5-bundle-7280f6c21d.js', 'async': false},
+                    {'src': '/oscar-static/js/airbrake-es5-bundle-b4ca0ed017.js', 'async': false},
                 ];
 
                 var bodyScripts = [
@@ -223,11 +223,11 @@
 
     
     
-    <link rel="canonical" href="https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-97281-3"/>
+    <link rel="canonical" href="https://link-springer-com.ep.ituproxy.kb.dk/book/10.1007/978-3-030-87237-3"/>
     
 
     
-    <script type="application/ld+json">{"image":"https://media.springernature.com/w153/springer-static/cover/book/978-3-030-97281-3","genre":["Computer Science","Computer Science (R0)"],"publisher":{"name":"Springer International Publishing","logo":{"url":"https://www.springernature.com/app-sn/public/images/logo-springernature.png","@type":"ImageObject"},"@type":"Organization"},"editor":[{"name":"Marc Aubreville","url":"https://orcid.org/0000-0002-5294-5247","affiliation":[{"name":"","address":{"name":"Technische Hochschule Ingolstadt, Ingolstadt, Germany","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"David Zimmerer","url":"https://orcid.org/0000-0002-8865-2171","affiliation":[{"name":"","address":{"name":"German Cancer Research Center (DKFZ), Heidelberg, Germany","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Mattias Heinrich","url":"https://orcid.org/0000-0002-7489-1972","affiliation":[{"name":"","address":{"name":"Universität zu Lübeck, Lübeck, Germany","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"}],"keywords":"anomaly localization, artificial intelligence, computer vision, domain shift and generalization , image analysis, image processing, image quality, image reconstruction, image segmentation, machine learning, multi-modality, neural networks, object detection, optimisation, pattern recognition, self-supervised learning, signal detection, signal processing, tumor diagnosis and mitosis detection, unsupervised learning","description":"This MICCAI 2021 Challenges volume deals with algorithms in automated image analysis in clinically relevant applications.","copyrightYear":"2022","name":"Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis","numberOfPages":9,"isbn":"978-3-030-97281-3","copyrightHolder":{"name":"Springer Nature Switzerland AG","@type":"Organization"},"alternateName":"MICCAI 2021 Challenges: MIDOG 2021, MOOD 2021, and Learn2Reg 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, September 27–October 1, 2021, Proceedings","@type":"Book","@context":"https://schema.org"}</script>
+    <script type="application/ld+json">{"image":"https://media.springernature.com/w153/springer-static/cover/book/978-3-030-87237-3","genre":["Computer Science","Computer Science (R0)"],"publisher":{"name":"Springer International Publishing","logo":{"url":"https://www.springernature.com/app-sn/public/images/logo-springernature.png","@type":"ImageObject"},"@type":"Organization"},"editor":[{"name":"Marleen de Bruijne","url":"https://orcid.org/0000-0002-6328-902X","affiliation":[{"name":"","address":{"name":"Erasmus MC - University Medical Center Rotterdam, Rotterdam, The Netherlands","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Philippe C. Cattin","url":"https://orcid.org/0000-0001-8785-2713","affiliation":[{"name":"","address":{"name":"University of Basel, Allschwil, Switzerland","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Stéphane Cotin","url":"https://orcid.org/0000-0002-2661-505X","affiliation":[{"name":"","address":{"name":"Inria Nancy Grand Est, Villers-lès-Nancy, France","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Nicolas Padoy","url":"https://orcid.org/0000-0002-5010-4137","affiliation":[{"name":"","address":{"name":"ICube, Université de Strasbourg, CNRS, Strasbourg, France","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Stefanie Speidel","url":"https://orcid.org/0000-0002-4590-1908","affiliation":[{"name":"","address":{"name":"National Center for Tumor Diseases (NCT/UCC), Dresden, Germany","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Yefeng Zheng","url":"https://orcid.org/0000-0003-2195-2847","affiliation":[{"name":"","address":{"name":"Tencent Jarvis Lab, Shenzhen, China","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"},{"name":"Caroline Essert","url":"https://orcid.org/0000-0003-2572-9730","affiliation":[{"name":"","address":{"name":"ICube, Université de Strasbourg, CNRS, Strasbourg, France","@type":"PostalAddress"},"@type":"Organization"}],"@type":"Person"}],"keywords":"artificial intelligence, color image processing, computer aided diagnosis, computer assisted interventions, computer vision, deep learning, image matching, image processing, image quality, image reconstruction, image segmentation, machine learning, medical image analysis, medical images, neural networks, pattern recognition, reference image, signal processing","description":"The MICCAI 2021 proceedings focus on medical image computing and computer assisted intervention, modalities, and more.","copyrightYear":"2021","name":"Medical Image Computing and Computer Assisted Intervention – MICCAI 2021","numberOfPages":38,"isbn":"978-3-030-87237-3","copyrightHolder":{"name":"Springer Nature Switzerland AG","@type":"Organization"},"alternateName":"24th International Conference, Strasbourg, France, September 27 – October 1, 2021, Proceedings, Part VIII","@type":"Book","@context":"https://schema.org"}</script>
 
 </head>
 <body class="shared-article-renderer">
@@ -315,7 +315,7 @@
                 <a
                     data-test="login-link"
                     class="c-header__link"
-                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-97281-3%3Fpage%3D2"
+                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87237-3%3Fpage%3D4"
                     data-track="click"
                     data-track-category="header"
                     data-track-action="login header"
@@ -378,7 +378,7 @@
     <div class="c-pdf-container">
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-97281-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-87237-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - pdf">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book PDF</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -389,7 +389,7 @@
             
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-97281-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-87237-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - ePub">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book EPUB</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -409,18 +409,18 @@
     <header class="u-mb-24" data-test="book-header">
         <div class="c-box c-box--shadowed" id="book-header">
             <div class="app-journal-header">
-                <div class="app-journal-header__theme" style="background-image: url('//media.springernature.com/dominant-colour/springer-static/cover/book/978-3-030-97281-3.jpg?default-colour=238,125,17')"></div>
+                <div class="app-journal-header__theme" style="background-image: url('//media.springernature.com/dominant-colour/springer-static/cover/book/978-3-030-87237-3.jpg?default-colour=238,125,17')"></div>
                 <div class="app-journal-header__content">
                     <div class="app-journal-header__main">
                         <div class="app-journal-header__cover">
                             <div class="c-expand-overlay-wrapper">
-                                <a data-component="cover-zoom" href="/book/10.1007/978-3-030-97281-3/cover" data-img-src="//media.springernature.com/full/springer-static/cover-hires/book/978-3-030-97281-3" rel="nofollow">
+                                <a data-component="cover-zoom" href="/book/10.1007/978-3-030-87237-3/cover" data-img-src="//media.springernature.com/full/springer-static/cover-hires/book/978-3-030-87237-3" rel="nofollow">
                                     <picture>
                                         <source type="image/webp"
                                             srcset="
-                                                //media.springernature.com/w92/springer-static/cover/book/978-3-030-97281-3.jpg?as=webp 1x,
-                                                //media.springernature.com/w184/springer-static/cover/book/978-3-030-97281-3.jpg?as=webp 2x">
-                                        <img src="//media.springernature.com/w92/springer-static/cover/book/978-3-030-97281-3.jpg" width="90" height="130" alt="Book cover">
+                                                //media.springernature.com/w92/springer-static/cover/book/978-3-030-87237-3.jpg?as=webp 1x,
+                                                //media.springernature.com/w184/springer-static/cover/book/978-3-030-87237-3.jpg?as=webp 2x">
+                                        <img src="//media.springernature.com/w92/springer-static/cover/book/978-3-030-87237-3.jpg" width="90" height="130" alt="Book cover">
                                     </picture>
                                     <svg data-component="expand-icon" class="c-expand-overlay u-icon u-hide" width="18" height="18" aria-hidden="true" focusable="false"><use xlink:href="#icon-expand-image"></use></svg>
                                 </a>
@@ -431,12 +431,12 @@
                             <ul class="c-article-identifiers">
                                 <li class="c-article-identifiers__item">Conference proceedings</li>
                                 
-                                <li class="c-article-identifiers__item">&copy; 2022</li>
+                                <li class="c-article-identifiers__item">&copy; 2021</li>
                             </ul>
                             <h1 class="app-journal-header__title" data-test="book-title">
-                                Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis
+                                Medical Image Computing and Computer Assisted Intervention – MICCAI 2021
                             </h1>
-                            <p class="app-journal-header__subtitle" data-test="book-subtitle">MICCAI 2021 Challenges: MIDOG 2021, MOOD 2021, and Learn2Reg 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, September 27–October 1, 2021, Proceedings</p>
+                            <p class="app-journal-header__subtitle" data-test="book-subtitle">24th International Conference, Strasbourg, France, September 27 – October 1, 2021, Proceedings, Part VIII</p>
                         </div>
                     </div>
                     <div class="app-journal-header__side">
@@ -460,13 +460,13 @@
                      aria-hidden="true">
                     <div class="c-context-bar__container u-container">
                         <div class="c-context-bar__title">
-                            Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis
+                            Medical Image Computing and Computer Assisted Intervention – MICCAI 2021
                         </div>
                         
     <div class="c-pdf-container">
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-97281-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-87237-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - pdf">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book PDF</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -477,7 +477,7 @@
             
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-97281-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-87237-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - ePub">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book EPUB</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -503,15 +503,31 @@
             <ul class="c-article-author-list js-etal-collapsed" data-etal="25" data-etal-small="3" data-test="editors-listing" data-component-authors-activator="editors-list">
             
                 <li class="c-article-author-list__item">
-                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-0" data-author-popup="author-1-0">Marc Aubreville</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-5294-5247"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-5294-5247</a></span><sup class="u-js-hide"><a href="#Aff-1-0">0</a></sup>, 
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-0" data-author-popup="author-1-0">Marleen de Bruijne</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-6328-902X"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-6328-902X</a></span><sup class="u-js-hide"><a href="#Aff-1-0">0</a></sup>, 
                 </li>
             
                 <li class="c-article-author-list__item">
-                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-1" data-author-popup="author-1-1">David Zimmerer</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-8865-2171"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-8865-2171</a></span><sup class="u-js-hide"><a href="#Aff-1-1">1</a></sup>, 
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-1" data-author-popup="author-1-1">Philippe C. Cattin</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0001-8785-2713"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0001-8785-2713</a></span><sup class="u-js-hide"><a href="#Aff-1-1">1</a></sup>, 
                 </li>
             
                 <li class="c-article-author-list__item">
-                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-2" data-author-popup="author-1-2">Mattias Heinrich</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-7489-1972"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-7489-1972</a></span><sup class="u-js-hide"><a href="#Aff-1-2">2</a></sup>
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-2" data-author-popup="author-1-2">Stéphane Cotin</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-2661-505X"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-2661-505X</a></span><sup class="u-js-hide"><a href="#Aff-1-2">2</a></sup>, 
+                </li>
+            
+                <li class="c-article-author-list__item">
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-3" data-author-popup="author-1-3">Nicolas Padoy</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-5010-4137"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-5010-4137</a></span><sup class="u-js-hide"><a href="#Aff-1-3">3</a></sup>, 
+                </li>
+            
+                <li class="c-article-author-list__item">
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-4" data-author-popup="author-1-4">Stefanie Speidel</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0002-4590-1908"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0002-4590-1908</a></span><sup class="u-js-hide"><a href="#Aff-1-4">4</a></sup>, 
+                </li>
+            
+                <li class="c-article-author-list__item">
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-5" data-author-popup="author-1-5">Yefeng Zheng</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0003-2195-2847"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0003-2195-2847</a></span><sup class="u-js-hide"><a href="#Aff-1-5">5</a></sup>, 
+                </li>
+            
+                <li class="c-article-author-list__item">
+                    <a data-test="author-name" data-track="click" data-track-action="open author" data-track-label="link" href="#author-1-6" data-author-popup="author-1-6">Caroline Essert</a><span class="u-js-hide">&nbsp;<a class="js-orcid" href="https://orcid.org/0000-0003-2572-9730"><span class="u-visually-hidden">ORCID: </span>https://orcid.org/0000-0003-2572-9730</a></span><sup class="u-js-hide"><a href="#Aff-1-6">6</a></sup>
                 </li>
             
             </ul>
@@ -526,13 +542,13 @@
             <ol class="c-article-authors-listing u-list-reset">
                 
                     <li class="c-article-authors-listing__item">
-                        <span class="c-article-authors-search__title u-h3 js-search-name">Marc Aubreville</span>
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Marleen de Bruijne</span>
                         
                             <ol class="c-article-author-affiliation__list u-list-reset">
                                 <li id="Aff-1-0">
                                     <p class="c-article-author-affiliation__address">
                                     
-                                        Technische Hochschule Ingolstadt, Ingolstadt, Germany<br>
+                                        Erasmus MC - University Medical Center Rotterdam, Rotterdam, The Netherlands<br>
                                     
                                     </p>
                                 </li>
@@ -540,13 +556,13 @@
                         
                         <div id="author-1-0">
                             <div class="c-article-authors-search__list">
-                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Marc+Aubreville" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Marleen+de+Bruijne" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
                                 <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
                                     <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
                                         <span class="c-article-identifiers">
-                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Marc+Aubreville" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Marleen+de+Bruijne" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
                                             <span class="u-hide">&nbsp;</span>
-                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Marc+Aubreville%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Marleen+de+Bruijne%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
                                         </span>
                                     </p>
                                 </div>
@@ -555,13 +571,13 @@
                     </li>
                 
                     <li class="c-article-authors-listing__item">
-                        <span class="c-article-authors-search__title u-h3 js-search-name">David Zimmerer</span>
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Philippe C. Cattin</span>
                         
                             <ol class="c-article-author-affiliation__list u-list-reset">
                                 <li id="Aff-1-1">
                                     <p class="c-article-author-affiliation__address">
                                     
-                                        German Cancer Research Center (DKFZ), Heidelberg, Germany<br>
+                                        University of Basel, Allschwil, Switzerland<br>
                                     
                                     </p>
                                 </li>
@@ -569,13 +585,13 @@
                         
                         <div id="author-1-1">
                             <div class="c-article-authors-search__list">
-                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=David+Zimmerer" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Philippe+C.+Cattin" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
                                 <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
                                     <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
                                         <span class="c-article-identifiers">
-                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=David+Zimmerer" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Philippe+C.+Cattin" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
                                             <span class="u-hide">&nbsp;</span>
-                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22David+Zimmerer%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Philippe+C.+Cattin%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
                                         </span>
                                     </p>
                                 </div>
@@ -584,13 +600,13 @@
                     </li>
                 
                     <li class="c-article-authors-listing__item">
-                        <span class="c-article-authors-search__title u-h3 js-search-name">Mattias Heinrich</span>
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Stéphane Cotin</span>
                         
                             <ol class="c-article-author-affiliation__list u-list-reset">
                                 <li id="Aff-1-2">
                                     <p class="c-article-author-affiliation__address">
                                     
-                                        Universität zu Lübeck, Lübeck, Germany<br>
+                                        Inria Nancy Grand Est, Villers-lès-Nancy, France<br>
                                     
                                     </p>
                                 </li>
@@ -598,13 +614,129 @@
                         
                         <div id="author-1-2">
                             <div class="c-article-authors-search__list">
-                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Mattias+Heinrich" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=St%C3%A9phane+Cotin" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
                                 <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
                                     <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
                                         <span class="c-article-identifiers">
-                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Mattias+Heinrich" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=St%C3%A9phane+Cotin" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
                                             <span class="u-hide">&nbsp;</span>
-                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Mattias+Heinrich%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22St%C3%A9phane+Cotin%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                
+                    <li class="c-article-authors-listing__item">
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Nicolas Padoy</span>
+                        
+                            <ol class="c-article-author-affiliation__list u-list-reset">
+                                <li id="Aff-1-3">
+                                    <p class="c-article-author-affiliation__address">
+                                    
+                                        ICube, Université de Strasbourg, CNRS, Strasbourg, France<br>
+                                    
+                                    </p>
+                                </li>
+                            </ol>
+                        
+                        <div id="author-1-3">
+                            <div class="c-article-authors-search__list">
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Nicolas+Padoy" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
+                                    <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
+                                        <span class="c-article-identifiers">
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Nicolas+Padoy" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <span class="u-hide">&nbsp;</span>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Nicolas+Padoy%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                
+                    <li class="c-article-authors-listing__item">
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Stefanie Speidel</span>
+                        
+                            <ol class="c-article-author-affiliation__list u-list-reset">
+                                <li id="Aff-1-4">
+                                    <p class="c-article-author-affiliation__address">
+                                    
+                                        National Center for Tumor Diseases (NCT/UCC), Dresden, Germany<br>
+                                    
+                                    </p>
+                                </li>
+                            </ol>
+                        
+                        <div id="author-1-4">
+                            <div class="c-article-authors-search__list">
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Stefanie+Speidel" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
+                                    <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
+                                        <span class="c-article-identifiers">
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Stefanie+Speidel" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <span class="u-hide">&nbsp;</span>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Stefanie+Speidel%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                
+                    <li class="c-article-authors-listing__item">
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Yefeng Zheng</span>
+                        
+                            <ol class="c-article-author-affiliation__list u-list-reset">
+                                <li id="Aff-1-5">
+                                    <p class="c-article-author-affiliation__address">
+                                    
+                                        Tencent Jarvis Lab, Shenzhen, China<br>
+                                    
+                                    </p>
+                                </li>
+                            </ol>
+                        
+                        <div id="author-1-5">
+                            <div class="c-article-authors-search__list">
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Yefeng+Zheng" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
+                                    <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
+                                        <span class="c-article-identifiers">
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Yefeng+Zheng" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <span class="u-hide">&nbsp;</span>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Yefeng+Zheng%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                
+                    <li class="c-article-authors-listing__item">
+                        <span class="c-article-authors-search__title u-h3 js-search-name">Caroline Essert</span>
+                        
+                            <ol class="c-article-author-affiliation__list u-list-reset">
+                                <li id="Aff-1-6">
+                                    <p class="c-article-author-affiliation__address">
+                                    
+                                        ICube, Université de Strasbourg, CNRS, Strasbourg, France<br>
+                                    
+                                    </p>
+                                </li>
+                            </ol>
+                        
+                        <div id="author-1-6">
+                            <div class="c-article-authors-search__list">
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--left"><a href="/search?dc.creator=Caroline+Essert" class="c-article-button" data-track="click" data-track-action="author link - publication" data-track-label="link" rel="nofollow">View editor publications</a></div>
+                                <div class="c-article-authors-search__item c-article-authors-search__list-item--right">
+                                    <p class="search-in-title-js c-article-authors-search__text">You can also search for this editor in
+                                        <span class="c-article-identifiers">
+                                            <a class="c-article-identifiers__item" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Caroline+Essert" data-track="click" data-track-action="author link - pubmed" data-track-label="link" rel="nofollow">PubMed</a>
+                                            <span class="u-hide">&nbsp;</span>
+                                            <a class="c-article-identifiers__item" href="http://scholar.google.co.uk/scholar?as_q=&amp;num=10&amp;btnG=Search+Scholar&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=%22Caroline+Essert%22&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;as_allsubj=all&amp;hl=en" data-track="click" data-track-action="author link - scholar" data-track-label="link" rel="nofollow">Google Scholar</a>
                                         </span>
                                     </p>
                                 </div>
@@ -621,7 +753,7 @@
                     
     
         <div class="c-book-evaluation-divider">
-            <p class="u-mb-8" data-test="series-link"><span class="u-text-bold">Part of the book series:</span> <a href="https://www-springer-com.ep.ituproxy.kb.dk/series/558" data-track="click" data-track-action="open book series" data-track-label="link">Lecture Notes in Computer Science</a> (LNCS, volume 13166)</p>
+            <p class="u-mb-8" data-test="series-link"><span class="u-text-bold">Part of the book series:</span> <a href="https://www-springer-com.ep.ituproxy.kb.dk/series/558" data-track="click" data-track-action="open book series" data-track-label="link">Lecture Notes in Computer Science</a> (LNCS, volume 12908)</p>
             
                 <p class="u-mb-8" data-test="subseries-link"><span class="u-text-bold">Part of the book sub series:</span>
                 
@@ -647,14 +779,14 @@
         <ul class="c-article-metrics-bar u-list-reset">
             
                 <li class=" c-article-metrics-bar__item">
-                    <p class="c-article-metrics-bar__count">10k <span class="c-article-metrics-bar__label">Accesses</span></p>
+                    <p class="c-article-metrics-bar__count">364k <span class="c-article-metrics-bar__label">Accesses</span></p>
                 </li>
             
             
                 
                     <li class="c-article-metrics-bar__item">
-                        <p class="c-article-metrics-bar__count">5
-                            <a href="http://citations.springer.com.ep.ituproxy.kb.dk/book?doi&#x3D;10.1007/978-3-030-97281-3" target="_blank" rel="noopener"
+                        <p class="c-article-metrics-bar__count">54
+                            <a href="http://citations.springer.com.ep.ituproxy.kb.dk/book?doi&#x3D;10.1007/978-3-030-87237-3" target="_blank" rel="noopener"
                                title="Visit Springer Citations for full citation details"
                                class="c-article-metrics-bar__label"
                                data-track="click"
@@ -666,9 +798,9 @@
             
                 
                     <li class="c-article-metrics-bar__item">
-                        <p class="c-article-metrics-bar__count">7
+                        <p class="c-article-metrics-bar__count">32
                             
-                                <a href="https://link.altmetric.com/details/112389518" target="_blank" rel="noopener"
+                                <a href="https://link.altmetric.com/details/114092011" target="_blank" rel="noopener"
                                    title="Visit Altmetric for full social mention details"
                                    class="c-article-metrics-bar__label"
                                    data-track="click"
@@ -725,19 +857,19 @@
      <div class="dl buying-option-price-campaign ">
       <div class="buying-option-price"><span class="dt">
         <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M11.782 11L9.3 8.518c-.393-.392-.4-1.022-.02-1.403a1.001 1.001 0 011.417 0l4.176 4.177a1.001 1.001 0 010 1.416l-4.176 4.177a.991.991 0 01-1.4.016 1 1 0 01.003-1.42L11.782 13l1.013-.998L11.782 11z" fill="#666" fill-rule="evenodd"></path>
-        </svg><span>Softcover Book</span></span> <span class="dd price-amount"> EUR&nbsp;62.49 </span>
+        </svg><span>Softcover Book</span></span> <span class="dd price-amount"> EUR&nbsp;122.49 </span>
       </div>
       <div class="dd price-info"><span> <span class="vat-info">Price includes VAT (Denmark)</span> </span>
       </div>
      </div>
-     <form class="buying-option-form" action="https://order-springer-com.ep.ituproxy.kb.dk/public/cart" method="post"><input type="hidden" name="type" value="book"> <input type="hidden" name="doi" value="10.1007/978-3-030-97281-3"> <input type="hidden" name="isxn" value="978-3-030-97280-6"> <input type="hidden" name="contenttitle" value="Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis">
+     <form class="buying-option-form" action="https://order-springer-com.ep.ituproxy.kb.dk/public/cart" method="post"><input type="hidden" name="type" value="book"> <input type="hidden" name="doi" value="10.1007/978-3-030-87237-3"> <input type="hidden" name="isxn" value="978-3-030-87236-6"> <input type="hidden" name="contenttitle" value="Medical Image Computing and Computer Assisted Intervention – MICCAI 2021">
       <ul class="buying-option-usps">
-       <li>ISBN: 978-3-030-97280-6</li>
+       <li>ISBN: 978-3-030-87236-6</li>
        <li>Dispatched in 3 to 5 business days</li>
        <li>Exclusive offer for individuals only</li>
        <li>Free shipping worldwide<br><a href="https://support.springernature.com/en/support/solutions/articles/6000233448-coronavirus-disease-covid-19-delivery-information" target="_blank">Shipping restrictions may apply, check to see if you are impacted</a>.</li>
        <li>Tax calculation will be finalised during checkout</li>
-      </ul> <button type="submit" class="buybox__buy-button c-button c-button--blue" value="Submit" data-track="click" data-track-label="buy softcover" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis&quot;,&quot;id&quot;:&quot;978-3-030-97280-6&quot;,&quot;price&quot;:49.99,&quot;brand&quot;:&quot;Springer International Publishing&quot;,&quot;category&quot;:&quot;Computer Imaging, Vision, Pattern Recognition and Graphics&quot;,&quot;variant&quot;:&quot;print&quot;,&quot;quantity&quot;:1}]}}});">Buy Softcover Book</button>
+      </ul> <button type="submit" class="buybox__buy-button c-button c-button--blue" value="Submit" data-track="click" data-track-label="buy softcover" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Medical Image Computing and Computer Assisted Intervention – MICCAI 2021&quot;,&quot;id&quot;:&quot;978-3-030-87236-6&quot;,&quot;price&quot;:97.99,&quot;brand&quot;:&quot;Springer International Publishing&quot;,&quot;category&quot;:&quot;Image Processing and Computer Vision&quot;,&quot;variant&quot;:&quot;print&quot;,&quot;quantity&quot;:1}]}}});">Buy Softcover Book</button>
      </form>
     </div>
    </div>
@@ -1220,11 +1352,11 @@
            "ecommerce": {
              "currency": "EUR",
              "impressions": [{
-  "name" : "Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis",
-  "id" : "978-3-030-97280-6",
-  "price" : 49.99,
+  "name" : "Medical Image Computing and Computer Assisted Intervention – MICCAI 2021",
+  "id" : "978-3-030-87236-6",
+  "price" : 97.99,
   "brand" : "Springer International Publishing",
-  "category" : "Computer Imaging, Vision, Pattern Recognition and Graphics",
+  "category" : "Image Processing and Computer Vision",
   "variant" : "print",
   "quantity" : 1
 }]
@@ -1243,7 +1375,7 @@
     
             <section data-title="Table of contents">
                 <div class="c-box c-box--shadowed u-mb-24">
-                    <h2 class="c-box__heading u-mb-0" data-test="book-bits" id="toc">Table of contents (27 papers)</h2>
+                    <h2 class="c-box__heading u-mb-0" data-test="book-bits" id="toc">Table of contents (66 papers)</h2>
                     <div class="c-book-section">
                         <div class="app-search">
     <form action="/search" method="get" role="search">
@@ -1256,7 +1388,7 @@
                     <use xlink:href="#global-icon-search"></use>
                 </svg>
             </button>
-            <input type="hidden" name="facet-eisbn" value="978-3-030-97281-3">
+            <input type="hidden" name="facet-eisbn" value="978-3-030-87237-3">
             <input type="hidden" name="facet-content-type" value="Chapter">
         </div>
     </form>
@@ -1265,7 +1397,7 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <a class="c-pagination__link" href="/book/10.1007/978-3-030-97281-3?page=1#toc" data-test="previous-page">
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=3#toc" data-test="previous-page">
             <svg class="c-icon c-pagination__icon" aria-hidden="true">
                 <use xlink:href="#icon-springer-arrow-left"></use>
             </svg>
@@ -1275,13 +1407,13 @@
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="2">2</span></span>
-                <form action="/book/10.1007/978-3-030-97281-3#toc" method="GET">
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="4">4</span></span>
+                <form action="/book/10.1007/978-3-030-87237-3#toc" method="GET">
                     <label for="pagination-1-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="2" id="pagination-1-page-number" name="page" class="c-pagination__input" value="2" required />
+                    <input type="number" min="1" max="4" id="pagination-1-page-number" name="page" class="c-pagination__input" value="4" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
-                <span>&nbsp; of 2</span>
+                <span>&nbsp; of 4</span>
             </div>
         </li>
         <li class="c-pagination__item">
@@ -1300,7 +1432,7 @@
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-0 " data-title="part-title" style="border-top: none">MOOD</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-0 " data-title="part-title" style="border-top: none">Modalities - Histopathology</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1313,25 +1445,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-MetaDetector: Detecting Outliers by Learning to Learn from Self-supervision">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_18"
+                            <h4 class="c-card__title" data-test="chapter-title-Semi-supervised Adversarial Learning for Stain Normalisation in Histopathology Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_56"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->MetaDetector: Detecting Outliers by Learning to Learn from Self-supervision</a>
+>Semi-supervised Adversarial Learning for Stain Normalisation in Histopathology Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Jeremy Tan, Turkay Kart, Benjamin Hou, James Batten, Bernhard Kainz</li>
+                    <li class="c-author-list__item">Cong Cong, Sidong Liu, Antonio Di Ieva, Maurice Pagnucco, Shlomo Berkovsky, Yang Song</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 119-126</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 581-591</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_18" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_56" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1354,25 +1486,107 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-AutoSeg - Steering the Inductive Biases for Automatic Pathology Segmentation">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_19"
+                            <h4 class="c-card__title" data-test="chapter-title-Learning Visual Features by Colorization for Slide-Consistent Survival Prediction from Whole Slide Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_57"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->AutoSeg - Steering the Inductive Biases for Automatic Pathology Segmentation</a>
+>Learning Visual Features by Colorization for Slide-Consistent Survival Prediction from Whole Slide Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Felix Meissen, Georgios Kaissis, Daniel Rueckert</li>
+                    <li class="c-author-list__item">Lei Fan, Arcot Sowmya, Erik Meijering, Yang Song</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 127-135</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 592-601</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_19" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_57" class="c-card__link--no-block-link">PDF
+            <svg aria-hidden="true" focusable="false" width="16"
+                 height="16"
+                 class="u-icon u-vertical-align-middle">
+                <use xlink:href="#global-icon-download"></use>
+            </svg>
+        </a>
+    </div>
+
+        
+
+    </div>
+</li>
+                
+
+
+
+
+
+<li class="c-card c-list-group__item c-card--flush u-pa-16
+" data-test="chapter">
+    <div class="c-card__body u-display-flex u-justify-content-space-between">
+        <div>
+                            <h4 class="c-card__title" data-test="chapter-title-Adversarial Learning of Cancer Tissue Representations">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_58"
+    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
+>Adversarial Learning of Cancer Tissue Representations</a>
+                            </h4>
+                        
+                    
+            
+                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
+                    <li class="c-author-list__item">Adalberto Claudio Quiros, Nicolas Coudray, Anna Yeaton, Wisuwat Sunhem, Roderick Murray-Smith, Aristotelis Tsirigos et al.</li>
+                </ul>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 602-612</span>
+            </div>
+        </div>
+            
+    <div class="u-flex-static u-pl-16">
+        <a data-test="chapter-pdf"
+           data-track="click" data-track-action="Pdf download" data-track-label="link"
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_58" class="c-card__link--no-block-link">PDF
+            <svg aria-hidden="true" focusable="false" width="16"
+                 height="16"
+                 class="u-icon u-vertical-align-middle">
+                <use xlink:href="#global-icon-download"></use>
+            </svg>
+        </a>
+    </div>
+
+        
+
+    </div>
+</li>
+                
+
+
+
+
+
+<li class="c-card c-list-group__item c-card--flush u-pa-16
+" data-test="chapter">
+    <div class="c-card__body u-display-flex u-justify-content-space-between">
+        <div>
+                            <h4 class="c-card__title" data-test="chapter-title-A Multi-attribute Controllable Generative Model for Histopathology Image Synthesis">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_59"
+    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
+>A Multi-attribute Controllable Generative Model for Histopathology Image Synthesis</a>
+                            </h4>
+                        
+                    
+            
+                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
+                    <li class="c-author-list__item">Jiarong Ye, Yuan Xue, Peter Liu, Richard Zaino, Keith C. Cheng, Xiaolei Huang</li>
+                </ul>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 613-623</span>
+            </div>
+        </div>
+            
+    <div class="u-flex-static u-pl-16">
+        <a data-test="chapter-pdf"
+           data-track="click" data-track-action="Pdf download" data-track-label="link"
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_59" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1394,7 +1608,7 @@
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >L2R</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Modalities - Ultrasound</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1409,14 +1623,14 @@
         <div>
                 <h4 class="c-card__title" data-test="front-matter">Front Matter</h4>
             
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 137-140</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 625-625</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="front-matter-pdf"
            data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
-           href="/content/pdf/bfm%3A978-3-030-97281-3%2F3%2F1" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/bfm%3A978-3-030-87237-3%2F5%2F1" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1439,25 +1653,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Deformable Registration of Brain MR Images via a Hybrid Loss">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_20"
+                            <h4 class="c-card__title" data-test="chapter-title-USCL: Pretraining Deep Ultrasound Image Diagnosis Model Through Video Contrastive Representation Learning">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_60"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Deformable Registration of Brain MR Images via a Hybrid Loss</a>
+>USCL: Pretraining Deep Ultrasound Image Diagnosis Model Through Video Contrastive Representation Learning</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Luyi Han, Haoran Dou, Yunzhi Huang, Pew-Thian Yap</li>
+                    <li class="c-author-list__item">Yixiong Chen, Chunhui Zhang, Li Liu, Cheng Feng, Changfeng Dong, Yongfang Luo et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 141-146</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 627-637</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_20" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_60" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1480,25 +1694,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Fraunhofer MEVIS Image Registration Solutions for the Learn2Reg 2021 Challenge">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_21"
+                            <h4 class="c-card__title" data-test="chapter-title-Identifying Quantitative and Explanatory Tumor Indexes from Dynamic Contrast Enhanced Ultrasound">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_61"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Fraunhofer MEVIS Image Registration Solutions for the Learn2Reg 2021 Challenge</a>
+>Identifying Quantitative and Explanatory Tumor Indexes from Dynamic Contrast Enhanced Ultrasound</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Alessa Hering, Annkristin Lange, Stefan Heldmann, Stephanie Häger, Sven Kuckertz</li>
+                    <li class="c-author-list__item">Peng Wan, Chunrui Liu, Fang Chen, Jing Qin, Daoqiang Zhang</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 147-152</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 638-647</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_21" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_61" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1521,25 +1735,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Unsupervised Volumetric Displacement Fields Using Cost Function Unrolling">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_22"
+                            <h4 class="c-card__title" data-test="chapter-title-Weakly-Supervised Ultrasound Video Segmentation with Minimal Annotations">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_62"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Unsupervised Volumetric Displacement Fields Using Cost Function Unrolling</a>
+>Weakly-Supervised Ultrasound Video Segmentation with Minimal Annotations</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Gal Lifshitz, Dan Raviv</li>
+                    <li class="c-author-list__item">Ruiheng Chang, Dong Wang, Haiyan Guo, Jia Ding, Liwei Wang</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 153-160</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 648-658</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_22" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_62" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1562,25 +1776,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Conditional Deep Laplacian Pyramid Image Registration Network in Learn2Reg Challenge">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_23"
+                            <h4 class="c-card__title" data-test="chapter-title-Content-Preserving Unpaired Translation from Simulated to Realistic Ultrasound Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_63"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Conditional Deep Laplacian Pyramid Image Registration Network in Learn2Reg Challenge</a>
+>Content-Preserving Unpaired Translation from Simulated to Realistic Ultrasound Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Tony C. W. Mok, Albert C. S. Chung</li>
+                    <li class="c-author-list__item">Devavrat Tomar, Lin Zhang, Tiziano Portenier, Orcun Goksel</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 161-167</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 659-669</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_23" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_63" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1603,25 +1817,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-The Learn2Reg 2021 MICCAI Grand Challenge (PIMed Team)">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_24"
+                            <h4 class="c-card__title" data-test="chapter-title-Visual-Assisted Probe Movement Guidance for Obstetric Ultrasound Scanning Using Landmark Retrieval">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_64"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->The Learn2Reg 2021 MICCAI Grand Challenge (PIMed Team)</a>
+>Visual-Assisted Probe Movement Guidance for Obstetric Ultrasound Scanning Using Landmark Retrieval</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Wei Shao, Sulaiman Vesal, David Lim, Cynthia Li, Negar Golestani, Ahmed Alsinan et al.</li>
+                    <li class="c-author-list__item">Cheng Zhao, Richard Droste, Lior Drukker, Aris T. Papageorghiou, J. Alison Noble</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 168-173</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 670-679</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_24" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_64" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1644,25 +1858,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Fast 3D Registration with Accurate Optimisation and Little Learning for Learn2Reg 2021">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_25"
+                            <h4 class="c-card__title" data-test="chapter-title-Training Deep Networks for Prostate Cancer Diagnosis Using Coarse Histopathological Labels">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_65"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Fast 3D Registration with Accurate Optimisation and Little Learning for Learn2Reg 2021</a>
+>Training Deep Networks for Prostate Cancer Diagnosis Using Coarse Histopathological Labels</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Hanna Siebert, Lasse Hansen, Mattias P. Heinrich</li>
+                    <li class="c-author-list__item">Golara Javadi, Samareh Samadi, Sharareh Bayat, Samira Sojoudi, Antonio Hurtado, Silvia Chang et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 174-179</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 680-689</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_25" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_65" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1685,66 +1899,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Progressive and Coarse-to-Fine Network for Medical Image Registration Across Phases, Modalities and Patients">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_26"
+                            <h4 class="c-card__title" data-test="chapter-title-Rethinking Ultrasound Augmentation: A Physics-Inspired Approach">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_66"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Progressive and Coarse-to-Fine Network for Medical Image Registration Across Phases, Modalities and Patients</a>
+>Rethinking Ultrasound Augmentation: A Physics-Inspired Approach</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Sheng Wang, Jinxin Lv, Hongkuan Shi, Yilang Wang, Yuanhuai Liang, Zihui Ouyang et al.</li>
+                    <li class="c-author-list__item">Maria Tirindelli, Christine Eilers, Walter Simson, Magdalini Paschali, Mohammad Farid Azampour, Nassir Navab</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 180-185</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 690-700</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_26" class="c-card__link--no-block-link">PDF
-            <svg aria-hidden="true" focusable="false" width="16"
-                 height="16"
-                 class="u-icon u-vertical-align-middle">
-                <use xlink:href="#global-icon-download"></use>
-            </svg>
-        </a>
-    </div>
-
-        
-
-    </div>
-</li>
-                
-
-
-
-
-
-<li class="c-card c-list-group__item c-card--flush u-pa-16
-" data-test="chapter">
-    <div class="c-card__body u-display-flex u-justify-content-space-between">
-        <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Semi-supervised Multilevel Symmetric Image Registration Method for Magnetic Resonance Whole Brain Images">
-                                <a href="/chapter/10.1007/978-3-030-97281-3_27"
-    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Semi-supervised Multilevel Symmetric Image Registration Method for Magnetic Resonance Whole Brain Images</a>
-                            </h4>
-                        
-                    
-            
-                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Marek Wodzinski</li>
-                </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 186-191</span>
-            </div>
-        </div>
-            
-    <div class="u-flex-static u-pl-16">
-        <a data-test="chapter-pdf"
-           data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-97281-3_27" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_66" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1776,14 +1949,14 @@
         <div>
                 <h3 class="c-card__title" data-test="back-matter">Back Matter</h3>
             
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 193-194</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 701-704</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="back-matter-pdf"
            data-track="click" data-track-action="ToC - Back Matter" data-track-label="link"
-           href="/content/pdf/bbm%3A978-3-030-97281-3%2F1" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/bbm%3A978-3-030-87237-3%2F1" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1803,7 +1976,7 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <a class="c-pagination__link" href="/book/10.1007/978-3-030-97281-3?page=1#toc" data-test="previous-page">
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=3#toc" data-test="previous-page">
             <svg class="c-icon c-pagination__icon" aria-hidden="true">
                 <use xlink:href="#icon-springer-arrow-left"></use>
             </svg>
@@ -1813,13 +1986,13 @@
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="2">2</span></span>
-                <form action="/book/10.1007/978-3-030-97281-3#toc" method="GET">
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="4">4</span></span>
+                <form action="/book/10.1007/978-3-030-87237-3#toc" method="GET">
                     <label for="pagination-2-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="2" id="pagination-2-page-number" name="page" class="c-pagination__input" value="2" required />
+                    <input type="number" min="1" max="4" id="pagination-2-page-number" name="page" class="c-pagination__input" value="4" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
-                <span>&nbsp; of 2</span>
+                <span>&nbsp; of 4</span>
             </div>
         </li>
         <li class="c-pagination__item">
@@ -1958,13 +2131,13 @@
                                 </div>
                             </li>
                         
-                            <li class="c-list-group__item  app-list-group__item" data-test="conferenceProceedingBook-7">
+                            <li class="c-list-group__item app-list-group__item--highlighted app-list-group__item" data-test="conferenceProceedingBook-7">
                                 <div class="c-card">
                                     <div class="c-card__body">
                                         <h3 class="c-card__title">
                                             
-                                                <a class="c-card__link" href="/book/10.1007/978-3-030-87237-3" data-test="volume-link">Medical Image Computing and Computer Assisted Intervention – MICCAI 2021</a>
                                             
+                                                <span data-test="volume-link">Medical Image Computing and Computer Assisted Intervention – MICCAI 2021</span>
                                             
                                         </h3>
                                         <div class="c-card__summary">24th International Conference, Strasbourg, France, September 27 – October 1, 2021, Proceedings, Part VIII</div>
@@ -1973,13 +2146,13 @@
                                 </div>
                             </li>
                         
-                            <li class="c-list-group__item app-list-group__item--highlighted app-list-group__item" data-test="conferenceProceedingBook-8">
+                            <li class="c-list-group__item  app-list-group__item" data-test="conferenceProceedingBook-8">
                                 <div class="c-card">
                                     <div class="c-card__body">
                                         <h3 class="c-card__title">
                                             
+                                                <a class="c-card__link" href="/book/10.1007/978-3-030-97281-3" data-test="volume-link">Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis</a>
                                             
-                                                <span data-test="volume-link">Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis</span>
                                             
                                         </h3>
                                         <div class="c-card__summary">MICCAI 2021 Challenges: MIDOG 2021, MOOD 2021, and Learn2Reg 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, September 27–October 1, 2021, Proceedings</div>
@@ -2007,17 +2180,23 @@
                 <div class="c-box c-box--shadowed u-mb-24">
                     <h2 class="c-box__heading u-mb-0" id="about-this-book">About this book</h2>
                     <div class="c-book-section">
-                        <p>This book constitutes three challenges that were held in conjunction with the 24th International Conference on Medical Image Computing and Computer-Assisted Intervention, MICCAI 2021, which was planned to take place in Strasbourg, France but changed to an online event due to the COVID-19 pandemic. </p>
+                        The eight-volume set LNCS 12901, 12902, 12903, 12904, 12905, 12906, 12907, and 12908 constitutes the refereed proceedings of the 24th International Conference on Medical Image Computing and Computer-Assisted Intervention, MICCAI 2021, held in Strasbourg, France, in September/October 2021.*<p>The 531 revised full papers presented were carefully reviewed and selected from 1630 submissions in a double-blind review process. The papers are organized in the following topical sections:</p>
 
-<p>The peer-reviewed 18 long and 9 short papers included in this volume stem from the following three biomedical image analysis challenges:<br></p>
+<p>Part I: image segmentation</p>
 
-<p></p><ul><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mitosis Domain Generalization Challenge (MIDOG 2021), </li><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Medical Out-of-Distribution Analysis Challenge (MOOD 2021), and </li><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Learn2Reg (L2R 2021). </li></ul><p></p>
+<p>Part II: machine learning - self-supervised learning; machine learning - semi-supervised learning; and machine learning - weakly supervised learning</p>
 
+<p>Part III: machine learning - advances in machine learning theory; machine learning - attention models; machine learning - domain adaptation; machine learning - federated learning; machine learning - interpretability / explainability; and machine learning - uncertainty</p>
 
+<p>Part IV: image registration; image-guided interventions and surgery; surgical data science; surgical planning and simulation; surgical skill and work flow analysis; and surgical visualization and mixed, augmented and virtual reality</p>
 
+<p>Part V: computer aided diagnosis; integration of imaging with non-imaging biomarkers; and outcome/disease prediction</p>
 
+<p>Part VI: image reconstruction; clinical applications - cardiac; and clinical applications - vascular</p>
 
-<p>The challenges share the need for developing and fairly evaluating algorithms that increase accuracy, reproducibility and efficiency of automated image analysis in clinically relevant applications.</p><br>
+<p>Part VII: clinical applications - abdomen; clinical applications - breast; clinical applications - dermatology; clinical applications - fetal imaging; clinical applications - lung; clinical applications - neuroimaging - brain development; clinical applications - neuroimaging - DWI and tractography; clinical applications - neuroimaging - functional brain networks; clinical applications - neuroimaging – others; and clinical applications - oncology</p>
+
+<p>Part VIII: clinical applications - ophthalmology; computational (integrative) pathology; modalities - microscopy; modalities - histopathology; and modalities - ultrasound</p><p></p><p>*The conference was held virtually.</p><p></p>
                     </div>
                     
     <div class="u-display-flex u-justify-content-space-between u-align-items-baseline u-flex-wrap u-mt-24">
@@ -2038,7 +2217,7 @@
             <div class="c-box c-box--shadowed u-mb-24">
                 <h2 class="c-box__heading u-mb-0" id="keywords">Keywords</h2>
                 <div class="c-book-section">
-                    <ul class="c-article-subject-list u-mb-0"><li class="c-article-subject-list__subject"><span>anomaly localization</span></li><li class="c-article-subject-list__subject"><span>artificial intelligence</span></li><li class="c-article-subject-list__subject"><span>computer vision</span></li><li class="c-article-subject-list__subject"><span>domain shift and generalization </span></li><li class="c-article-subject-list__subject"><span>image analysis</span></li><li class="c-article-subject-list__subject"><span>image processing</span></li><li class="c-article-subject-list__subject"><span>image quality</span></li><li class="c-article-subject-list__subject"><span>image reconstruction</span></li><li class="c-article-subject-list__subject"><span>image segmentation</span></li><li class="c-article-subject-list__subject"><span>machine learning</span></li><li class="c-article-subject-list__subject"><span>multi-modality</span></li><li class="c-article-subject-list__subject"><span>neural networks</span></li><li class="c-article-subject-list__subject"><span>object detection</span></li><li class="c-article-subject-list__subject"><span>optimisation</span></li><li class="c-article-subject-list__subject"><span>pattern recognition</span></li><li class="c-article-subject-list__subject"><span>self-supervised learning</span></li><li class="c-article-subject-list__subject"><span>signal detection</span></li><li class="c-article-subject-list__subject"><span>signal processing</span></li><li class="c-article-subject-list__subject"><span>tumor diagnosis and mitosis detection</span></li><li class="c-article-subject-list__subject"><span>unsupervised learning</span></li></ul>
+                    <ul class="c-article-subject-list u-mb-0"><li class="c-article-subject-list__subject"><span>artificial intelligence</span></li><li class="c-article-subject-list__subject"><span>color image processing</span></li><li class="c-article-subject-list__subject"><span>computer aided diagnosis</span></li><li class="c-article-subject-list__subject"><span>computer assisted interventions</span></li><li class="c-article-subject-list__subject"><span>computer vision</span></li><li class="c-article-subject-list__subject"><span>deep learning</span></li><li class="c-article-subject-list__subject"><span>image matching</span></li><li class="c-article-subject-list__subject"><span>image processing</span></li><li class="c-article-subject-list__subject"><span>image quality</span></li><li class="c-article-subject-list__subject"><span>image reconstruction</span></li><li class="c-article-subject-list__subject"><span>image segmentation</span></li><li class="c-article-subject-list__subject"><span>machine learning</span></li><li class="c-article-subject-list__subject"><span>medical image analysis</span></li><li class="c-article-subject-list__subject"><span>medical images</span></li><li class="c-article-subject-list__subject"><span>neural networks</span></li><li class="c-article-subject-list__subject"><span>pattern recognition</span></li><li class="c-article-subject-list__subject"><span>reference image</span></li><li class="c-article-subject-list__subject"><span>signal processing</span></li></ul>
                 </div>
                 
     <div class="u-display-flex u-justify-content-space-between u-align-items-baseline u-flex-wrap u-mt-24">
@@ -2068,12 +2247,12 @@
                                 <li class="u-pb-8">
                                     
                                     <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
-                                        Technische Hochschule Ingolstadt, Ingolstadt, Germany
+                                        Erasmus MC - University Medical Center Rotterdam, Rotterdam, The Netherlands
                                     </h3>
                                     
                                     <p class="u-text-md">
                                         
-                                            Marc Aubreville
+                                            Marleen de Bruijne
                                         
                                     </p>
                                 </li>
@@ -2083,12 +2262,12 @@
                                 <li class="u-pb-8">
                                     
                                     <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
-                                        German Cancer Research Center (DKFZ), Heidelberg, Germany
+                                        University of Basel, Allschwil, Switzerland
                                     </h3>
                                     
                                     <p class="u-text-md">
                                         
-                                            David Zimmerer
+                                            Philippe C. Cattin
                                         
                                     </p>
                                 </li>
@@ -2098,12 +2277,59 @@
                                 <li class="u-pb-8">
                                     
                                     <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
-                                        Universität zu Lübeck, Lübeck, Germany
+                                        Inria Nancy Grand Est, Villers-lès-Nancy, France
                                     </h3>
                                     
                                     <p class="u-text-md">
                                         
-                                            Mattias Heinrich
+                                            Stéphane Cotin
+                                        
+                                    </p>
+                                </li>
+                            
+                        
+                            
+                                <li class="u-pb-8">
+                                    
+                                    <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
+                                        ICube, Université de Strasbourg, CNRS, Strasbourg, France
+                                    </h3>
+                                    
+                                    <p class="u-text-md">
+                                        
+                                            Nicolas Padoy, 
+                                        
+                                            Caroline Essert
+                                        
+                                    </p>
+                                </li>
+                            
+                        
+                            
+                                <li class="u-pb-8">
+                                    
+                                    <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
+                                        National Center for Tumor Diseases (NCT/UCC), Dresden, Germany
+                                    </h3>
+                                    
+                                    <p class="u-text-md">
+                                        
+                                            Stefanie Speidel
+                                        
+                                    </p>
+                                </li>
+                            
+                        
+                            
+                                <li class="u-pb-8">
+                                    
+                                    <h3 class="u-ma-0 u-sans-serif u-text-md u-text-bold">
+                                        Tencent Jarvis Lab, Shenzhen, China
+                                    </h3>
+                                    
+                                    <p class="u-text-md">
+                                        
+                                            Yefeng Zheng
                                         
                                     </p>
                                 </li>
@@ -2134,36 +2360,36 @@
             <div class="c-bibliographic-information u-pt-8">
                 <div class="c-bibliographic-information__column">
                     <ul class="c-bibliographic-information__list">
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Book Title</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis</span></p></li>
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Book Subtitle</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">MICCAI 2021 Challenges: MIDOG 2021, MOOD 2021, and Learn2Reg 2021, Held in Conjunction with MICCAI 2021, Strasbourg, France, September 27–October 1, 2021, Proceedings</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Book Title</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">Medical Image Computing and Computer Assisted Intervention – MICCAI 2021</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Book Subtitle</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">24th International Conference, Strasbourg, France, September 27 – October 1, 2021, Proceedings, Part VIII</span></p></li>
                         
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Editors</span><span class="u-hide">: </span><span class="c-bibliographic-information__value" data-component="book-contributor-list" data-list-type="editors">Marc Aubreville, David Zimmerer, Mattias Heinrich</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Editors</span><span class="u-hide">: </span><span class="c-bibliographic-information__value" data-component="book-contributor-list" data-list-type="editors">Marleen de Bruijne, Philippe C. Cattin, Stéphane Cotin, Nicolas Padoy, Stefanie Speidel, Yefeng Zheng, Caroline Essert</span></p></li>
                         
                         <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Series Title</span><span class="u-hide">: </span>
                             <span class="c-bibliographic-information__value">
                                     <a href="https://www-springer-com.ep.ituproxy.kb.dk/series/558">Lecture Notes in Computer Science</a>
                             </span></p></li>
                         
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">DOI</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">https://doi-org.ep.ituproxy.kb.dk/10.1007/978-3-030-97281-3</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">DOI</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">https://doi-org.ep.ituproxy.kb.dk/10.1007/978-3-030-87237-3</span></p></li>
                         <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Publisher</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">Springer Cham</span></p></li>
                         
                             
                                 <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">eBook Packages</span><span class="u-hide">: </span>
                                 <span class="c-bibliographic-information__value">
-                                    <a href="/search?facet-content-type=%22Book%22&package=11645&facet-start-year=2022&facet-end-year=2022">Computer Science</a><span>, </span><a href="/search?facet-content-type=%22Book%22&package=43710&facet-start-year=2022&facet-end-year=2022">Computer Science (R0)</a>
+                                    <a href="/search?facet-content-type=%22Book%22&package=11645&facet-start-year=2021&facet-end-year=2021">Computer Science</a><span>, </span><a href="/search?facet-content-type=%22Book%22&package=43710&facet-start-year=2021&facet-end-year=2021">Computer Science (R0)</a>
                                 </span></p></li>
                             
                         
                         
-                            <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Copyright Information</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">Springer Nature Switzerland AG 2022</span></p></li>
+                            <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Copyright Information</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">Springer Nature Switzerland AG 2021</span></p></li>
                         
                         
 
                         
                             
-                            <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Softcover ISBN</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">978-3-030-97280-6</span></p></li>
+                            <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Softcover ISBN</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">978-3-030-87236-6</span></p></li>
                         
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">eBook ISBN</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">978-3-030-97281-3</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">eBook ISBN</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">978-3-030-87237-3</span></p></li>
                         
                             <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Series ISSN</span><span class="u-hide">: </span>
                                 <span class="c-bibliographic-information__value"> 0302-9743 </span></p></li>
@@ -2174,12 +2400,12 @@
                         
                         <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Edition Number</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">1</span></p></li>
 
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Number of Pages</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">IX, 194</span></p></li>
-                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Number of Illustrations</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">17 b/w illustrations, 51 illustrations in colour</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Number of Pages</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">XXXVIII, 704</span></p></li>
+                        <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Number of Illustrations</span><span class="u-hide">: </span><span class="c-bibliographic-information__value">14 b/w illustrations, 213 illustrations in colour</span></p></li>
                         
                         <li class="c-bibliographic-information__list-item"><p><span class="u-text-bold">Topics</span><span class="u-hide">: </span>
                             <span class="c-bibliographic-information__value">
-                                <a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Computer Imaging, Vision, Pattern Recognition and Graphics&amp;facet-content-type=Book">Computer Imaging, Vision, Pattern Recognition and Graphics</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Computing Milieux&amp;facet-content-type=Book">Computing Milieux</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Computer and Information Systems Applications&amp;facet-content-type=Book">Computer and Information Systems Applications</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Machine Learning&amp;facet-content-type=Book">Machine Learning</a>
+                                <a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Computer Vision&amp;facet-content-type=Book">Computer Vision</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Artificial Intelligence&amp;facet-content-type=Book">Artificial Intelligence</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Automated Pattern Recognition&amp;facet-content-type=Book">Automated Pattern Recognition</a><span>, </span><a href="https://link-springer-com.ep.ituproxy.kb.dk/search?facet-sub-discipline=Health Informatics&amp;facet-content-type=Book">Health Informatics</a>
                             </span></p></li>
                         
                         
@@ -2225,7 +2451,7 @@
     <div class="c-pdf-container">
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-97281-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/content/pdf/10.1007/978-3-030-87237-3.pdf" rel="noopener" class="u-button u-button--full-width u-button--primary u-justify-content-space-between c-pdf-download__link" data-book-pdf="true" data-test="pdf-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - pdf">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book PDF</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -2236,7 +2462,7 @@
             
             
                 <div class="c-pdf-download u-clear-both">
-                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-97281-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
+                    <a href="https://link-springer-com.ep.ituproxy.kb.dk/download/epub/10.1007/978-3-030-87237-3.epub" rel="noopener" class="u-button u-button--full-width u-justify-content-space-between c-pdf-download__link" data-book-epub="true" data-test="epub-link"
                         data-track="click" data-track-label="link" data-track-action="Book download - ePub">
                         <span class="c-pdf-download__text"><span class="u-sticky-visually-hidden">Download</span> book EPUB</span>
                         <svg aria-hidden="true" focusable="false" width="16" height="16" class="u-icon">
@@ -2260,19 +2486,19 @@
      <div class="dl buying-option-price-campaign ">
       <div class="buying-option-price"><span class="dt">
         <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M11.782 11L9.3 8.518c-.393-.392-.4-1.022-.02-1.403a1.001 1.001 0 011.417 0l4.176 4.177a1.001 1.001 0 010 1.416l-4.176 4.177a.991.991 0 01-1.4.016 1 1 0 01.003-1.42L11.782 13l1.013-.998L11.782 11z" fill="#666" fill-rule="evenodd"></path>
-        </svg><span>Softcover Book</span></span> <span class="dd price-amount"> EUR&nbsp;62.49 </span>
+        </svg><span>Softcover Book</span></span> <span class="dd price-amount"> EUR&nbsp;122.49 </span>
       </div>
       <div class="dd price-info"><span> <span class="vat-info">Price includes VAT (Denmark)</span> </span>
       </div>
      </div>
-     <form class="buying-option-form" action="https://order-springer-com.ep.ituproxy.kb.dk/public/cart" method="post"><input type="hidden" name="type" value="book"> <input type="hidden" name="doi" value="10.1007/978-3-030-97281-3"> <input type="hidden" name="isxn" value="978-3-030-97280-6"> <input type="hidden" name="contenttitle" value="Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis">
+     <form class="buying-option-form" action="https://order-springer-com.ep.ituproxy.kb.dk/public/cart" method="post"><input type="hidden" name="type" value="book"> <input type="hidden" name="doi" value="10.1007/978-3-030-87237-3"> <input type="hidden" name="isxn" value="978-3-030-87236-6"> <input type="hidden" name="contenttitle" value="Medical Image Computing and Computer Assisted Intervention – MICCAI 2021">
       <ul class="buying-option-usps">
-       <li>ISBN: 978-3-030-97280-6</li>
+       <li>ISBN: 978-3-030-87236-6</li>
        <li>Dispatched in 3 to 5 business days</li>
        <li>Exclusive offer for individuals only</li>
        <li>Free shipping worldwide<br><a href="https://support.springernature.com/en/support/solutions/articles/6000233448-coronavirus-disease-covid-19-delivery-information" target="_blank">Shipping restrictions may apply, check to see if you are impacted</a>.</li>
        <li>Tax calculation will be finalised during checkout</li>
-      </ul> <button type="submit" class="buybox__buy-button c-button c-button--blue" value="Submit" data-track="click" data-track-label="buy softcover" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis&quot;,&quot;id&quot;:&quot;978-3-030-97280-6&quot;,&quot;price&quot;:49.99,&quot;brand&quot;:&quot;Springer International Publishing&quot;,&quot;category&quot;:&quot;Computer Imaging, Vision, Pattern Recognition and Graphics&quot;,&quot;variant&quot;:&quot;print&quot;,&quot;quantity&quot;:1}]}}});">Buy Softcover Book</button>
+      </ul> <button type="submit" class="buybox__buy-button c-button c-button--blue" value="Submit" data-track="click" data-track-label="buy softcover" onclick="dataLayer.push({&quot;event&quot;:&quot;addToCart&quot;,&quot;ecommerce&quot;:{&quot;currencyCode&quot;:&quot;EUR&quot;,&quot;add&quot;:{&quot;products&quot;:[{&quot;name&quot;:&quot;Medical Image Computing and Computer Assisted Intervention – MICCAI 2021&quot;,&quot;id&quot;:&quot;978-3-030-87236-6&quot;,&quot;price&quot;:97.99,&quot;brand&quot;:&quot;Springer International Publishing&quot;,&quot;category&quot;:&quot;Image Processing and Computer Vision&quot;,&quot;variant&quot;:&quot;print&quot;,&quot;quantity&quot;:1}]}}});">Buy Softcover Book</button>
      </form>
     </div>
    </div>
@@ -2755,11 +2981,11 @@
            "ecommerce": {
              "currency": "EUR",
              "impressions": [{
-  "name" : "Biomedical Image Registration, Domain Generalisation and Out-of-Distribution Analysis",
-  "id" : "978-3-030-97280-6",
-  "price" : 49.99,
+  "name" : "Medical Image Computing and Computer Assisted Intervention – MICCAI 2021",
+  "id" : "978-3-030-87236-6",
+  "price" : 97.99,
   "brand" : "Springer International Publishing",
-  "category" : "Computer Imaging, Vision, Pattern Recognition and Graphics",
+  "category" : "Image Processing and Computer Vision",
   "variant" : "print",
   "quantity" : 1
 }]

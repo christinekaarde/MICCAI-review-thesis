@@ -315,7 +315,7 @@
                 <a
                     data-test="login-link"
                     class="c-header__link"
-                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87237-3"
+                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87237-3%3Fpage%3D3"
                     data-track="click"
                     data-track-category="header"
                     data-track-action="login header"
@@ -1397,27 +1397,27 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <span class="c-pagination__link c-pagination__link--disabled" data-test="previous-page-disabled">
-                <svg class="c-icon c-pagination__icon" aria-hidden="true">
-                    <use xlink:href="#icon-springer-arrow-left"></use>
-                </svg>
-                <span>&nbsp Previous <span class="u-visually-hidden">page</span></span>
-            </span>
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=2#toc" data-test="previous-page">
+            <svg class="c-icon c-pagination__icon" aria-hidden="true">
+                <use xlink:href="#icon-springer-arrow-left"></use>
+            </svg>
+            <span>&nbsp; Previous <span class="u-visually-hidden">page</span></span>
+            </a>
         </li>
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="1">1</span></span>
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="3">3</span></span>
                 <form action="/book/10.1007/978-3-030-87237-3#toc" method="GET">
                     <label for="pagination-1-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="4" id="pagination-1-page-number" name="page" class="c-pagination__input" value="1" required />
+                    <input type="number" min="1" max="4" id="pagination-1-page-number" name="page" class="c-pagination__input" value="3" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
                 <span>&nbsp; of 4</span>
             </div>
         </li>
     <li class="c-pagination__item">
-        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=2#toc" data-test="next-page">
+        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=4#toc" data-test="next-page">
         <span>Next <span class="u-visually-hidden">page</span>&nbsp;</span>
         <svg class="c-icon c-pagination__icon" aria-hidden="true">
             <use xlink:href="#icon-springer-arrow-right"></use>
@@ -1429,44 +1429,10 @@
 </nav>
                         <section data-title="book-toc" class="app-book-toc u-pb-16 u-pt-0">
                             <ol class="c-list-group c-list-group--bordered">
-                                        
-                
-
-
-
-
-
-<li class="c-card c-list-group__item c-card--flush u-pa-16 u-pl-0
-" data-test="chapter">
-    <div class="c-card__body u-display-flex u-justify-content-space-between">
-        <div>
-                <h3 class="c-card__title" data-test="front-matter">Front Matter</h3>
-            
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages i-xxxviii</span>
-            </div>
-        </div>
-            
-    <div class="u-flex-static u-pl-16">
-        <a data-test="front-matter-pdf"
-           data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
-           href="/content/pdf/bfm%3A978-3-030-87237-3%2F1" class="c-card__link--no-block-link">PDF
-            <svg aria-hidden="true" focusable="false" width="16"
-                 height="16"
-                 class="u-icon u-vertical-align-middle">
-                <use xlink:href="#global-icon-download"></use>
-            </svg>
-        </a>
-    </div>
-
-        
-
-    </div>
-</li>
-    
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Clinical Applications - Ophthalmology</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-0 " data-title="part-title" style="border-top: none">Modalities - Microscopy</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1479,16 +1445,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                <h4 class="c-card__title" data-test="front-matter">Front Matter</h4>
+                            <h4 class="c-card__title" data-test="chapter-title-Cell Detection in Domain Shift Problem Using Pseudo-Cell-Position Heatmap">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_37"
+    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
+>Cell Detection in Domain Shift Problem Using Pseudo-Cell-Position Heatmap</a>
+                            </h4>
+                        
+                    
             
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 1-1</span>
+                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
+                    <li class="c-author-list__item">Hyeonwoo Cho, Kazuya Nishimura, Kazuhide Watanabe, Ryoma Bise</li>
+                </ul>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 384-394</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
-        <a data-test="front-matter-pdf"
-           data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
-           href="/content/pdf/bfm%3A978-3-030-87237-3%2F1%2F1" class="c-card__link--no-block-link">PDF
+        <a data-test="chapter-pdf"
+           data-track="click" data-track-action="Pdf download" data-track-label="link"
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_37" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1511,25 +1486,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Relational Subsets Knowledge Distillation for Long-Tailed Retinal Diseases Recognition">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_1"
+                            <h4 class="c-card__title" data-test="chapter-title-2D Histology Meets 3D Topology: Cytoarchitectonic Brain Mapping with Graph Neural Networks">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_38"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Relational Subsets Knowledge Distillation for Long-Tailed Retinal Diseases Recognition</a>
+>2D Histology Meets 3D Topology: Cytoarchitectonic Brain Mapping with Graph Neural Networks</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Lie Ju, Xin Wang, Lin Wang, Tongliang Liu, Xin Zhao, Tom Drummond et al.</li>
+                    <li class="c-author-list__item">Christian Schiffer, Stefan Harmeling, Katrin Amunts, Timo Dickscheid</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 3-12</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 395-404</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_1" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_38" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1552,25 +1527,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_2"
+                            <h4 class="c-card__title" data-test="chapter-title-Annotation-Efficient Cell Counting">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_39"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography</a>
+>Annotation-Efficient Cell Counting</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Shuai Yu, Yonghuai Liu, Jiong Zhang, Jianyang Xie, Yalin Zheng, Jiang Liu et al.</li>
+                    <li class="c-author-list__item">Zuhui Wang, Zhaozheng Yin</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 13-23</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 405-414</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_2" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_39" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1593,25 +1568,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Distinguishing Differences Matters: Focal Contrastive Network for Peripheral Anterior Synechiae Recognition">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_3"
+                            <h4 class="c-card__title" data-test="chapter-title-A Deep Learning Bidirectional Temporal Tracking Algorithm for Automated Blood Cell Counting from Non-invasive Capillaroscopy Videos">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_40"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Distinguishing Differences Matters: Focal Contrastive Network for Peripheral Anterior Synechiae Recognition</a>
+>A Deep Learning Bidirectional Temporal Tracking Algorithm for Automated Blood Cell Counting from Non-invasive Capillaroscopy Videos</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Yifan Yang, Huihui Fang, Qing Du, Fei Li, Xiulan Zhang, Mingkui Tan et al.</li>
+                    <li class="c-author-list__item">Luojie Huang, Gregory N. McKay, Nicholas J. Durr</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 24-33</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 415-424</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_3" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_40" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1634,25 +1609,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_4"
+                            <h4 class="c-card__title" data-test="chapter-title-Cell Detection from Imperfect Annotation by Pseudo Label Selection Using P-classification">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_41"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs Using a Novel Multi-scale Generative Adversarial Network</a>
+>Cell Detection from Imperfect Annotation by Pseudo Label Selection Using P-classification</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Sharif Amit Kamran, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Kenton M. Sanders, Salah A. Baker</li>
+                    <li class="c-author-list__item">Kazuma Fujii, Daiki Suehiro, Kazuya Nishimura, Ryoma Bise</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 34-44</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 425-434</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_4" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_41" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1675,25 +1650,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_5"
+                            <h4 class="c-card__title" data-test="chapter-title-Learning Neuron Stitching for Connectomics">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_42"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification</a>
+>Learning Neuron Stitching for Connectomics</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He et al.</li>
+                    <li class="c-author-list__item">Xiaoyu Liu, Yueyi Zhang, Zhiwei Xiong, Chang Chen, Wei Huang, Xuejin Chen et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 45-54</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 435-444</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_5" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_42" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1716,25 +1691,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Local-Global Dual Perception Based Deep Multiple Instance Learning for Retinal Disease Classification">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_6"
+                            <h4 class="c-card__title" data-test="chapter-title-CA2.5-Net Nuclei Segmentation Framework with a Microscopy Cell Benchmark Collection">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_43"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Local-Global Dual Perception Based Deep Multiple Instance Learning for Retinal Disease Classification</a>
+>CA2.5-Net Nuclei Segmentation Framework with a Microscopy Cell Benchmark Collection</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Qi Bi, Shuang Yu, Wei Ji, Cheng Bian, Lijun Gong, Hanruo Liu et al.</li>
+                    <li class="c-author-list__item">Jinghan Huang, Yiqing Shen, Dinggang Shen, Jing Ke</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 55-64</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 445-454</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_6" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_43" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1757,25 +1732,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-BSDA-Net: A Boundary Shape and Distance Aware Joint Learning Framework for Segmenting and Classifying OCTA Images">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_7"
+                            <h4 class="c-card__title" data-test="chapter-title-Automated Malaria Cells Detection from Blood Smears Under Severe Class Imbalance via Importance-Aware Balanced Group Softmax">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_44"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->BSDA-Net: A Boundary Shape and Distance Aware Joint Learning Framework for Segmenting and Classifying OCTA Images</a>
+>Automated Malaria Cells Detection from Blood Smears Under Severe Class Imbalance via Importance-Aware Balanced Group Softmax</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Li Lin, Zhonghua Wang, Jiewei Wu, Yijin Huang, Junyan Lyu, Pujin Cheng et al.</li>
+                    <li class="c-author-list__item">Canfeng Lin, Huisi Wu, Zhenkun Wen, Jing Qin</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 65-75</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 455-465</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_7" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_44" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1798,25 +1773,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-LensID: A CNN-RNN-Based Framework Towards Lens Irregularity Detection in Cataract Surgery Videos">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_8"
+                            <h4 class="c-card__title" data-test="chapter-title-Non-parametric Vignetting Correction for Sparse Spatial Transcriptomics Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_45"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->LensID: A CNN-RNN-Based Framework Towards Lens Irregularity Detection in Cataract Surgery Videos</a>
+>Non-parametric Vignetting Correction for Sparse Spatial Transcriptomics Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Negin Ghamsarian, Mario Taschwer, Doris Putzgruber-Adamitsch, Stephanie Sarny, Yosuf El-Shabrawi, Klaus Schoeffmann</li>
+                    <li class="c-author-list__item">Bovey Y. Rao, Alexis M. Peterson, Elena K. Kandror, Stephanie Herrlinger, Attila Losonczy, Liam Paninski et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 76-86</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 466-475</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_8" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_45" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1839,25 +1814,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_9"
+                            <h4 class="c-card__title" data-test="chapter-title-Multi-StyleGAN: Towards Image-Based Simulation of Time-Lapse Live-Cell Microscopy">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_46"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining</a>
+>Multi-StyleGAN: Towards Image-Based Simulation of Time-Lapse Live-Cell Microscopy</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Pujin Cheng, Li Lin, Yijin Huang, Junyan Lyu, Xiaoying Tang</li>
+                    <li class="c-author-list__item">Christoph Reich, Tim Prangemeier, Christian Wildner, Heinz Koeppl</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 87-96</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 476-486</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_9" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_46" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1880,66 +1855,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Few-Shot Transfer Learning for Hereditary Retinal Diseases Recognition">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_10"
+                            <h4 class="c-card__title" data-test="chapter-title-Deep Reinforcement Exemplar Learning for Annotation Refinement">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_47"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Few-Shot Transfer Learning for Hereditary Retinal Diseases Recognition</a>
+>Deep Reinforcement Exemplar Learning for Annotation Refinement</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Siwei Mai, Qian Li, Qi Zhao, Mingchen Gao</li>
+                    <li class="c-author-list__item">Yuexiang Li, Nanjun He, Sixiang Peng, Kai Ma, Yefeng Zheng</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 97-107</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 487-496</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_10" class="c-card__link--no-block-link">PDF
-            <svg aria-hidden="true" focusable="false" width="16"
-                 height="16"
-                 class="u-icon u-vertical-align-middle">
-                <use xlink:href="#global-icon-download"></use>
-            </svg>
-        </a>
-    </div>
-
-        
-
-    </div>
-</li>
-                
-
-
-
-
-
-<li class="c-card c-list-group__item c-card--flush u-pa-16
-" data-test="chapter">
-    <div class="c-card__body u-display-flex u-justify-content-space-between">
-        <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_11"
-    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Simultaneous Alignment and Surface Regression Using Hybrid 2D-3D Networks for 3D Coherent Layer Segmentation of Retina OCT Images</a>
-                            </h4>
-                        
-                    
-            
-                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Hong Liu, Dong Wei, Donghuan Lu, Yuexiang Li, Kai Ma, Liansheng Wang et al.</li>
-                </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 108-118</span>
-            </div>
-        </div>
-            
-    <div class="u-flex-static u-pl-16">
-        <a data-test="chapter-pdf"
-           data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_11" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_47" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1961,7 +1895,7 @@
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Computational (Integrative) Pathology</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Modalities - Histopathology</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1976,14 +1910,14 @@
         <div>
                 <h4 class="c-card__title" data-test="front-matter">Front Matter</h4>
             
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 119-119</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 497-497</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="front-matter-pdf"
            data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
-           href="/content/pdf/bfm%3A978-3-030-87237-3%2F2%2F1" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/bfm%3A978-3-030-87237-3%2F4%2F1" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2006,25 +1940,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-GQ-GCN: Group Quadratic Graph Convolutional Network for Classification of Histopathological Images">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_12"
+                            <h4 class="c-card__title" data-test="chapter-title-Instance-Aware Feature Alignment for Cross-Domain Cell Nuclei Detection in Histopathology Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_48"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->GQ-GCN: Group Quadratic Graph Convolutional Network for Classification of Histopathological Images</a>
+>Instance-Aware Feature Alignment for Cross-Domain Cell Nuclei Detection in Histopathology Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Zhiyang Gao, Jun Shi, Jun Wang</li>
+                    <li class="c-author-list__item">Zhi Wang, Xiaoya Zhu, Lei Su, Gang Meng, Junsheng Zhang, Ao Li et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 121-131</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 499-508</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_12" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_48" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2047,25 +1981,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Nuclei Grading of Clear Cell Renal Cell Carcinoma in Histopathological Image by Composite High-Resolution Network">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_13"
+                            <h4 class="c-card__title" data-test="chapter-title-Positive-Unlabeled Learning for Cell Detection in Histopathology Images with Incomplete Annotations">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_49"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Nuclei Grading of Clear Cell Renal Cell Carcinoma in Histopathological Image by Composite High-Resolution Network</a>
+>Positive-Unlabeled Learning for Cell Detection in Histopathology Images with Incomplete Annotations</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Zeyu Gao, Jiangbo Shi, Xianli Zhang, Yang Li, Haichuan Zhang, Jialun Wu et al.</li>
+                    <li class="c-author-list__item">Zipei Zhao, Fengqian Pang, Zhiwen Liu, Chuyang Ye</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 132-142</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 509-518</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_13" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_49" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2088,25 +2022,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Prototypical Models for Classifying High-Risk Atypical Breast Lesions">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_14"
+                            <h4 class="c-card__title" data-test="chapter-title-GloFlow: Whole Slide Image Stitching from Video Using Optical Flow and Global Image Alignment">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_50"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Prototypical Models for Classifying High-Risk Atypical Breast Lesions</a>
+>GloFlow: Whole Slide Image Stitching from Video Using Optical Flow and Global Image Alignment</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Akash Parvatikar, Om Choudhary, Arvind Ramanathan, Rebekah Jenkins, Olga Navolotskaia, Gloria Carter et al.</li>
+                    <li class="c-author-list__item">Viswesh Krishna, Anirudh Joshi, Damir Vrabac, Philip Bulterys, Eric Yang, Sebastian Fernandez-Pol et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 143-152</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 519-528</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_14" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_50" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2129,25 +2063,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Hierarchical Attention Guided Framework for Multi-resolution Collaborative Whole Slide Image Segmentation">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_15"
+                            <h4 class="c-card__title" data-test="chapter-title-Multi-modal Multi-instance Learning Using Weakly Correlated Histopathological Images and Tabular Clinical Information">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_51"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Hierarchical Attention Guided Framework for Multi-resolution Collaborative Whole Slide Image Segmentation</a>
+>Multi-modal Multi-instance Learning Using Weakly Correlated Histopathological Images and Tabular Clinical Information</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Jiangpeng Yan, Hanbo Chen, Kang Wang, Yan Ji, Yuyao Zhu, Jingjing Li et al.</li>
+                    <li class="c-author-list__item">Hang Li, Fan Yang, Xiaohan Xing, Yu Zhao, Jun Zhang, Yueping Liu et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 153-163</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 529-539</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_15" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_51" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2170,25 +2104,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Hierarchical Phenotyping and Graph Modeling of Spatial Architecture in Lymphoid Neoplasms">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_16"
+                            <h4 class="c-card__title" data-test="chapter-title-Ranking Loss: A Ranking-Based Deep Neural Network for Colorectal Cancer Grading in Pathology Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_52"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Hierarchical Phenotyping and Graph Modeling of Spatial Architecture in Lymphoid Neoplasms</a>
+>Ranking Loss: A Ranking-Based Deep Neural Network for Colorectal Cancer Grading in Pathology Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Pingjun Chen, Muhammad Aminu, Siba El Hussein, Joseph D. Khoury, Jia Wu</li>
+                    <li class="c-author-list__item">Trinh Thi Le Vuong, Kyungeun Kim, Boram Song, Jin Tae Kwak</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 164-174</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 540-549</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_16" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_52" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2211,25 +2145,107 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-A Computational Geometry Approach for Modeling Neuronal Fiber Pathways">
-                                <a href="/chapter/10.1007/978-3-030-87237-3_17"
+                            <h4 class="c-card__title" data-test="chapter-title-Spatial Attention-Based Deep Learning System for Breast Cancer Pathological Complete Response Prediction with Serial Histopathology Images in Multiple Stains">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_53"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->A Computational Geometry Approach for Modeling Neuronal Fiber Pathways</a>
+>Spatial Attention-Based Deep Learning System for Breast Cancer Pathological Complete Response Prediction with Serial Histopathology Images in Multiple Stains</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">S. Shailja, Angela Zhang, B. S. Manjunath</li>
+                    <li class="c-author-list__item">Hongyi Duanmu, Shristi Bhattarai, Hongxiao Li, Chia Cheng Cheng, Fusheng Wang, George Teodoro et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 175-185</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 550-560</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87237-3_17" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_53" class="c-card__link--no-block-link">PDF
+            <svg aria-hidden="true" focusable="false" width="16"
+                 height="16"
+                 class="u-icon u-vertical-align-middle">
+                <use xlink:href="#global-icon-download"></use>
+            </svg>
+        </a>
+    </div>
+
+        
+
+    </div>
+</li>
+                
+
+
+
+
+
+<li class="c-card c-list-group__item c-card--flush u-pa-16
+" data-test="chapter">
+    <div class="c-card__body u-display-flex u-justify-content-space-between">
+        <div>
+                            <h4 class="c-card__title" data-test="chapter-title-Integration of Patch Features Through Self-supervised Learning and Transformer for Survival Analysis on Whole Slide Images">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_54"
+    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
+>Integration of Patch Features Through Self-supervised Learning and Transformer for Survival Analysis on Whole Slide Images</a>
+                            </h4>
+                        
+                    
+            
+                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
+                    <li class="c-author-list__item">Ziwang Huang, Hua Chai, Ruoqi Wang, Haitao Wang, Yuedong Yang, Hejun Wu</li>
+                </ul>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 561-570</span>
+            </div>
+        </div>
+            
+    <div class="u-flex-static u-pl-16">
+        <a data-test="chapter-pdf"
+           data-track="click" data-track-action="Pdf download" data-track-label="link"
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_54" class="c-card__link--no-block-link">PDF
+            <svg aria-hidden="true" focusable="false" width="16"
+                 height="16"
+                 class="u-icon u-vertical-align-middle">
+                <use xlink:href="#global-icon-download"></use>
+            </svg>
+        </a>
+    </div>
+
+        
+
+    </div>
+</li>
+                
+
+
+
+
+
+<li class="c-card c-list-group__item c-card--flush u-pa-16
+" data-test="chapter">
+    <div class="c-card__body u-display-flex u-justify-content-space-between">
+        <div>
+                            <h4 class="c-card__title" data-test="chapter-title-Contrastive Learning Based Stain Normalization Across Multiple Tumor in Histopathology">
+                                <a href="/chapter/10.1007/978-3-030-87237-3_55"
+    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
+>Contrastive Learning Based Stain Normalization Across Multiple Tumor in Histopathology</a>
+                            </h4>
+                        
+                    
+            
+                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
+                    <li class="c-author-list__item">Jing Ke, Yiqing Shen, Xiaoyao Liang, Dinggang Shen</li>
+                </ul>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 571-580</span>
+            </div>
+        </div>
+            
+    <div class="u-flex-static u-pl-16">
+        <a data-test="chapter-pdf"
+           data-track="click" data-track-action="Pdf download" data-track-label="link"
+           href="/content/pdf/10.1007%2F978-3-030-87237-3_55" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2254,27 +2270,27 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <span class="c-pagination__link c-pagination__link--disabled" data-test="previous-page-disabled">
-                <svg class="c-icon c-pagination__icon" aria-hidden="true">
-                    <use xlink:href="#icon-springer-arrow-left"></use>
-                </svg>
-                <span>&nbsp Previous <span class="u-visually-hidden">page</span></span>
-            </span>
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=2#toc" data-test="previous-page">
+            <svg class="c-icon c-pagination__icon" aria-hidden="true">
+                <use xlink:href="#icon-springer-arrow-left"></use>
+            </svg>
+            <span>&nbsp; Previous <span class="u-visually-hidden">page</span></span>
+            </a>
         </li>
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="1">1</span></span>
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="3">3</span></span>
                 <form action="/book/10.1007/978-3-030-87237-3#toc" method="GET">
                     <label for="pagination-2-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="4" id="pagination-2-page-number" name="page" class="c-pagination__input" value="1" required />
+                    <input type="number" min="1" max="4" id="pagination-2-page-number" name="page" class="c-pagination__input" value="3" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
                 <span>&nbsp; of 4</span>
             </div>
         </li>
     <li class="c-pagination__item">
-        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=2#toc" data-test="next-page">
+        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87237-3?page=4#toc" data-test="next-page">
         <span>Next <span class="u-visually-hidden">page</span>&nbsp;</span>
         <svg class="c-icon c-pagination__icon" aria-hidden="true">
             <use xlink:href="#icon-springer-arrow-right"></use>

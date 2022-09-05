@@ -315,7 +315,7 @@
                 <a
                     data-test="login-link"
                     class="c-header__link"
-                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87237-3"
+                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87237-3%3Fpage%3D1"
                     data-track="click"
                     data-track-category="header"
                     data-track-action="login header"
