@@ -1,0 +1,48 @@
+Domain Transfer Learning for MCI Conversion
+Prediction
+
+Bo Cheng'"*, Daogiang Zhang'"*, and Dinggang Shen?
+
+' Dept. of Computer Science and Engineering,
+Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China
+2 Dept. of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599
+{cb729,dqzhang}@nuaa.edu.cn, dgshen@med.unc.edu
+
+Abstract. In recent studies of Alzheimer’s disease (AD), it has increasing
+attentions in identifying mild cognitive impairment (MCI) converters (MCI-C)
+from MCI non-converters (MCI-NC). Note that MCI is a prodromal stage of
+AD, with possibility to convert to AD. Most traditional methods for MCI
+conversion prediction learn information only from MCI subjects (including
+MCLC and MCI-NC), not from other related subjects, ¢.g., AD and normal
+controls (NC), which can actually aid the classification between MCI-C and
+MCI-NC. In this paper, we propose a novel domain-transfer learning method
+for MCI conversion prediction. Different from most existing methods, we
+classify MCI-C and MCI-NC with aid from the domain knowledge learned with
+AD and NC subjects as auxiliary domain to further improve the classification
+performance. Our method contains two key components: (1) the cross-domain
+kernel learning for transferring auxiliary domain knowledge, and (2) the
+adapted support vector machine (SVM) decision function construction for
+cross-domain and auxiliary domain knowledge fusion. Experimental results on
+the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database show that
+the proposed method can significantly improve the classification performance
+between MCI-C and MCI-NC, with aid of domain knowledge learned from AD
+and NC subjects.
+
+1 Introduction
+
+Alzheimer’s disease (AD) is the most common form of dementia in elderly people
+worldwide. Early diagnosis of AD is very important for possible delay of the disease.
+Mild cognitive impairment (MCI) is a prodromal stage of AD, which can be further
+categorized into MCI converters (MCI-C) and MCI non-converters (MCI-NC). The
+former will convert into AD in follow-up time, while the latter will not convert. Thus,
+accurate diagnosis of MCI converters is of great importance. Nowadays, many
+machine learning methods have been proposed for the classification of AD or MCI [1-
+3]. More recently, an increasing number of studies in AD research begin to address
+MCI conversion prediction, i.e., the classification between MCI-C and MCI-NC
+based on the baseline imaging data [2-7].
+
+One challenge in MCI conversion prediction is that the number of MCI (including
+both MCI-C and MCI-NC) subjects available for training is generally very small and
+
+N. Ayache et al. (Eds.): MICCAI 2012, Part I, LNCS 7510, pp. 82-90, 2012.
+© Springer-Verlag Berlin Heidelberg 2012
