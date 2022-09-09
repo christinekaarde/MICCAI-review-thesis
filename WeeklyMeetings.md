@@ -18,31 +18,36 @@
 
 #### What helped you this week?
 
-Replace this text with a one/two sentence description of what helped you this week and how.
+Lots and lots of googling, also talking issues over with my partner (Thanks R!)
 
 #### What did you achieve?
 
 * Finished the inital dataframes 
-* Created first wave analysis
+* Cleaned up dataframes: fixed some errors with files incorrectly named, removed irrelevant erratum/corrections
+* Added classification column as first wave of analysis
 * Got an overleaf set up and added some inital comments/thoughts
+* Created abstract scanning as second wave of analysis
+* Also went to first lectures at KU about medical imaging analysis
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Lots of programming issues this week!
+* Reading txt files, wanting to split them, realising I didn't have to
+* Errors with incorrect filenames
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Finish up inital estimation of classification y/n
+* References mining of classification articles
+* Maybe beginning the google form?
 
 #### Where do you need help from Veronika?
 
-* One article too much in 2021 compared to Springer description
+* Where to go from here? Ideas on adding methodology scan? Or something else, more qualitative/reading based?
 
 #### Any other topics
 
+Not really a topic, but phew it's been a busy week!
 
 
 ### Date: 29 August 2022
