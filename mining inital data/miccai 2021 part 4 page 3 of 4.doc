@@ -50,9 +50,9 @@
 
     
         
-    <style>@media only print, only all and (prefers-color-scheme: no-preference), only all and (prefers-color-scheme: light), only all and (prefers-color-scheme: dark) { a{text-decoration:underline;text-decoration-skip-ink:auto}html{text-size-adjust:100%;-webkit-font-smoothing:subpixel-antialiased;box-sizing:border-box;color:#333;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:100%;height:100%;line-height:1.61803;overflow-y:scroll}body{background:#fcfcfc;font-size:1.125rem;line-height:1.5;max-width:100%;min-height:100%}aside,header,main,nav,section{display:block}h1{font-size:2em;margin:.67em 0}a{background-color:transparent;color:#004b83;overflow-wrap:break-word;word-break:break-word}img{border:0;height:auto;max-width:100%;vertical-align:middle}svg:not(:root){overflow:hidden}button,input{font-family:sans-serif;font-size:100%}input{line-height:1.15}button,input{overflow:visible}button{text-transform:none}[type=submit],button,html [type=button]{-webkit-appearance:button}[hidden]{display:none}button{border-radius:0;cursor:pointer;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;line-height:inherit}.app-journal-header__title,h1,h2{font-family:Georgia,Palatino,serif}h1,h2{font-weight:400}.app-journal-header__title,h1{font-style:normal}h1{font-size:2.25rem}.u-h3,h1{margin-bottom:1em}.u-h3{font-family:Georgia,Palatino,serif;font-style:normal;font-weight:400;line-height:1.4}.u-h3,h2{font-size:1.75rem}.u-h3{font-size:1.5rem}h2{font-style:normal;margin-bottom:1em}label{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}*{box-sizing:inherit}body,button,div,form,input{margin:0;padding:0}p{padding:0}h1,h2{line-height:1.4}p{margin:0}h1,h2,ol,ul{margin-top:0}p{margin-bottom:1.5em;overflow-wrap:break-word;word-break:break-word}p:last-child{margin-bottom:0}.c-ad{text-align:center}@media only screen and (min-width:320px){.c-ad{padding:8px}}.c-ad--728x90{background-color:#ccc;display:none}.c-ad--728x90 .c-ad__inner{min-height:calc(1.5em + 94px)}.c-ad--728x90 iframe{height:90px;max-width:970px}@media only screen and (min-width:768px){.js .c-ad--728x90{display:none}.js .u-show-following-ad+.c-ad--728x90{display:block}}.c-ad iframe{border:0;overflow:auto;vertical-align:top}.c-ad__label{color:#333;font-weight:400;line-height:1.5;margin-bottom:4px}.c-ad__label,.c-skip-link{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:.875rem}.c-skip-link{background:#f7fbfe;bottom:auto;color:#004b83;padding:8px;position:absolute;text-align:center;transform:translateY(-100%);z-index:9999}@media (prefers-reduced-motion:reduce){.c-skip-link{transition:top .3s ease-in-out 0s}}@media print{.c-skip-link{display:none}}.c-skip-link:link{color:#004b83}.c-pagination{align-items:center;display:flex;flex-wrap:wrap;font-size:.875rem;list-style:none;margin:0;padding:16px}@media only screen and (min-width:540px){.c-pagination{justify-content:center}}.c-pagination__item{margin-bottom:8px;margin-right:16px}.c-pagination__item:last-child{margin-right:0}.c-pagination__link{align-items:center;background-color:#f2f2f2;background-image:linear-gradient(#fff,#f2f2f2);border:1px solid #ccc;border-radius:2px;color:#004b83;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;min-width:30px;padding:8px;position:relative;text-align:center;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.c-pagination__link svg,.c-pagination__link--disabled svg{fill:currentcolor}.c-pagination__link:visited{color:#004b83}.c-pagination__link:focus,.c-pagination__link:hover{border:1px solid #666;text-decoration:none}.c-pagination__link:focus,.c-pagination__link:hover{background-color:#666;background-image:none;color:#fff}.c-pagination__link:focus svg path,.c-pagination__link:hover svg path{fill:#fff}.c-pagination__link--disabled{align-items:center;background-color:transparent;background-image:none;border-radius:2px;color:#333;cursor:default;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;opacity:.67;padding:8px;position:relative;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.c-pagination__link--disabled:visited{color:#333}.c-pagination__link--disabled,.c-pagination__link--disabled:focus,.c-pagination__link--disabled:hover{border:1px solid #ccc;text-decoration:none}.c-pagination__link--disabled:focus,.c-pagination__link--disabled:hover{background-color:transparent;background-image:none;color:#333}.c-pagination__link--disabled:focus svg path,.c-pagination__link--disabled:hover svg path{fill:#333}.c-pagination__link--active{background-color:#666;background-image:none;border-color:#666;color:#fff;cursor:default}.c-pagination__ellipsis{background:0 0;border:0;min-width:auto;padding-left:0;padding-right:0}.c-pagination__icon{fill:#999;height:12px;width:16px}.c-pagination__icon--active{fill:#004b83}.c-box{background-color:#fff;border:1px solid #ccc;border-radius:2px;line-height:1.3;padding:16px}.c-box--shadowed{box-shadow:0 0 5px 0 hsla(0,0%,50%,.1)}.c-box__item{display:block;line-height:1.4;margin-bottom:16px;text-decoration:none}.c-box__item,.c-header{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1.125rem}.c-header{background-color:#fff;border-bottom:4px solid #00285a;padding:16px 0}.c-header__container,.c-header__menu{align-items:center;display:flex;flex-wrap:wrap}@supports (gap:2em){.c-header__container,.c-header__menu{gap:2em 2em}}.c-header__menu{list-style:none;margin:0;padding:0}.c-header__item{color:inherit}@supports not (gap:2em){.c-header__item{margin-left:24px}}.c-header__container{justify-content:space-between;margin:0 auto;max-width:1280px;padding:0 16px}@supports not (gap:2em){.c-header__brand{margin-right:32px}}.c-header__brand a{display:block;text-decoration:none}.c-header__link{color:inherit;text-decoration:none}.c-popup-search{background-color:#eee;box-shadow:0 3px 3px -3px rgba(0,0,0,.21);padding:16px 0;position:relative;z-index:10}@media only screen and (min-width:1024px){.js .c-popup-search{position:absolute;top:100%;width:100%}.c-popup-search__container{margin:auto;max-width:70%}}.c-article-identifiers{color:#6f6f6f;display:flex;flex-wrap:wrap;font-size:1rem;line-height:1.3;list-style:none;margin:0 0 8px;padding:0}.c-article-identifiers__item{border-right:1px solid #6f6f6f;list-style:none;margin-right:8px;padding-right:8px}.c-article-identifiers__item:last-child{border-right:0;margin-right:0;padding-right:0}.c-article-author-list{display:inline;font-size:1rem;list-style:none;margin:0 8px 0 0;padding:0;width:100%}.c-article-author-list__item{margin-left:0}.c-article-author-list li,.c-article-author-list__item{display:inline;padding-right:0}.c-article-metrics-bar{display:flex;flex-wrap:wrap;font-size:1rem;line-height:1.3}.c-article-metrics-bar__wrapper{margin:0 0 16px}.c-article-metrics-bar__item{align-items:baseline;border-right:1px solid #6f6f6f;margin-right:8px}.c-article-metrics-bar__item:last-child{border-right:0}.c-article-metrics-bar__count{font-weight:700;margin:0}.c-article-metrics-bar__label{color:#626262;font-style:normal;font-weight:400;margin:0 10px 0 5px}.c-article-main-column{font-family:Georgia,Palatino,serif;margin-right:8.6%;width:60.2%}@media only screen and (max-width:1023px){.c-article-main-column{margin-right:0;width:100%}}.c-article-extras{float:left;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;width:31.2%}@media only screen and (max-width:1023px){.c-article-extras{display:none}}.c-article-authors-search__item,.c-article-authors-search__title{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.c-article-authors-search__title{color:#626262;font-size:1.05rem;font-weight:700;margin:0;padding:0}.c-article-authors-search__item{font-size:1rem}.c-article-authors-search__text{margin:0}.c-code-block{border:1px solid #f2f2f2;font-family:monospace;margin:0 0 24px;padding:20px}.c-code-block__heading{font-weight:400;margin-bottom:16px}.c-code-block__line{display:block;overflow-wrap:break-word;white-space:pre-wrap}.c-context-bar{box-shadow:0 0 10px 0 rgba(51,51,51,.2);position:relative;width:100%}.c-context-bar__title{display:none}.c-cod{display:block;font-size:1rem;width:100%}.c-cod__form{background:#ebf0f3}.c-cod__prompt{font-size:1.125rem;line-height:1.3;margin:0 0 24px}.c-cod__label{display:block;margin:0 0 4px}.c-cod__row{display:flex;margin:0 0 16px}.c-cod__row:last-child{margin:0}.c-cod__input{border:1px solid #d5d5d5;border-radius:2px;flex-basis:75%;flex-shrink:0;margin:0;padding:13px}.c-cod__input--submit{color:#fff;flex-shrink:1;margin-left:8px;transition:background-color .2s ease-out 0s,color .2s ease-out 0s}.c-cod__input--submit-single{flex-basis:100%;flex-shrink:0;margin:0}.c-cod__input--submit:focus,.c-cod__input--submit:hover{background-color:#fff}.c-pdf-download__link .u-icon{padding-top:2px}.save-data .c-article-author-institutional-author__sub-division,.save-data .c-article-compound-article-link,.save-data .c-article-equation__number,.save-data .c-article-figure-description,.save-data .c-article-figure-subtitle,.save-data .c-article-fullwidth-content,.save-data .c-article-main-column,.save-data .c-article-table-container,.save-data .c-article-table-subtitle,.save-data .c-blockquote__body,.save-data .c-code-block__heading,.save-data .c-reading-companion__figure-title,.save-data .c-reading-companion__reference-citation,.save-data .c-site-messages--nature-briefing-email-variant .serif,.save-data .c-site-messages--nature-briefing-email-variant.serif,.save-data .serif,.save-data .u-serif,.save-data h1,.save-data h2,.save-data h3{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.c-pdf-download{display:flex;margin-bottom:16px;max-height:48px}@media only screen and (min-width:540px){.c-pdf-download{max-height:none}}@media only screen and (min-width:1024px){.c-pdf-download{max-height:48px}}.c-pdf-download__link{display:flex;flex:1 1 0%;padding:13px 24px!important}.c-pdf-download__text{padding-right:4px}@media only screen and (max-width:539px){.c-pdf-download__text{text-transform:capitalize}}@media only screen and (min-width:540px){.c-pdf-download__text{padding-right:8px}}@media only screen and (max-width:539px){.c-pdf-download .u-sticky-visually-hidden{clip:rect(0,0,0,0);border:0;height:1px;margin:-100%;overflow:hidden;padding:0;position:absolute!important;width:1px}}.c-pdf-container{display:flex;justify-content:flex-end}@media only screen and (max-width:539px){.c-pdf-container .c-pdf-download{display:flex;flex-basis:100%}}.c-article-extras .c-pdf-container{flex-wrap:wrap;width:100%}.c-article-extras .c-pdf-container .c-pdf-download{width:100%}.app-journal-header__theme{border-top-left-radius:2px;border-top-right-radius:2px;height:50px;margin:-16px -16px 0;overflow:hidden;position:relative}@media only screen and (min-width:1024px){.app-journal-header__theme:after{background-color:hsla(0,0%,100%,.15);bottom:0;content:"";position:absolute;right:0;top:0;width:456px}}.app-journal-header__content{padding-top:16px}@media only screen and (min-width:1024px){.app-journal-header__content{display:flex}}.app-journal-header__main{display:flex;flex:1 1 auto}@media only screen and (min-width:1024px){.app-journal-header__side{flex:1 0 440px;margin-left:16px;max-width:440px;padding-left:16px}}.app-journal-header__side:not(:empty){border-top:1px solid #ccc;margin-top:16px;padding-top:16px}@media only screen and (min-width:1024px){.app-journal-header__side:not(:empty){border-left:1px solid #ccc;border-top:0;margin-top:0;padding-top:0}}.app-journal-header__cover{margin-right:16px;margin-top:-50px;position:relative;z-index:5}.app-journal-header__cover img{border:2px solid #fff;border-radius:4px;box-shadow:0 0 5px 2px hsla(0,0%,64%,.2);max-height:125px;max-width:96px}.app-journal-header__title{font-size:1.875rem;line-height:1.2;margin-bottom:0}.app-journal-header__subtitle{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1.25rem;margin-bottom:0}.app-search__content{display:flex}.app-search__label{color:#666;display:inline-block;font-size:.875rem;margin-bottom:8px}.app-search__input{border:1px solid #b3b3b3;border-bottom-left-radius:3px;border-top-left-radius:3px;box-shadow:inset 0 1px 3px 0 rgba(0,0,0,.21);flex:0 1 auto;font-size:.875rem;line-height:1.2;padding:.75em 1em;vertical-align:middle;width:100%}.app-search__button{align-items:center;background-color:#33629d;background-image:linear-gradient(#4d76a9,#33629d);border:1px solid rgba(0,59,132,.5);border-radius:0 2px 2px 0;color:#fff;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;padding:8px;position:relative;text-align:center;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:50px}.app-search__button svg,.u-button svg,.u-button--primary svg{fill:currentcolor}.u-button{align-items:center;background-color:#f2f2f2;background-image:linear-gradient(#fff,#f2f2f2);border:1px solid #ccc;border-radius:2px;color:#004b83;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;padding:8px;position:relative;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.u-button--primary{background-color:#33629d;background-image:linear-gradient(#4d76a9,#33629d);border:1px solid rgba(0,59,132,.5);color:#fff}.u-button--full-width{display:flex;width:100%}.u-clearfix:after,.u-clearfix:before{content:"";display:table}.u-clearfix:after{clear:both}.u-display-block{display:block}.u-display-flex{display:flex;width:100%}.u-align-items-center{align-items:center}.u-justify-content-space-between{justify-content:space-between}.u-flex-shrink{flex:0 1 auto}.u-flex-static{flex:0 0 auto}.js .u-js-hide{display:none;visibility:hidden}@media print{.u-hide-print{display:none}}.u-icon{fill:currentcolor;display:inline-block;height:1em;transform:translate(0);vertical-align:text-top;width:1em}.u-list-reset{list-style:none;margin:0;padding:0}.u-button-reset{background-color:transparent;border:0;padding:0}.u-text-bold{font-weight:700}.u-container{margin:0 auto;max-width:1280px;padding:0 16px}.u-position-relative{position:relative}.u-mr-24{margin-right:24px}.u-mb-8{margin-bottom:8px}.u-mb-16{margin-bottom:16px}.u-mb-24{margin-bottom:24px}.u-mb-32{margin-bottom:32px}.u-ml-8{margin-left:8px}.u-float-left{float:left}.u-hide{display:none;visibility:hidden}@media only screen and (min-width:1024px){.u-hide-at-lg{display:none;visibility:hidden}}.u-visually-hidden{clip:rect(0,0,0,0);border:0;height:1px;margin:-100%;overflow:hidden;padding:0;position:absolute!important;width:1px}.u-text-sm{font-size:1rem}.u-text-sans-serif{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.hide{display:none;visibility:hidden}.visually-hidden{clip:rect(1px,1px,1px,1px);height:1px;position:absolute!important;width:1px}.c-pagination__input{border:1px solid #bfbfbf;border-radius:2px;box-shadow:inset 0 2px 6px 0 rgba(51,51,51,.2);box-sizing:initial;display:inline-block;height:28px;margin:0;max-width:64px;min-width:16px;padding:0 8px;text-align:center;transition:width .15s ease 0s}.c-pagination__input::-webkit-inner-spin-button,.c-pagination__input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}.app-journal-header__title{font-weight:400}@media only screen and (max-width:539px){.app-journal-header__cover img{max-width:76px}}.c-book-evaluation{font-size:1rem;line-height:1.76}.c-book-evaluation-divider{border-top:1px solid #eee;margin-top:16px;padding-top:16px}.c-book-section-title{display:inline;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;font-weight:700}.c-article-main-column .c-buybox__container{display:none}@media only screen and (max-width:1023px){.c-article-main-column .c-buybox__container{display:block}}.c-button{border:1px solid #b3b3b3;border-radius:2px;cursor:pointer;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;line-height:1.6em;margin:0;padding:8px 12px;text-decoration:none;transition:background-color .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:100%}.c-button--blue{background-color:#3365a4;background-image:linear-gradient(#4d78af,#3365a4);border-color:rgba(0,63,141,.5);color:#fff}.c-header__cart-icon{margin-right:12px}.c-header__navigation{display:flex}.c-cover-image-lightbox{align-items:center;bottom:0;display:flex;justify-content:center;left:0;opacity:0;position:fixed;right:0;top:0;transition:all .15s ease-in 0s;visibility:hidden;z-index:-1}.js-cover-image-lightbox--close{cursor:pointer;position:absolute;right:50px;top:30px}@media only screen and (max-width:767px){.js-cover-image-lightbox--close{right:30px;top:20px}}.js-cover-image-lightbox--close:after,.js-cover-image-lightbox--close:before{color:#fff;content:"X";position:absolute}.c-cover-image-lightbox__image{max-height:90vh;width:auto}.c-expand-overlay-wrapper{position:relative}.c-expand-overlay{background:#fff;color:#333;opacity:.5;padding:2px;position:absolute;right:3px;top:3px} }</style>
+    <style>@media only print, only all and (prefers-color-scheme: no-preference), only all and (prefers-color-scheme: light), only all and (prefers-color-scheme: dark) { a{text-decoration:underline;text-decoration-skip-ink:auto}html{text-size-adjust:100%;-webkit-font-smoothing:subpixel-antialiased;box-sizing:border-box;color:#333;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:100%;height:100%;line-height:1.61803;overflow-y:scroll}body{background:#fcfcfc;font-size:1.125rem;line-height:1.5;max-width:100%;min-height:100%}aside,header,main,nav,section{display:block}h1{font-size:2em;margin:.67em 0}a{background-color:transparent;color:#004b83;overflow-wrap:break-word;word-break:break-word}img{border:0;height:auto;max-width:100%;vertical-align:middle}svg:not(:root){overflow:hidden}button,input{font-family:sans-serif;font-size:100%}input{line-height:1.15}button,input{overflow:visible}button{text-transform:none}[type=submit],button,html [type=button]{-webkit-appearance:button}[hidden]{display:none}button{border-radius:0;cursor:pointer;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;line-height:inherit}.c-app-header__title,h1,h2{font-family:Georgia,Palatino,serif;font-weight:400}.c-app-header__title,h1{font-style:normal}h1{font-size:2.25rem}.u-h3,h1{margin-bottom:1em}.u-h3{font-family:Georgia,Palatino,serif;font-style:normal;font-weight:400;line-height:1.4}.u-h3,h2{font-size:1.75rem}.u-h3{font-size:1.5rem}h2{font-style:normal;margin-bottom:1em}label{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}*{box-sizing:inherit}body,button,div,form,input{margin:0;padding:0}p{padding:0}h1,h2{line-height:1.4}p{margin:0}h1,h2,ol,ul{margin-top:0}p{margin-bottom:1.5em;overflow-wrap:break-word;word-break:break-word}p:last-child{margin-bottom:0}.c-app-header__theme{border-top-left-radius:2px;border-top-right-radius:2px;height:50px;margin:-16px -16px 0;overflow:hidden;position:relative}@media only screen and (min-width:1024px){.c-app-header__theme:after{background-color:hsla(0,0%,100%,.15);bottom:0;content:"";position:absolute;right:0;top:0;width:456px}}.c-app-header__content{padding-top:16px}@media only screen and (min-width:1024px){.c-app-header__content{display:flex}}.c-app-header__main{display:flex;flex:1 1 auto}@media only screen and (min-width:1024px){.c-app-header__side{flex:1 0 440px;margin-left:16px;max-width:440px;padding-left:16px}}.c-app-header__side:not(:empty){border-top:1px solid #ccc;margin-top:16px;padding-top:16px}@media only screen and (min-width:1024px){.c-app-header__side:not(:empty){border-left:1px solid #ccc;border-top:0;margin-top:0;padding-top:0}}.c-app-header__cover{margin-right:16px;margin-top:-50px;position:relative;z-index:5}.c-app-header__cover img{border:2px solid #fff;border-radius:4px;box-shadow:0 0 5px 2px hsla(0,0%,50%,.2);max-height:125px;max-width:96px}.c-app-header__title{font-size:1.875rem;line-height:1.2;margin-bottom:0}.c-app-header__subtitle{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1.25rem;margin-bottom:0}.c-ad{text-align:center}@media only screen and (min-width:320px){.c-ad{padding:8px}}.c-ad--728x90{background-color:#ccc;display:none}.c-ad--728x90 .c-ad__inner{min-height:calc(1.5em + 94px)}.c-ad--728x90 iframe{height:90px;max-width:970px}@media only screen and (min-width:768px){.js .c-ad--728x90{display:none}.js .u-show-following-ad+.c-ad--728x90{display:block}}.c-ad iframe{border:0;overflow:auto;vertical-align:top}.c-ad__label{color:#333;font-weight:400;line-height:1.5;margin-bottom:4px}.c-ad__label,.c-skip-link{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:.875rem}.c-skip-link{background:#f7fbfe;bottom:auto;color:#004b83;padding:8px;position:absolute;text-align:center;transform:translateY(-100%);z-index:9999}@media (prefers-reduced-motion:reduce){.c-skip-link{transition:top .3s ease-in-out 0s}}@media print{.c-skip-link{display:none}}.c-skip-link:link{color:#004b83}.c-pagination{align-items:center;display:flex;flex-wrap:wrap;font-size:.875rem;list-style:none;margin:0;padding:16px}@media only screen and (min-width:540px){.c-pagination{justify-content:center}}.c-pagination__item{margin-bottom:8px;margin-right:16px}.c-pagination__item:last-child{margin-right:0}.c-pagination__link{align-items:center;background-color:#f2f2f2;background-image:linear-gradient(#fff,#f2f2f2);border:1px solid #ccc;border-radius:2px;color:#004b83;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;min-width:30px;padding:8px;position:relative;text-align:center;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.c-pagination__link svg,.c-pagination__link--disabled svg{fill:currentcolor}.c-pagination__link:visited{color:#004b83}.c-pagination__link:focus,.c-pagination__link:hover{border:1px solid #666;text-decoration:none}.c-pagination__link:focus,.c-pagination__link:hover{background-color:#666;background-image:none;color:#fff}.c-pagination__link:focus svg path,.c-pagination__link:hover svg path{fill:#fff}.c-pagination__link--disabled{align-items:center;background-color:transparent;background-image:none;border-radius:2px;color:#333;cursor:default;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;opacity:.67;padding:8px;position:relative;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.c-pagination__link--disabled:visited{color:#333}.c-pagination__link--disabled,.c-pagination__link--disabled:focus,.c-pagination__link--disabled:hover{border:1px solid #ccc;text-decoration:none}.c-pagination__link--disabled:focus,.c-pagination__link--disabled:hover{background-color:transparent;background-image:none;color:#333}.c-pagination__link--disabled:focus svg path,.c-pagination__link--disabled:hover svg path{fill:#333}.c-pagination__link--active{background-color:#666;background-image:none;border-color:#666;color:#fff;cursor:default}.c-pagination__ellipsis{background:0 0;border:0;min-width:auto;padding-left:0;padding-right:0}.c-pagination__icon{fill:#999;height:12px;width:16px}.c-pagination__icon--active{fill:#004b83}.c-box{background-color:#fff;border:1px solid #ccc;border-radius:2px;line-height:1.3;padding:16px}.c-box--shadowed{box-shadow:0 0 5px 0 hsla(0,0%,50%,.1)}.c-box__item{display:block;line-height:1.4;margin-bottom:16px;text-decoration:none}.c-box__item,.c-header{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1.125rem}.c-header{background-color:#fff;border-bottom:4px solid #00285a;padding:16px 0}.c-header__container,.c-header__menu{align-items:center;display:flex;flex-wrap:wrap}@supports (gap:2em){.c-header__container,.c-header__menu{gap:2em 2em}}.c-header__menu{list-style:none;margin:0;padding:0}.c-header__item{color:inherit}@supports not (gap:2em){.c-header__item{margin-left:24px}}.c-header__container{justify-content:space-between;margin:0 auto;max-width:1280px;padding:0 16px}@supports not (gap:2em){.c-header__brand{margin-right:32px}}.c-header__brand a{display:block;text-decoration:none}.c-header__link{color:inherit;text-decoration:none}.c-popup-search{background-color:#eee;box-shadow:0 3px 3px -3px rgba(0,0,0,.21);padding:16px 0;position:relative;z-index:10}@media only screen and (min-width:1024px){.js .c-popup-search{position:absolute;top:100%;width:100%}.c-popup-search__container{margin:auto;max-width:70%}}.c-article-identifiers{color:#6f6f6f;display:flex;flex-wrap:wrap;font-size:1rem;line-height:1.3;list-style:none;margin:0 0 8px;padding:0}.c-article-identifiers__item{border-right:1px solid #6f6f6f;list-style:none;margin-right:8px;padding-right:8px}.c-article-identifiers__item:last-child{border-right:0;margin-right:0;padding-right:0}.c-article-author-list{display:inline;font-size:1rem;list-style:none;margin:0 8px 0 0;padding:0;width:100%}.c-article-author-list__item{margin-left:0}.c-article-author-list li,.c-article-author-list__item{display:inline;padding-right:0}@media only screen and (max-width:539px){.js .js-smaller-author-etal{display:none;visibility:hidden}.js .js-authors-expanded .js-smaller-author-etal{display:inline;visibility:visible}}.c-article-metrics-bar{display:flex;flex-wrap:wrap;font-size:1rem;line-height:1.3}.c-article-metrics-bar__wrapper{margin:0 0 16px}.c-article-metrics-bar__item{align-items:baseline;border-right:1px solid #6f6f6f;margin-right:8px}.c-article-metrics-bar__item:last-child{border-right:0}.c-article-metrics-bar__count{font-weight:700;margin:0}.c-article-metrics-bar__label{color:#626262;font-style:normal;font-weight:400;margin:0 10px 0 5px}.c-article-main-column{font-family:Georgia,Palatino,serif;margin-right:8.6%;width:60.2%}@media only screen and (max-width:1023px){.c-article-main-column{margin-right:0;width:100%}}.c-article-extras{float:left;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;width:31.2%}@media only screen and (max-width:1023px){.c-article-extras{display:none}}.c-article-authors-search__item,.c-article-authors-search__title{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.c-article-authors-search__title{color:#626262;font-size:1.05rem;font-weight:700;margin:0;padding:0}.c-article-authors-search__item{font-size:1rem}.c-article-authors-search__text{margin:0}.c-code-block{border:1px solid #f2f2f2;font-family:monospace;margin:0 0 24px;padding:20px}.c-code-block__heading{font-weight:400;margin-bottom:16px}.c-code-block__line{display:block;overflow-wrap:break-word;white-space:pre-wrap}.c-context-bar{box-shadow:0 0 10px 0 rgba(51,51,51,.2);position:relative;width:100%}.c-context-bar__title{display:none}.c-cod{display:block;font-size:1rem;width:100%}.c-cod__form{background:#ebf0f3}.c-cod__prompt{font-size:1.125rem;line-height:1.3;margin:0 0 24px}.c-cod__label{display:block;margin:0 0 4px}.c-cod__row{display:flex;margin:0 0 16px}.c-cod__row:last-child{margin:0}.c-cod__input{border:1px solid #d5d5d5;border-radius:2px;flex-basis:75%;flex-shrink:0;margin:0;padding:13px}.c-cod__input--submit{color:#fff;flex-shrink:1;margin-left:8px;transition:background-color .2s ease-out 0s,color .2s ease-out 0s}.c-cod__input--submit-single{flex-basis:100%;flex-shrink:0;margin:0}.c-cod__input--submit:focus,.c-cod__input--submit:hover{background-color:#fff}.c-pdf-download__link .u-icon{padding-top:2px}.save-data .c-article-author-institutional-author__sub-division,.save-data .c-article-compound-article-link,.save-data .c-article-equation__number,.save-data .c-article-figure-description,.save-data .c-article-figure-subtitle,.save-data .c-article-fullwidth-content,.save-data .c-article-main-column,.save-data .c-article-table-container,.save-data .c-article-table-subtitle,.save-data .c-blockquote__body,.save-data .c-code-block__heading,.save-data .c-reading-companion__figure-title,.save-data .c-reading-companion__reference-citation,.save-data .c-site-messages--nature-briefing-email-variant .serif,.save-data .c-site-messages--nature-briefing-email-variant.serif,.save-data .serif,.save-data .u-serif,.save-data h1,.save-data h2,.save-data h3{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.c-pdf-download{display:flex;margin-bottom:16px;max-height:48px}@media only screen and (min-width:540px){.c-pdf-download{max-height:none}}@media only screen and (min-width:1024px){.c-pdf-download{max-height:48px}}.c-pdf-download__link{display:flex;flex:1 1 0%;padding:13px 24px!important}.c-pdf-download__text{padding-right:4px}@media only screen and (max-width:539px){.c-pdf-download__text{text-transform:capitalize}}@media only screen and (min-width:540px){.c-pdf-download__text{padding-right:8px}}@media only screen and (max-width:539px){.c-pdf-download .u-sticky-visually-hidden{clip:rect(0,0,0,0);border:0;height:1px;margin:-100%;overflow:hidden;padding:0;position:absolute!important;width:1px}}.c-pdf-container{display:flex;justify-content:flex-end}@media only screen and (max-width:539px){.c-pdf-container .c-pdf-download{display:flex;flex-basis:100%}}.c-article-extras .c-pdf-container{flex-wrap:wrap;width:100%}.c-article-extras .c-pdf-container .c-pdf-download{width:100%}.app-search__content{display:flex}.app-search__label{color:#666;display:inline-block;font-size:.875rem;margin-bottom:8px}.app-search__input{border:1px solid #b3b3b3;border-bottom-left-radius:3px;border-top-left-radius:3px;box-shadow:inset 0 1px 3px 0 rgba(0,0,0,.21);flex:0 1 auto;font-size:.875rem;line-height:1.2;padding:.75em 1em;vertical-align:middle;width:100%}.app-search__button{align-items:center;background-color:#33629d;background-image:linear-gradient(#4d76a9,#33629d);border:1px solid rgba(0,59,132,.5);border-radius:0 2px 2px 0;color:#fff;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;padding:8px;position:relative;text-align:center;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:50px}.app-search__button svg,.u-button svg,.u-button--primary svg{fill:currentcolor}.u-button{align-items:center;background-color:#f2f2f2;background-image:linear-gradient(#fff,#f2f2f2);border:1px solid #ccc;border-radius:2px;color:#004b83;cursor:pointer;display:inline-flex;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;justify-content:center;line-height:1.3;margin:0;padding:8px;position:relative;text-decoration:none;transition:all .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:auto}.u-button--primary{background-color:#33629d;background-image:linear-gradient(#4d76a9,#33629d);border:1px solid rgba(0,59,132,.5);color:#fff}.u-button--full-width{display:flex;width:100%}.u-clearfix:after,.u-clearfix:before{content:"";display:table}.u-clearfix:after{clear:both}.u-display-block{display:block}.u-display-flex{display:flex;width:100%}.u-align-items-center{align-items:center}.u-justify-content-space-between{justify-content:space-between}.u-flex-shrink{flex:0 1 auto}.u-flex-static{flex:0 0 auto}.js .u-js-hide{display:none;visibility:hidden}@media print{.u-hide-print{display:none}}.u-icon{fill:currentcolor;display:inline-block;height:1em;transform:translate(0);vertical-align:text-top;width:1em}.u-list-reset{list-style:none;margin:0;padding:0}.u-button-reset{background-color:transparent;border:0;padding:0}.u-text-bold{font-weight:700}.u-container{margin:0 auto;max-width:1280px;padding:0 16px}.u-position-relative{position:relative}.u-mr-24{margin-right:24px}.u-mb-8{margin-bottom:8px}.u-mb-16{margin-bottom:16px}.u-mb-24{margin-bottom:24px}.u-mb-32{margin-bottom:32px}.u-ml-8{margin-left:8px}.u-float-left{float:left}.u-hide{display:none;visibility:hidden}@media only screen and (min-width:1024px){.u-hide-at-lg{display:none;visibility:hidden}}.u-visually-hidden{clip:rect(0,0,0,0);border:0;height:1px;margin:-100%;overflow:hidden;padding:0;position:absolute!important;width:1px}.u-text-sm{font-size:1rem}.u-text-sans-serif{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif}.hide{display:none;visibility:hidden}.js .js-authors-expanded .js-author-etal,.js .js-show-inline,.show-inline{display:inline;visibility:visible}.visually-hidden{clip:rect(1px,1px,1px,1px);height:1px;position:absolute!important;width:1px}.js .js-author-etal{display:none;visibility:hidden}@media only screen and (max-width:30em){.js .js-smaller-author-etal{display:none;visibility:hidden}.js .js-authors-expanded .js-smaller-author-etal{display:inline;visibility:visible}}.c-pagination__input{border:1px solid #bfbfbf;border-radius:2px;box-shadow:inset 0 2px 6px 0 rgba(51,51,51,.2);box-sizing:initial;display:inline-block;height:28px;margin:0;max-width:64px;min-width:16px;padding:0 8px;text-align:center;transition:width .15s ease 0s}.c-pagination__input::-webkit-inner-spin-button,.c-pagination__input::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}.c-book-evaluation{font-size:1rem;line-height:1.76}.c-book-evaluation-divider{border-top:1px solid #eee;margin-top:16px;padding-top:16px}.c-book-section-title{display:inline;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-size:1rem;font-weight:700}.c-article-main-column .c-buybox__container{display:none}@media only screen and (max-width:1023px){.c-article-main-column .c-buybox__container{display:block}}.c-button{border:1px solid #b3b3b3;border-radius:2px;cursor:pointer;display:block;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;line-height:1.6em;margin:0;padding:8px 12px;text-decoration:none;transition:background-color .25s ease 0s,color .25s ease 0s,border-color .25s ease 0s;width:100%}.c-button--blue{background-color:#3365a4;background-image:linear-gradient(#4d78af,#3365a4);border-color:rgba(0,63,141,.5);color:#fff}.c-header__cart-icon{margin-right:12px}.c-header__navigation{display:flex}.c-cover-image-lightbox{align-items:center;bottom:0;display:flex;justify-content:center;left:0;opacity:0;position:fixed;right:0;top:0;transition:all .15s ease-in 0s;visibility:hidden;z-index:-1}.js-cover-image-lightbox--close{cursor:pointer;position:absolute;right:50px;top:30px}@media only screen and (max-width:767px){.js-cover-image-lightbox--close{right:30px;top:20px}}.js-cover-image-lightbox--close:after,.js-cover-image-lightbox--close:before{color:#fff;content:"X";position:absolute}.c-cover-image-lightbox__image{max-height:90vh;width:auto}.c-expand-overlay-wrapper{position:relative}.c-expand-overlay{background:#fff;color:#333;opacity:.5;padding:2px;position:absolute;right:3px;top:3px} }</style>
 
-    <link rel="stylesheet" data-test="critical-css-handler" data-inline-css-source="critical-css" href="/oscar-static/app-springerlink/css/enhanced-article-609bc245c9.css" media="print" onload="this.media='only print, only all and (prefers-color-scheme: no-preference), only all and (prefers-color-scheme: light), only all and (prefers-color-scheme: dark)';this.onload=null">
+    <link rel="stylesheet" data-test="critical-css-handler" data-inline-css-source="critical-css" href="/oscar-static/app-springerlink/css/enhanced-article-3fc2e56dd8.css" media="print" onload="this.media='only print, only all and (prefers-color-scheme: no-preference), only all and (prefers-color-scheme: light), only all and (prefers-color-scheme: dark)';this.onload=null">
 
 
     
@@ -166,12 +166,12 @@
 
                 var headScripts = [
                     {'src': '/oscar-static/js/polyfill-es5-bundle-910e05ad12.js', 'async': false},
-                    {'src': '/oscar-static/js/airbrake-es5-bundle-7280f6c21d.js', 'async': false},
+                    {'src': '/oscar-static/js/airbrake-es5-bundle-43815c5416.js', 'async': false},
                 ];
 
                 var bodyScripts = [
-                    {'src': '/oscar-static/js/app-es5-bundle-6219bf9ba8.js', 'async': false, 'module': false},
-                    {'src': '/oscar-static/js/app-es6-bundle-0eeb3f8517.js', 'async': false, 'module': true}
+                    {'src': '/oscar-static/js/app-es5-bundle-52f76fdce1.js', 'async': false, 'module': false},
+                    {'src': '/oscar-static/js/app-es6-bundle-a895c7db4b.js', 'async': false, 'module': true}
                     
                     
                         , {'src': '/oscar-static/js/global-article-es5-bundle-ae6f94a8b9.js', 'async': false, 'module': false},
@@ -304,6 +304,22 @@
    <svg aria-hidden="true" focusable="false" height="18" viewbox="0 0 18 18" width="18" style="vertical-align: text-bottom;" xmlns="http://www.w3.org/2000/svg"><path d="m5 14c1.1045695 0 2 .8954305 2 2s-.8954305 2-2 2-2-.8954305-2-2 .8954305-2 2-2zm10 0c1.1045695 0 2 .8954305 2 2s-.8954305 2-2 2-2-.8954305-2-2 .8954305-2 2-2zm-10 1c-.55228475 0-1 .4477153-1 1s.44771525 1 1 1 1-.4477153 1-1-.44771525-1-1-1zm10 0c-.5522847 0-1 .4477153-1 1s.4477153 1 1 1 1-.4477153 1-1-.4477153-1-1-1zm-12.82032249-15c.47691417 0 .88746157.33678127.98070211.80449199l.23823144 1.19501025 13.36277974.00045554c.5522847.00001882.9999659.44774934.9999659 1.00004222 0 .07084994-.0075361.14150708-.022474.2107727l-1.2908094 5.98534344c-.1007861.46742419-.5432548.80388386-1.0571651.80388386h-10.24805106c-.59173366 0-1.07142857.4477153-1.07142857 1 0 .5128358.41361449.9355072.94647737.9932723l.1249512.0067277h10.35933776c.2749512 0 .4979349.2228539.4979349.4978051 0 .2749417-.2227336.4978951-.4976753.4980063l-10.35959736.0041886c-1.18346732 0-2.14285714-.8954305-2.14285714-2 0-.6625717.34520317-1.24989198.87690425-1.61383592l-1.63768102-8.19004794c-.01312273-.06561364-.01950005-.131011-.0196107-.19547395l-1.71961253-.00064219c-.27614237 0-.5-.22385762-.5-.5 0-.27614237.22385763-.5.5-.5zm14.53193359 2.99950224h-13.11300004l1.20580469 6.02530174c.11024034-.0163252.22327998-.02480398.33844139-.02480398h10.27064786z" fill="#333" />
    </svg><span class="u-screenreader-only visually-hidden">Go to cart</span></button>
  </form>
+ <script>
+    ; (function () {
+      if (window.fetch) {
+        document.body.addEventListener("updatedCart", function () {
+          var now = new Date().getTime()
+          window.fetch("https://test-buckets-springer-com.ep.ituproxy.kb.dk/log?time=" + now + "&eventName=updatedCart")
+            .then(function (res) {
+              return res.text()
+            })
+            .catch(function () {
+
+            })
+        }, false)
+      }
+    })()
+  </script>
 </div>
         </div>
 
@@ -315,7 +331,7 @@
                 <a
                     data-test="login-link"
                     class="c-header__link"
-                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87202-1%3Fpage%3D2"
+                    href="https://link-springer-com.ep.ituproxy.kb.dk/signup-login?previousUrl=https%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%2F978-3-030-87202-1%3Fpage%3D3"
                     data-track="click"
                     data-track-category="header"
                     data-track-action="login header"
@@ -408,11 +424,11 @@
         
     <header class="u-mb-24" data-test="book-header">
         <div class="c-box c-box--shadowed" id="book-header">
-            <div class="app-journal-header">
-                <div class="app-journal-header__theme" style="background-image: url('//media.springernature.com/dominant-colour/springer-static/cover/book/978-3-030-87202-1.jpg?default-colour=238,125,17')"></div>
-                <div class="app-journal-header__content">
-                    <div class="app-journal-header__main">
-                        <div class="app-journal-header__cover">
+            <div class="c-app-header">
+                <div class="c-app-header__theme" style="background-image: url('//media.springernature.com/dominant-colour/springer-static/cover/book/978-3-030-87202-1.jpg?default-colour=238,125,17')"></div>
+                <div class="c-app-header__content">
+                    <div class="c-app-header__main">
+                        <div class="c-app-header__cover">
                             <div class="c-expand-overlay-wrapper">
                                 <a data-component="cover-zoom" href="/book/10.1007/978-3-030-87202-1/cover" data-img-src="//media.springernature.com/full/springer-static/cover-hires/book/978-3-030-87202-1" rel="nofollow">
                                     <picture>
@@ -433,13 +449,13 @@
                                 
                                 <li class="c-article-identifiers__item">&copy; 2021</li>
                             </ul>
-                            <h1 class="app-journal-header__title" data-test="book-title">
+                            <h1 class="c-app-header__title" data-test="book-title">
                                 Medical Image Computing and Computer Assisted Intervention – MICCAI 2021
                             </h1>
-                            <p class="app-journal-header__subtitle" data-test="book-subtitle">24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV</p>
+                            <p class="c-app-header__subtitle" data-test="book-subtitle">24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part IV</p>
                         </div>
                     </div>
-                    <div class="app-journal-header__side">
+                    <div class="c-app-header__side">
                         
                         
                         
@@ -779,13 +795,13 @@
         <ul class="c-article-metrics-bar u-list-reset">
             
                 <li class=" c-article-metrics-bar__item">
-                    <p class="c-article-metrics-bar__count">286k <span class="c-article-metrics-bar__label">Accesses</span></p>
+                    <p class="c-article-metrics-bar__count">288k <span class="c-article-metrics-bar__label">Accesses</span></p>
                 </li>
             
             
                 
                     <li class="c-article-metrics-bar__item">
-                        <p class="c-article-metrics-bar__count">61
+                        <p class="c-article-metrics-bar__count">62
                             <a href="http://citations.springer.com.ep.ituproxy.kb.dk/book?doi&#x3D;10.1007/978-3-030-87202-1" target="_blank" rel="noopener"
                                title="Visit Springer Citations for full citation details"
                                class="c-article-metrics-bar__label"
@@ -1281,7 +1297,10 @@
 
                                 var formSubmit = Buybox.interceptFormSubmit(
                                     Buybox.fetchFormAction(window.fetch),
-                                    Buybox.triggerModalAfterAddToCartSuccess(modal),
+                                    function(responseBody) {
+                                        document.body.dispatchEvent(new Event("updatedCart"))
+                                        Buybox.triggerModalAfterAddToCartSuccess(modal)(responseBody)
+                                    },
                                     function() {
                                         form.removeEventListener("submit", formSubmit, false)
                                         form.submit()
@@ -1397,7 +1416,7 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=1#toc" data-test="previous-page">
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=2#toc" data-test="previous-page">
             <svg class="c-icon c-pagination__icon" aria-hidden="true">
                 <use xlink:href="#icon-springer-arrow-left"></use>
             </svg>
@@ -1407,17 +1426,17 @@
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="2">2</span></span>
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="3">3</span></span>
                 <form action="/book/10.1007/978-3-030-87202-1#toc" method="GET">
                     <label for="pagination-1-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="4" id="pagination-1-page-number" name="page" class="c-pagination__input" value="2" required />
+                    <input type="number" min="1" max="4" id="pagination-1-page-number" name="page" class="c-pagination__input" value="3" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
                 <span>&nbsp; of 4</span>
             </div>
         </li>
     <li class="c-pagination__item">
-        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=3#toc" data-test="next-page">
+        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=4#toc" data-test="next-page">
         <span>Next <span class="u-visually-hidden">page</span>&nbsp;</span>
         <svg class="c-icon c-pagination__icon" aria-hidden="true">
             <use xlink:href="#icon-springer-arrow-right"></use>
@@ -1432,7 +1451,7 @@
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-0 " data-title="part-title" style="border-top: none">Image Registration</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-0 " data-title="part-title" style="border-top: none">Image-Guided Interventions and Surgery</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1445,25 +1464,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Equivariant Filters for Efficient Tracking in 3D Imaging">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_19"
+                            <h4 class="c-card__title" data-test="chapter-title-hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_38"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Equivariant Filters for Efficient Tracking in 3D Imaging</a>
+>hSDB-instrument: Instrument Localization Database for Laparoscopic and Robotic Surgeries</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Daniel Moyer, Esra Abaci Turk, P. Ellen Grant, William M. Wells, Polina Golland</li>
+                    <li class="c-author-list__item">Jihun Yoon, Jiwon Lee, Sunghwan Heo, Hayeong Yu, Jayeon Lim, Chi Hyun Song et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 193-202</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 393-402</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_19" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_38" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1486,66 +1505,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Revisiting Iterative Highly Efficient Optimisation Schemes in Medical Image Registration">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_20"
+                            <h4 class="c-card__title" data-test="chapter-title-Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_39"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Revisiting Iterative Highly Efficient Optimisation Schemes in Medical Image Registration</a>
+>Co-generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Lasse Hansen, Mattias P. Heinrich</li>
+                    <li class="c-author-list__item">Megha Kalia, Tajwar Abrar Aleef, Nassir Navab, Peter Black, Septimiu E. Salcudean</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 203-212</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 403-412</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_20" class="c-card__link--no-block-link">PDF
-            <svg aria-hidden="true" focusable="false" width="16"
-                 height="16"
-                 class="u-icon u-vertical-align-middle">
-                <use xlink:href="#global-icon-download"></use>
-            </svg>
-        </a>
-    </div>
-
-        
-
-    </div>
-</li>
-                
-
-
-
-
-
-<li class="c-card c-list-group__item c-card--flush u-pa-16
-" data-test="chapter">
-    <div class="c-card__body u-display-flex u-justify-content-space-between">
-        <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Multi-scale Neural ODEs for 3D Medical Image Registration">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_21"
-    data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Multi-scale Neural ODEs for 3D Medical Image Registration</a>
-                            </h4>
-                        
-                    
-            
-                <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Junshen Xu, Eric Z. Chen, Xiao Chen, Terrence Chen, Shanhui Sun</li>
-                </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 213-223</span>
-            </div>
-        </div>
-            
-    <div class="u-flex-static u-pl-16">
-        <a data-test="chapter-pdf"
-           data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_21" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_39" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1567,7 +1545,7 @@
                                     <li class="c-card c-card--flush c-list-group__item">
                                         <div class="c-card__body u-display-flex u-justify-content-space-between">
                                             <div style="width: 100%">
-                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Image-Guided Interventions and Surgery</h3>
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Surgical Data Science</h3>
                                                 <ol class="c-list-group c-list-group--bordered">
                                                         
                 
@@ -1582,14 +1560,14 @@
         <div>
                 <h4 class="c-card__title" data-test="front-matter">Front Matter</h4>
             
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 225-225</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 413-413</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="front-matter-pdf"
            data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
-           href="/content/pdf/bfm%3A978-3-030-87202-1%2F2%2F1" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/bfm%3A978-3-030-87202-1%2F3%2F1" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1612,25 +1590,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Self-supervised Generative Adversarial Network for Depth Estimation in Laparoscopic Images">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_22"
+                            <h4 class="c-card__title" data-test="chapter-title-E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-Based Stereoscopic Depth Perception">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_40"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Self-supervised Generative Adversarial Network for Depth Estimation in Laparoscopic Images</a>
+>E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-Based Stereoscopic Depth Perception</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Baoru Huang, Jian-Qing Zheng, Anh Nguyen, David Tuch, Kunal Vyas, Stamatia Giannarou et al.</li>
+                    <li class="c-author-list__item">Yonghao Long, Zhaoshuo Li, Chi Hang Yee, Chi Fai Ng, Russell H. Taylor, Mathias Unberath et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 227-237</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 415-425</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_22" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_40" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1653,25 +1631,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Personalized Respiratory Motion Model Using Conditional Generative Networks for MR-Guided Radiotherapy">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_23"
+                            <h4 class="c-card__title" data-test="chapter-title-CataNet: Predicting Remaining Cataract Surgery Duration">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_41"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Personalized Respiratory Motion Model Using Conditional Generative Networks for MR-Guided Radiotherapy</a>
+>CataNet: Predicting Remaining Cataract Surgery Duration</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Liset Vázquez Romaguera, Tal Mezheritsky, Samuel Kadoury</li>
+                    <li class="c-author-list__item">Andrés Marafioti, Michel Hayoz, Mathias Gallardo, Pablo Márquez Neila, Sebastian Wolf, Martin Zinkernagel et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 238-248</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 426-435</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_23" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_41" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1694,25 +1672,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Multimodal Sensing Guidewire for C-Arm Navigation with Random UV Enhanced Optical Sensors Using Spatio-Temporal Networks">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_24"
+                            <h4 class="c-card__title" data-test="chapter-title-Task Fingerprinting for Meta Learning inBiomedical Image Analysis">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_42"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Multimodal Sensing Guidewire for C-Arm Navigation with Random UV Enhanced Optical Sensors Using Spatio-Temporal Networks</a>
+>Task Fingerprinting for Meta Learning inBiomedical Image Analysis</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Andrei Svecic, Gilles Soulez, Frédéric Monet, Raman Kashyap, Samuel Kadoury</li>
+                    <li class="c-author-list__item">Patrick Godau, Lena Maier-Hein</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 249-258</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 436-446</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_24" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_42" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1735,25 +1713,69 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_25"
+                            <h4 class="c-card__title" data-test="chapter-title-Acoustic-Based Spatio-Temporal Learning for Press-Fit Evaluation of Femoral Stem Implants">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_43"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Image-to-Graph Convolutional Network for Deformable Shape Reconstruction from a Single Projection Image</a>
+>Acoustic-Based Spatio-Temporal Learning for Press-Fit Evaluation of Femoral Stem Implants</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Megumi Nakao, Fei Tong, Mitsuhiro Nakamura, Tetsuya Matsuda</li>
+                    <li class="c-author-list__item">Matthias Seibold, Armando Hoch, Daniel Suter, Mazda Farshad, Patrick O. Zingg, Nassir Navab et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 259-268</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 447-456</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_25" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_43" class="c-card__link--no-block-link">PDF
+            <svg aria-hidden="true" focusable="false" width="16"
+                 height="16"
+                 class="u-icon u-vertical-align-middle">
+                <use xlink:href="#global-icon-download"></use>
+            </svg>
+        </a>
+    </div>
+
+        
+
+    </div>
+</li>
+    
+                                                </ol>
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                                    <li class="c-card c-card--flush c-list-group__item">
+                                        <div class="c-card__body u-display-flex u-justify-content-space-between">
+                                            <div style="width: 100%">
+                                                <h3 class="u-keyline u-mb-0 u-pb-8 u-pt-8" data-title="part-title" >Surgical Planning and Simulation</h3>
+                                                <ol class="c-list-group c-list-group--bordered">
+                                                        
+                
+
+
+
+
+
+<li class="c-card c-list-group__item c-card--flush u-pa-16
+" data-test="chapter">
+    <div class="c-card__body u-display-flex u-justify-content-space-between">
+        <div>
+                <h4 class="c-card__title" data-test="front-matter">Front Matter</h4>
+            
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 457-457</span>
+            </div>
+        </div>
+            
+    <div class="u-flex-static u-pl-16">
+        <a data-test="front-matter-pdf"
+           data-track="click" data-track-action="Toc - Front Matter" data-track-label="link"
+           href="/content/pdf/bfm%3A978-3-030-87202-1%2F4%2F1" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1776,25 +1798,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Class-Incremental Domain Adaptation with Smoothing and Calibration for Surgical Report Generation">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_26"
+                            <h4 class="c-card__title" data-test="chapter-title-Deep Simulation of Facial Appearance Changes Following Craniomaxillofacial Bony Movements in Orthognathic Surgical Planning">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_44"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Class-Incremental Domain Adaptation with Smoothing and Calibration for Surgical Report Generation</a>
+>Deep Simulation of Facial Appearance Changes Following Craniomaxillofacial Bony Movements in Orthognathic Surgical Planning</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Mengya Xu, Mobarakol Islam, Chwee Ming Lim, Hongliang Ren</li>
+                    <li class="c-author-list__item">Lei Ma, Daeseung Kim, Chunfeng Lian, Deqiang Xiao, Tianshu Kuang, Qin Liu et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 269-278</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 459-468</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_26" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_44" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1817,25 +1839,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Real-Time Rotated Convolutional Descriptor for Surgical Environments">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_27"
+                            <h4 class="c-card__title" data-test="chapter-title-A Self-supervised Deep Framework for Reference Bony Shape Estimation in Orthognathic Surgical Planning">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_45"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Real-Time Rotated Convolutional Descriptor for Surgical Environments</a>
+>A Self-supervised Deep Framework for Reference Bony Shape Estimation in Orthognathic Surgical Planning</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Adam Schmidt, Septimiu E. Salcudean</li>
+                    <li class="c-author-list__item">Deqiang Xiao, Hannah H. Deng, Tianshu Kuang, Lei Ma, Qin Liu, Xu Chen et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 279-289</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 469-477</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_27" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_45" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1858,25 +1880,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Surgical Instruction Generation with Transformers">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_28"
+                            <h4 class="c-card__title" data-test="chapter-title-DLLNet: An Attention-Based Deep Learning Method for Dental Landmark Localization on High-Resolution 3D Digital Dental Models">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_46"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Surgical Instruction Generation with Transformers</a>
+>DLLNet: An Attention-Based Deep Learning Method for Dental Landmark Localization on High-Resolution 3D Digital Dental Models</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang</li>
+                    <li class="c-author-list__item">Yankun Lang, Hannah H. Deng, Deqiang Xiao, Chunfeng Lian, Tianshu Kuang, Jaime Gateno et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 290-299</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 478-487</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_28" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_46" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1899,25 +1921,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Adversarial Domain Feature Adaptation for Bronchoscopic Depth Estimation">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_29"
+                            <h4 class="c-card__title" data-test="chapter-title-Personalized CT Organ Dose Estimation from Scout Images">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_47"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Adversarial Domain Feature Adaptation for Bronchoscopic Depth Estimation</a>
+>Personalized CT Organ Dose Estimation from Scout Images</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Mert Asim Karaoglu, Nikolas Brasch, Marijn Stollenga, Wolfgang Wein, Nassir Navab, Federico Tombari et al.</li>
+                    <li class="c-author-list__item">Abdullah-Al-Zubaer Imran, Sen Wang, Debashish Pal, Sandeep Dutta, Bhavik Patel, Evan Zucker et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 300-310</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 488-498</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_29" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_47" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1940,25 +1962,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-2.5D Thermometry Maps for MRI-Guided Tumor Ablation">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_30"
+                            <h4 class="c-card__title" data-test="chapter-title-High-Particle Simulation of Monte-Carlo Dose Distribution with 3D ConvLSTMs">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_48"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->2.5D Thermometry Maps for MRI-Guided Tumor Ablation</a>
+>High-Particle Simulation of Monte-Carlo Dose Distribution with 3D ConvLSTMs</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Julian Alpers, Daniel L. Reimert, Maximilian Rötzer, Thomas Gerlach, Marcel Gutberlet, Frank Wacker et al.</li>
+                    <li class="c-author-list__item">Sonia Martinot, Norbert Bus, Maria Vakalopoulou, Charlotte Robert, Eric Deutsch, Nikos Paragios</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 311-320</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 499-508</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_30" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_48" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -1981,25 +2003,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Detection of Critical Structures in Laparoscopic Cholecystectomy Using Label Relaxation and Self-supervision">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_31"
+                            <h4 class="c-card__title" data-test="chapter-title-Effective Semantic Segmentation in Cataract Surgery: What Matters Most?">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_49"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Detection of Critical Structures in Laparoscopic Cholecystectomy Using Label Relaxation and Self-supervision</a>
+>Effective Semantic Segmentation in Cataract Surgery: What Matters Most?</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">David Owen, Maria Grammatikopoulou, Imanol Luengo, Danail Stoyanov</li>
+                    <li class="c-author-list__item">Theodoros Pissas, Claudio S. Ravasio, Lyndon Da Cruz, Christos Bergeles</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 321-330</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 509-518</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_31" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_49" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2022,25 +2044,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-EMDQ-SLAM: Real-Time High-Resolution Reconstruction of Soft Tissue Surface from Stereo Laparoscopy Videos">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_32"
+                            <h4 class="c-card__title" data-test="chapter-title-Facial and Cochlear Nerves Characterization Using Deep Reinforcement Learning for Landmark Detection">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_50"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->EMDQ-SLAM: Real-Time High-Resolution Reconstruction of Soft Tissue Surface from Stereo Laparoscopy Videos</a>
+>Facial and Cochlear Nerves Characterization Using Deep Reinforcement Learning for Landmark Detection</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Haoyin Zhou, Jagadeesan Jayender</li>
+                    <li class="c-author-list__item">Paula López Diez, Josefine Vilsbøll Sundgaard, François Patou, Jan Margeta, Rasmus Reinhold Paulsen</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 331-340</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 519-528</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_32" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_50" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2063,25 +2085,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_33"
+                            <h4 class="c-card__title" data-test="chapter-title-Patient-Specific Virtual Spine Straightening and Vertebra Inpainting: An Automatic Framework for Osteoplasty Planning">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_51"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Efficient Global-Local Memory for Real-Time Instrument Segmentation of Robotic Surgical Video</a>
+>Patient-Specific Virtual Spine Straightening and Vertebra Inpainting: An Automatic Framework for Osteoplasty Planning</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Jiacheng Wang, Yueming Jin, Liansheng Wang, Shuntian Cai, Pheng-Ann Heng, Jing Qin</li>
+                    <li class="c-author-list__item">Christina Bukas, Bailiang Jian, Luis Francisco Rodríguez Venegas, Francesca De Benetti, Sebastian Rühling, Anjany Sekuboyina et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 341-351</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 529-539</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_33" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_51" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2104,25 +2126,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-C-Arm Positioning for Spinal Standard Projections in Different Intra-operative Settings">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_34"
+                            <h4 class="c-card__title" data-test="chapter-title-A New Approach to Orthopedic Surgery Planning Using Deep Reinforcement Learning and Simulation">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_52"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->C-Arm Positioning for Spinal Standard Projections in Different Intra-operative Settings</a>
+>A New Approach to Orthopedic Surgery Planning Using Deep Reinforcement Learning and Simulation</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Lisa Kausch, Sarina Thomas, Holger Kunze, Tobias Norajitra, André Klein, Jan Siad El Barbari et al.</li>
+                    <li class="c-author-list__item">Joëlle Ackermann, Matthias Wieland, Armando Hoch, Reinhold Ganz, Jess G. Snedeker, Martin R. Oswald et al.</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 352-362</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 540-549</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_34" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_52" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2145,25 +2167,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Quantitative Assessments for Ultrasound Probe Calibration">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_35"
+                            <h4 class="c-card__title" data-test="chapter-title-Whole Heart Mesh Generation for Image-Based Computational Simulations by Learning Free-From Deformations">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_53"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Quantitative Assessments for Ultrasound Probe Calibration</a>
+>Whole Heart Mesh Generation for Image-Based Computational Simulations by Learning Free-From Deformations</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Elvis C. S. Chen, Burton Ma, Terry M. Peters</li>
+                    <li class="c-author-list__item">Fanwei Kong, Shawn C. Shadden</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 363-372</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 550-559</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_35" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_53" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2186,25 +2208,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Intra-operative Update of Boundary Conditions for Patient-Specific Surgical Simulation">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_36"
+                            <h4 class="c-card__title" data-test="chapter-title-Automatic Path Planning for Safe Guide Pin Insertion in PCL Reconstruction Surgery">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_54"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Intra-operative Update of Boundary Conditions for Patient-Specific Surgical Simulation</a>
+>Automatic Path Planning for Safe Guide Pin Insertion in PCL Reconstruction Surgery</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Eleonora Tagliabue, Marco Piccinelli, Diego Dall’Alba, Juan Verde, Micha Pfeiffer, Riccardo Marin et al.</li>
+                    <li class="c-author-list__item">Florian Kordon, Andreas Maier, Benedict Swartman, Maxim Privalov, Jan Siad El Barbari, Holger Kunze</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 373-382</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 560-570</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_36" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_54" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2227,25 +2249,25 @@
 " data-test="chapter">
     <div class="c-card__body u-display-flex u-justify-content-space-between">
         <div>
-                            <h4 class="c-card__title" data-test="chapter-title-Deep Iterative 2D/3D Registration">
-                                <a href="/chapter/10.1007/978-3-030-87202-1_37"
+                            <h4 class="c-card__title" data-test="chapter-title-Improving Hexahedral-FEM-Based Plasticity in Surgery Simulation">
+                                <a href="/chapter/10.1007/978-3-030-87202-1_55"
     data-track="click" data-track-action="ToC link to content page" data-track-label="link"
->Deep Iterative 2D/3D Registration</a>
+>Improving Hexahedral-FEM-Based Plasticity in Surgery Simulation</a>
                             </h4>
                         
                     
             
                 <ul class="c-author-list c-author-list--compact u-mb-4 u-mt-auto">
-                    <li class="c-author-list__item">Srikrishna Jaganathan, Jian Wang, Anja Borsdorf, Karthik Shetty, Andreas Maier</li>
+                    <li class="c-author-list__item">Ruiliang Gao, Jörg Peters</li>
                 </ul>
-            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 383-392</span>
+            <div class="c-meta"><span class="c-meta__item u-display-inline-block" data-test="page-number">Pages 571-580</span>
             </div>
         </div>
             
     <div class="u-flex-static u-pl-16">
         <a data-test="chapter-pdf"
            data-track="click" data-track-action="Pdf download" data-track-label="link"
-           href="/content/pdf/10.1007%2F978-3-030-87202-1_37" class="c-card__link--no-block-link">PDF
+           href="/content/pdf/10.1007%2F978-3-030-87202-1_55" class="c-card__link--no-block-link">PDF
             <svg aria-hidden="true" focusable="false" width="16"
                  height="16"
                  class="u-icon u-vertical-align-middle">
@@ -2270,7 +2292,7 @@
 <nav data-test="book-pagination u-pt-24" role="navigation" aria-label="Pagination Navigation">
     <ul class="c-pagination u-justify-content-left u-pl-0 u-pr-0">
         <li class="c-pagination__item">
-            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=1#toc" data-test="previous-page">
+            <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=2#toc" data-test="previous-page">
             <svg class="c-icon c-pagination__icon" aria-hidden="true">
                 <use xlink:href="#icon-springer-arrow-left"></use>
             </svg>
@@ -2280,17 +2302,17 @@
     
         <li class="c-pagination__item">
             <div class="u-display-flex u-align-items-center">
-                <span>Page &nbsp; <span class="u-js-hide" aria-current="2">2</span></span>
+                <span>Page &nbsp; <span class="u-js-hide" aria-current="3">3</span></span>
                 <form action="/book/10.1007/978-3-030-87202-1#toc" method="GET">
                     <label for="pagination-2-page-number" class="u-visually-hidden">Navigate to page number</label>
-                    <input type="number" min="1" max="4" id="pagination-2-page-number" name="page" class="c-pagination__input" value="2" required />
+                    <input type="number" min="1" max="4" id="pagination-2-page-number" name="page" class="c-pagination__input" value="3" required />
                     <input type="submit" value="Submit" aria-hidden="true" tabindex="-1" class="u-visually-hidden" />
                 </form>
                 <span>&nbsp; of 4</span>
             </div>
         </li>
     <li class="c-pagination__item">
-        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=3#toc" data-test="next-page">
+        <a class="c-pagination__link" href="/book/10.1007/978-3-030-87202-1?page=4#toc" data-test="next-page">
         <span>Next <span class="u-visually-hidden">page</span>&nbsp;</span>
         <svg class="c-icon c-pagination__icon" aria-hidden="true">
             <use xlink:href="#icon-springer-arrow-right"></use>
@@ -3204,7 +3226,10 @@
 
                                 var formSubmit = Buybox.interceptFormSubmit(
                                     Buybox.fetchFormAction(window.fetch),
-                                    Buybox.triggerModalAfterAddToCartSuccess(modal),
+                                    function(responseBody) {
+                                        document.body.dispatchEvent(new Event("updatedCart"))
+                                        Buybox.triggerModalAfterAddToCartSuccess(modal)(responseBody)
+                                    },
                                     function() {
                                         form.removeEventListener("submit", formSubmit, false)
                                         form.submit()
