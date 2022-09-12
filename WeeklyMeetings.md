@@ -44,6 +44,7 @@ Lots and lots of googling, also talking issues over with my partner (Thanks R!)
 #### Where do you need help from Veronika?
 
 * Where to go from here? Ideas on adding methodology scan? Or something else, more qualitative/reading based?
+* October 6th, Ahmet and I are set to present our project, but I have a midwife appointment so can't come, is it enough that Ahemet presents?
 
 #### Any other topics
 
