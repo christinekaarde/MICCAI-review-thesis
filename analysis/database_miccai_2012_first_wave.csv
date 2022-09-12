@@ -1,4 +1,4 @@
-,Unnamed: 0,Title,Authors,Page numbers,DOI,Year of publication,Classification indicated
+,Unnamed: 0,Title,Authors,Page numbers,DOI,Year of publication,Keywords in title
 0,0,Reliable Assessment of Perfusivity and Diffusivity from Diffusion Imaging of the Body,"M. Freiman, S. D. Voss, R. V. Mulkern, J. M. Perez-Rossello, M. J. Callahan, Simon K. Warfield",1-9,/chapter/10.1007/978-3-642-33415-3_1,2012.0,0
 1,1,Multi-organ Abdominal CT Segmentation Using Hierarchically Weighted Subject-Specific Atlases,"Robin Wolz, Chengwen Chu, Kazunari Misawa, Kensaku Mori, Daniel Rueckert",10-17,/chapter/10.1007/978-3-642-33415-3_2,2012.0,0
 2,2,Radiation-Free Drill Guidance in Interlocking of Intramedullary Nails,"Benoit Diotte, Pascal Fallavollita, Lejing Wang, Simon Weidert, Peter-Helmut Thaller, Ekkehard Euler et al.",18-25,/chapter/10.1007/978-3-642-33415-3_3,2012.0,0
@@ -43,7 +43,7 @@
 41,41,Modeling Dynamic Cellular Morphology in Images,"Xing An, Zhiwen Liu, Yonggang Shi, Ning Li, Yalin Wang, Shantanu H. Joshi",340-347,/chapter/10.1007/978-3-642-33415-3_42,2012.0,0
 42,42,Learning to Detect Cells Using Non-overlapping Extremal Regions,"Carlos Arteta, Victor Lempitsky, J. Alison Noble, Andrew Zisserman",348-356,/chapter/10.1007/978-3-642-33415-3_43,2012.0,0
 43,43,Application of the IMM-JPDA Filter to Multiple Target Tracking in Total Internal Reflection Fluorescence Microscopy Images,"Seyed Hamid Rezatofighi, Stephen Gould, Richard Hartley, Katarina Mele, William E. Hughes",357-364,/chapter/10.1007/978-3-642-33415-3_44,2012.0,0
-44,44,Image Segmentation with Implicit Color Standardization Using Spatially Constrained Expectation Maximization: Detection of Nuclei,"James Monaco, J. Hipp, D. Lucas, S. Smith, U. Balis, Anant Madabhushi",365-372,/chapter/10.1007/978-3-642-33415-3_45,2012.0,1
+44,44,Image Segmentation with Implicit Color Standardization Using Spatially Constrained Expectation Maximization: Detection of Nuclei,"James Monaco, J. Hipp, D. Lucas, S. Smith, U. Balis, Anant Madabhushi",365-372,/chapter/10.1007/978-3-642-33415-3_45,2012.0,0
 45,45,Detecting and Tracking Motion of Myxococcus xanthus Bacteria in Swarms,"Xiaomin Liu, Cameron W. Harvey, Haitao Wang, Mark S. Alber, Danny Z. Chen",373-380,/chapter/10.1007/978-3-642-33415-3_46,2012.0,0
 46,46,Signal and Noise Modeling in Confocal Laser Scanning Fluorescence Microscopy,"Gerlind Herberich, Reinhard Windoffer, Rudolf E. Leube, Til Aach",381-388,/chapter/10.1007/978-3-642-33415-3_47,2012.0,0
 47,47,Hierarchical Partial Matching and Segmentation of Interacting Cells,"Zheng Wu, Danna Gurari, Joyce Y. Wong, Margrit Betke",389-396,/chapter/10.1007/978-3-642-33415-3_48,2012.0,0
@@ -60,7 +60,7 @@
 58,58,Stereoscopic Scene Flow for Robotic Assisted Minimally Invasive Surgery,Danail Stoyanov,479-486,/chapter/10.1007/978-3-642-33415-3_59,2012.0,0
 59,59,Towards Computer-Assisted Deep Brain Stimulation Targeting with Multiple Active Contacts,"Silvain Bériault, Yiming Xiao, Lara Bailey, D. Louis Collins, Abbas F. Sadikot, G. Bruce Pike",487-494,/chapter/10.1007/978-3-642-33415-3_60,2012.0,0
 60,60,Multi-object Spring Level Sets (MUSCLE),"Blake C. Lucas, Michael Kazhdan, Russell H. Taylor",495-503,/chapter/10.1007/978-3-642-33415-3_61,2012.0,0
-61,61,Combining CRF and Multi-hypothesis Detection for Accurate Lesion Segmentation in Breast Sonograms,"Zhihui Hao, Qiang Wang, Yeong Kyeong Seong, Jong-Ha Lee, Haibing Ren, Ji-yeun Kim",504-511,/chapter/10.1007/978-3-642-33415-3_62,2012.0,1
+61,61,Combining CRF and Multi-hypothesis Detection for Accurate Lesion Segmentation in Breast Sonograms,"Zhihui Hao, Qiang Wang, Yeong Kyeong Seong, Jong-Ha Lee, Haibing Ren, Ji-yeun Kim",504-511,/chapter/10.1007/978-3-642-33415-3_62,2012.0,0
 62,62,Hierarchical Manifold Learning,"Kanwal K. Bhatia, Anil Rao, Anthony N. Price, Robin Wolz, Jo Hajnal, Daniel Rueckert",512-519,/chapter/10.1007/978-3-642-33415-3_63,2012.0,0
 63,63,Vertebral Body Segmentation in MRI via Convex Relaxation and Distribution Matching,"Ismail Ben Ayed, Kumaradevan Punithakumar, Rashid Minhas, Rohit Joshi, Gregory J. Garvin",520-527,/chapter/10.1007/978-3-642-33415-3_64,2012.0,0
 64,64,Evaluating Segmentation Error without Ground Truth,"Timo Kohlberger, Vivek Singh, Chris Alvino, Claus Bahlmann, Leo Grady",528-536,/chapter/10.1007/978-3-642-33415-3_65,2012.0,0
@@ -180,7 +180,7 @@
 179,179,Optimization of Acquisition Geometry for Intra-operative Tomographic Imaging,"Jakob Vogel, Tobias Reichl, José Gardiazabal, Nassir Navab, Tobias Lasser",42-49,/chapter/10.1007/978-3-642-33454-2_6,2012.0,0
 180,180,Incorporating Parameter Uncertainty in Bayesian Segmentation Models: Application to Hippocampal Subfield Volumetry,"Juan Eugenio Iglesias, Mert Rory Sabuncu, Koen Van Leemput",50-57,/chapter/10.1007/978-3-642-33454-2_7,2012.0,0
 181,181,A Dynamical Appearance Model Based on Multiscale Sparse Representation: Segmentation of the Left Ventricle from 4D Echocardiography,"Xiaojie Huang, Donald P. Dione, Colin B. Compas, Xenophon Papademetris, Ben A. Lin, Albert J. Sinusas et al.",58-65,/chapter/10.1007/978-3-642-33454-2_8,2012.0,0
-182,182,Automatic Detection and Segmentation of Kidneys in 3D CT Images Using Random Forests,"Rémi Cuingnet, Raphael Prevost, David Lesage, Laurent D. Cohen, Benoît Mory, Roberto Ardon",66-74,/chapter/10.1007/978-3-642-33454-2_9,2012.0,1
+182,182,Automatic Detection and Segmentation of Kidneys in 3D CT Images Using Random Forests,"Rémi Cuingnet, Raphael Prevost, David Lesage, Laurent D. Cohen, Benoît Mory, Roberto Ardon",66-74,/chapter/10.1007/978-3-642-33454-2_9,2012.0,0
 183,183,Neighbourhood Approximation Forests,"Ender Konukoglu, Ben Glocker, Darko Zikic, Antonio Criminisi",75-82,/chapter/10.1007/978-3-642-33454-2_10,2012.0,0
 184,184,Recognition in Ultrasound Videos: Where Am I?,"Roland Kwitt, Nuno Vasconcelos, Sharif Razzaque, Stephen Aylward",83-90,/chapter/10.1007/978-3-642-33454-2_11,2012.0,0
 185,185,Self-similarity Weighted Mutual Information: A New Nonrigid Image Registration Metric,"Hassan Rivaz, D. Louis Collins",91-98,/chapter/10.1007/978-3-642-33454-2_12,2012.0,0

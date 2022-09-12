@@ -1,4 +1,4 @@
-,Unnamed: 0,Title,Authors,Page numbers,DOI,Year of publication,Classification indicated
+,Unnamed: 0,Title,Authors,Page numbers,DOI,Year of publication,Keywords in title
 0,0,Noisy Labels are Treasure: Mean-Teacher-Assisted Confident Learning for Hepatic Vessel Segmentation,"Zhe Xu, Donghuan Lu, Yixin Wang, Jie Luo, Jagadeesan Jayender, Kai Ma et al.",3-13,/chapter/10.1007/978-3-030-87193-2_1,2021,0
 1,1,TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation,"Yundong Zhang, Huiye Liu, Qiang Hu",14-24,/chapter/10.1007/978-3-030-87193-2_2,2021,0
 2,2,Pancreas CT Segmentation by Predictive Phenotyping,"Yucheng Tang, Riqiang Gao, Hohin Lee, Qi Yang, Xin Yu, Yuyin Zhou et al.",25-35,/chapter/10.1007/978-3-030-87193-2_3,2021,0
@@ -99,7 +99,7 @@
 98,98,Semi-supervised Meta-learning with Disentanglement for Domain-Generalised Medical Image Segmentation,"Xiao Liu, Spyridon Thermos, Alison O’Neil, Sotirios A. Tsaftaris",307-317,/chapter/10.1007/978-3-030-87196-3_29,2021,0
 99,99,Efficient Semi-supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency,"Xiangde Luo, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuan Zhang et al.",318-329,/chapter/10.1007/978-3-030-87196-3_30,2021,0
 100,100,Few-Shot Domain Adaptation with Polymorphic Transformers,"Shaohua Li, Xiuchao Sui, Jie Fu, Huazhu Fu, Xiangde Luo, Yangqin Feng et al.",330-340,/chapter/10.1007/978-3-030-87196-3_31,2021,0
-101,101,Lesion Segmentation and RECIST Diameter Prediction via Click-Driven Attention and Dual-Path Connection,"Youbao Tang, Ke Yan, Jinzheng Cai, Lingyun Huang, Guotong Xie, Jing Xiao et al.",341-351,/chapter/10.1007/978-3-030-87196-3_32,2021,1
+101,101,Lesion Segmentation and RECIST Diameter Prediction via Click-Driven Attention and Dual-Path Connection,"Youbao Tang, Ke Yan, Jinzheng Cai, Lingyun Huang, Guotong Xie, Jing Xiao et al.",341-351,/chapter/10.1007/978-3-030-87196-3_32,2021,0
 102,102,Reciprocal Learning for Semi-supervised Segmentation,"Xiangyun Zeng, Rian Huang, Yuming Zhong, Dong Sun, Chu Han, Di Lin et al.",352-361,/chapter/10.1007/978-3-030-87196-3_33,2021,0
 103,103,Disentangled Sequential Graph Autoencoder for Preclinical Alzheimer’s Disease Characterizations from ADNI Study,"Fan Yang, Rui Meng, Hyuna Cho, Guorong Wu, Won Hwa Kim",362-372,/chapter/10.1007/978-3-030-87196-3_34,2021,0
 104,104,POPCORN: Progressive Pseudo-Labeling with Consistency Regularization and Neighboring,"Reda Abdellah Kamraoui, Vinh-Thong Ta, Nicolas Papadakis, Fanny Compaire, José V. Manjon, Pierrick Coupé",373-382,/chapter/10.1007/978-3-030-87196-3_35,2021,0
@@ -114,7 +114,7 @@
 113,113,Order-Guided Disentangled Representation Learning for Ulcerative Colitis Classification with Limited Labels,"Shota Harada, Ryoma Bise, Hideaki Hayashi, Kiyohito Tanaka, Seiichi Uchida",471-480,/chapter/10.1007/978-3-030-87196-3_44,2021,1
 114,114,Semi-supervised Contrastive Learning for Label-Efficient Medical Image Segmentation,"Xinrong Hu, Dewen Zeng, Xiaowei Xu, Yiyu Shi",481-490,/chapter/10.1007/978-3-030-87196-3_45,2021,0
 115,115,Functional Magnetic Resonance Imaging Data Augmentation Through Conditional ICA,"Badr Tajini, Hugo Richard, Bertrand Thirion",491-500,/chapter/10.1007/978-3-030-87196-3_46,2021,0
-116,116,Scalable Joint Detection and Segmentation of Surgical Instruments with Weak Supervision,"Ricardo Sanchez-Matilla, Maria Robu, Imanol Luengo, Danail Stoyanov",501-511,/chapter/10.1007/978-3-030-87196-3_47,2021,1
+116,116,Scalable Joint Detection and Segmentation of Surgical Instruments with Weak Supervision,"Ricardo Sanchez-Matilla, Maria Robu, Imanol Luengo, Danail Stoyanov",501-511,/chapter/10.1007/978-3-030-87196-3_47,2021,0
 117,117,Weakly-Supervised Universal Lesion Segmentation with Regional Level Set Loss,"Youbao Tang, Jinzheng Cai, Ke Yan, Lingyun Huang, Guotong Xie, Jing Xiao et al.",515-525,/chapter/10.1007/978-3-030-87196-3_48,2021,0
 118,118,Bounding Box Tightness Prior for Weakly Supervised Image Segmentation,"Juan Wang, Bin Xia",526-536,/chapter/10.1007/978-3-030-87196-3_49,2021,0
 119,119,OXnet: Deep Omni-Supervised Thoracic Disease Detection from Chest X-Rays,"Luyang Luo, Hao Chen, Yanning Zhou, Huangjing Lin, Pheng-Ann Heng",537-548,/chapter/10.1007/978-3-030-87196-3_50,2021,1
@@ -125,7 +125,7 @@
 124,124,CPNet: Cycle Prototype Network for Weakly-Supervised 3D Renal Compartments Segmentation on CT Images,"Song Wang, Yuting He, Youyong Kong, Xiaomei Zhu, Shaobo Zhang, Pengfei Shao et al.",592-602,/chapter/10.1007/978-3-030-87196-3_55,2021,0
 125,125,Observational Supervision for Medical Image Classification Using Gaze Data,"Khaled Saab, Sarah M. Hooper, Nimit S. Sohoni, Jupinder Parmar, Brian Pogatchnik, Sen Wu et al.",603-614,/chapter/10.1007/978-3-030-87196-3_56,2021,1
 126,126,Inter Extreme Points Geodesics for End-to-End Weakly Supervised Image Segmentation,"Reuben Dorent, Samuel Joutard, Jonathan Shapey, Aaron Kujawa, Marc Modat, Sébastien Ourselin et al.",615-624,/chapter/10.1007/978-3-030-87196-3_57,2021,0
-127,127,Efficient and Generic Interactive Segmentation Framework to Correct Mispredictions During Clinical Evaluation of Medical Images,"Bhavani Sambaturu, Ashutosh Gupta, C. V. Jawahar, Chetan Arora",625-635,/chapter/10.1007/978-3-030-87196-3_58,2021,1
+127,127,Efficient and Generic Interactive Segmentation Framework to Correct Mispredictions During Clinical Evaluation of Medical Images,"Bhavani Sambaturu, Ashutosh Gupta, C. V. Jawahar, Chetan Arora",625-635,/chapter/10.1007/978-3-030-87196-3_58,2021,0
 128,128,Learning Whole-Slide Segmentation from Inexact and Incomplete Labels Using Tissue Graphs,"Valentin Anklin, Pushpak Pati, Guillaume Jaume, Behzad Bozorgtabar, Antonio Foncubierta-Rodriguez, Jean-Philippe Thiran et al.",636-646,/chapter/10.1007/978-3-030-87196-3_59,2021,0
 129,129,Label-Set Loss Functions for Partial Supervision: Application to Fetal Brain 3D MRI Parcellation,"Lucas Fidon, Michael Aertsen, Doaa Emam, Nada Mufti, Frédéric Guffens, Thomas Deprest et al.",647-657,/chapter/10.1007/978-3-030-87196-3_60,2021,0
 130,130,Towards Robust General Medical Image Segmentation,"Laura Daza, Juan C. Pérez, Pablo Arbeláez",3-13,/chapter/10.1007/978-3-030-87199-4_1,2021,0
@@ -148,7 +148,7 @@
 147,147,Uncertainty-Aware Label Rectification for Domain Adaptive Mitochondria Segmentation,"Siqi Wu, Chang Chen, Zhiwei Xiong, Xuejin Chen, Xiaoyan Sun",191-200,/chapter/10.1007/978-3-030-87199-4_18,2021,0
 148,148,Semantic Consistent Unsupervised Domain Adaptation for Cross-Modality Medical Image Segmentation,"Guodong Zeng, Till D. Lerch, Florian Schmaranzer, Guoyan Zheng, Jürgen Burger, Kate Gerber et al.",201-210,/chapter/10.1007/978-3-030-87199-4_19,2021,0
 149,149,Anatomy of Domain Shift Impact on U-Net Layers in MRI Segmentation,"Ivan Zakazov, Boris Shirokikh, Alexey Chernyavskiy, Mikhail Belyaev",211-220,/chapter/10.1007/978-3-030-87199-4_20,2021,0
-150,150,FoldIt: Haustral Folds Detection and Segmentation in Colonoscopy Videos,"Shawn Mathew, Saad Nadeem, Arie Kaufman",221-230,/chapter/10.1007/978-3-030-87199-4_21,2021,1
+150,150,FoldIt: Haustral Folds Detection and Segmentation in Colonoscopy Videos,"Shawn Mathew, Saad Nadeem, Arie Kaufman",221-230,/chapter/10.1007/978-3-030-87199-4_21,2021,0
 151,151,Reference-Relation Guided Autoencoder with Deep CCA Restriction for Awake-to-Sleep Brain Functional Connectome Prediction,"Dan Hu, Weiyan Yin, Zhengwang Wu, Liangjun Chen, Li Wang, Weili Lin et al.",231-240,/chapter/10.1007/978-3-030-87199-4_22,2021,1
 152,152,Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation,"Ran Gu, Jingyang Zhang, Rui Huang, Wenhui Lei, Guotai Wang, Shaoting Zhang",241-250,/chapter/10.1007/978-3-030-87199-4_23,2021,0
 153,153,Fully Test-Time Adaptation for Image Segmentation,"Minhao Hu, Tao Song, Yujun Gu, Xiangde Luo, Jieneng Chen, Yinan Chen et al.",251-260,/chapter/10.1007/978-3-030-87199-4_24,2021,0
@@ -263,7 +263,7 @@
 262,262,You only Learn Once: Universal Anatomical Landmark Detection,"Heqin Zhu, Qingsong Yao, Li Xiao, S. Kevin Zhou",85-95,/chapter/10.1007/978-3-030-87240-3_9,2021,1
 263,263,A Coherent Cooperative Learning Framework Based on Transfer Learning for Unsupervised Cross-Domain Classification,"Xinxin Shan, Ying Wen, Qingli Li, Yue Lu, Haibin Cai",96-106,/chapter/10.1007/978-3-030-87240-3_10,2021,1
 264,264,Towards a Non-invasive Diagnosis of Portal Hypertension Based on an Eulerian CFD Model with Diffuse Boundary Conditions,"Lixin Ren, Shang Wan, Yi Wei, Xiaowei He, Bin Song, Enhua Wu",107-116,/chapter/10.1007/978-3-030-87240-3_11,2021,0
-265,265,A Segmentation-Assisted Model for Universal Lesion Detection with Partial Labels,"Fei Lyu, Baoyao Yang, Andy J. Ma, Pong C. Yuen",117-127,/chapter/10.1007/978-3-030-87240-3_12,2021,1
+265,265,A Segmentation-Assisted Model for Universal Lesion Detection with Partial Labels,"Fei Lyu, Baoyao Yang, Andy J. Ma, Pong C. Yuen",117-127,/chapter/10.1007/978-3-030-87240-3_12,2021,0
 266,266,Constrained Contrastive Distribution Learning for Unsupervised Anomaly Detection and Localisation in Medical Images,"Yu Tian, Guansong Pang, Fengbei Liu, Yuanhong Chen, Seon Ho Shin, Johan W. Verjans et al.",128-140,/chapter/10.1007/978-3-030-87240-3_13,2021,1
 267,267,Conditional Training with Bounding Map for Universal Lesion Detection,"Han Li, Long Chen, Hu Han, Ying Chi, S. Kevin Zhou",141-152,/chapter/10.1007/978-3-030-87240-3_14,2021,1
 268,268,Focusing on Clinically Interpretable Features: Selective Attention Regularization for Liver Biopsy Image Classification,"Chong Yin, Siqi Liu, Rui Shao, Pong C. Yuen",153-162,/chapter/10.1007/978-3-030-87240-3_15,2021,1
