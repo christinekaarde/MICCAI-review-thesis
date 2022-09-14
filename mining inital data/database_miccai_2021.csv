@@ -68,7 +68,6 @@
 66,A Line to Align: Deep Dynamic Time Warping for Retinal OCT Segmentation,"Heiko Maier, Shahrooz Faghihroohi, Nassir Navab",709-719,/chapter/10.1007/978-3-030-87193-2_67,2021,1
 67,Learnable Oriented-Derivative Network for Polyp Segmentation,"Mengjun Cheng, Zishang Kong, Guoli Song, Yonghong Tian, Yongsheng Liang, Jie Chen",720-730,/chapter/10.1007/978-3-030-87193-2_68,2021,1
 68,LambdaUNet: 2.5D Stroke Lesion Segmentation of Diffusion-Weighted MR Images,"Yanglan Ou, Ye Yuan, Xiaolei Huang, Kelvin Wong, John Volpi, James Z. Wang et al.",731-741,/chapter/10.1007/978-3-030-87193-2_69,2021,1
-69,Correction to: Interactive Segmentation via Deep Learning and B-Spline Explicit Active Surfaces,"Helena Williams, João Pedrosa, Laura Cattani, Susanne Housmans, Tom Vercauteren, Jan Deprest et al.",C1-C1,/chapter/10.1007/978-3-030-87193-2_70,2021,1
 70,SSLP: Spatial Guided Self-supervised Learning on Pathological Images,"Jiajun Li, Tiancheng Lin, Yi Xu",3-12,/chapter/10.1007/978-3-030-87196-3_1,2021,2
 71,Segmentation of Left Atrial MR Images via Self-supervised Semi-supervised Meta-learning,"Dani Kiyasseh, Albert Swiston, Ronghua Chen, Antong Chen",13-24,/chapter/10.1007/978-3-030-87196-3_2,2021,2
 72,Deformed2Self: Self-supervised Denoising for Dynamic Medical Imaging,"Junshen Xu, Elfar Adalsteinsson",25-35,/chapter/10.1007/978-3-030-87196-3_3,2021,2
@@ -332,7 +331,6 @@
 330,AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray,"Nkechinyere N. Agu, Joy T. Wu, Hanqing Chao, Ismini Lourentzou, Arjun Sharma, Mehdi Moradi et al.",804-813,/chapter/10.1007/978-3-030-87240-3_77,2021,5
 331,Projection-Wise Disentangling for Fair and Interpretable Representation Learning: Application to 3D Facial Shape Analysis,"Xianjing Liu, Bo Li, Esther E. Bron, Wiro J. Niessen, Eppo B. Wolvius, Gennady V. Roshchupkin",814-823,/chapter/10.1007/978-3-030-87240-3_78,2021,5
 332,Attention-Based Multi-scale Gated Recurrent Encoder with Novel Correlation Loss for COVID-19 Progression Prediction,"Aishik Konwer, Joseph Bae, Gagandeep Singh, Rishabh Gattu, Syed Ali, Jeremy Green et al.",824-833,/chapter/10.1007/978-3-030-87240-3_79,2021,5
-333,Correction to: Transfer Learning of Deep Spatiotemporal Networks to Model Arbitrarily Long Videos of Seizures,"Fernando Pérez-García, Catherine Scott, Rachel Sparks, Beate Diehl, Sébastien Ourselin",C1-C1,/chapter/10.1007/978-3-030-87240-3_80,2021,5
 334,Two-Stage Self-supervised Cycle-Consistency Network for Reconstruction of Thin-Slice MR Images,"Zhiyang Lu, Zheng Li, Jun Wang, Jun Shi, Dinggang Shen",3-12,/chapter/10.1007/978-3-030-87231-1_1,2021,6
 335,Over-and-Under Complete Convolutional RNN for MRI Reconstruction,"Pengfei Guo, Jeya Maria Jose Valanarasu, Puyang Wang, Jinyuan Zhou, Shanshan Jiang, Vishal M. Patel",13-23,/chapter/10.1007/978-3-030-87231-1_2,2021,6
 336,TarGAN: Target-Aware Generative Adversarial Networks for Multi-modality Medical Image Translation,"Junxiao Chen, Jia Wei, Rui Li",24-33,/chapter/10.1007/978-3-030-87231-1_3,2021,6
@@ -392,7 +390,6 @@
 390,MASC-Units:Training Oriented Filters for Segmenting Curvilinear Structures,"Zewen Liu, Timothy Cootes",590-599,/chapter/10.1007/978-3-030-87231-1_57,2021,6
 391,Vessel Width Estimation via Convolutional Regression,"Rui-Qi Li, Gui-Bin Bian, Xiao-Hu Zhou, Xiaoliang Xie, Zhen-Liang Ni, Yan-Jie Zhou et al.",600-610,/chapter/10.1007/978-3-030-87231-1_58,2021,6
 392,Renal Cell Carcinoma Classification from Vascular Morphology,"Rudan Xiao, Eric Debreuve, Damien Ambrosetti, Xavier Descombes",611-621,/chapter/10.1007/978-3-030-87231-1_59,2021,6
-393,Correction to: TVnet: Automated Time-Resolved Tracking of the Tricuspid Valve Plane in MRI Long-Axis Cine Images with a Dual-Stage Deep Learning Pipeline,"Ricardo A. Gonzales, Jérôme Lamy, Felicia Seemann, Einar Heiberg, John A. Onofrey, Dana C. Peters",C1-C1,/chapter/10.1007/978-3-030-87231-1_60,2021,6
 394,Learning More for Free - A Multi Task Learning Approach for Improved Pathology Classification in Capsule Endoscopy,"Anuja Vats, Marius Pedersen, Ahmed Mohammed, Øistein Hovde",3-13,/chapter/10.1007/978-3-030-87234-2_1,2021,7
 395,Learning-Based Attenuation Quantification in Abdominal Ultrasound,"Myeong-Gee Kim, SeokHwan Oh, Youngmin Kim, Hyuksool Kwon, Hyeon-Min Bae",14-23,/chapter/10.1007/978-3-030-87234-2_2,2021,7
 396,Colorectal Polyp Classification from White-Light Colonoscopy Images via Domain Alignment,"Qin Wang, Hui Che, Weizhen Ding, Li Xiang, Guanbin Li, Zhen Li et al.",24-32,/chapter/10.1007/978-3-030-87234-2_3,2021,7
@@ -467,7 +464,6 @@
 465,Sequential Learning on Liver Tumor Boundary Semantics and Prognostic Biomarker Mining,"Jie-Neng Chen, Ke Yan, Yu-Dong Zhang, Youbao Tang, Xun Xu, Shuwen Sun et al.",764-774,/chapter/10.1007/978-3-030-87234-2_72,2021,7
 466,Do We Need Complex Image Features to Personalize Treatment of Patients with Locally Advanced Rectal Cancer?,"Iram Shahzadi, Annika Lattermann, Annett Linge, Alexander Zwanenburg, Christian Baldus, Jan C. Peeken et al.",775-785,/chapter/10.1007/978-3-030-87234-2_73,2021,7
 467,Multiple Instance Learning with Auxiliary Task Weighting for Multiple Myeloma Classification,"Talha Qaiser, Stefan Winzeck, Theodore Barfoot, Tara Barwick, Simon J. Doran, Martin F. Kaiser et al.",786-796,/chapter/10.1007/978-3-030-87234-2_74,2021,7
-468,Correction to: Highly Reproducible Whole Brain Parcellation in Individuals via Voxel Annotation with Fiber Clusters,"Ye Wu, Sahar Ahmad, Pew-Thian Yap",C1-C1,/chapter/10.1007/978-3-030-87234-2_75,2021,7
 469,Relational Subsets Knowledge Distillation for Long-Tailed Retinal Diseases Recognition,"Lie Ju, Xin Wang, Lin Wang, Tongliang Liu, Xin Zhao, Tom Drummond et al.",3-12,/chapter/10.1007/978-3-030-87237-3_1,2021,8
 470,Cross-Domain Depth Estimation Network for 3D Vessel Reconstruction in OCT Angiography,"Shuai Yu, Yonghuai Liu, Jiong Zhang, Jianyang Xie, Yalin Zheng, Jiang Liu et al.",13-23,/chapter/10.1007/978-3-030-87237-3_2,2021,8
 471,Distinguishing Differences Matters: Focal Contrastive Network for Peripheral Anterior Synechiae Recognition,"Yifan Yang, Huihui Fang, Qing Du, Fei Li, Xiulan Zhang, Mingkui Tan et al.",24-33,/chapter/10.1007/978-3-030-87237-3_3,2021,8
