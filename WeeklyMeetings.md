@@ -1,5 +1,7 @@
 
 # Christine's Weekly Meeting Notes
+* [12 September 2022](#date-12-september-2022)
+* 
 * [05 September 2022](#date-05-september-2022)
 
 * [29 August 2022](#date-29-august-2022)
@@ -11,6 +13,48 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+
+
+### Date: 12 September 2022
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+Meeting with Veronica and getting feedback, plus coming up with a more concise method of doing the mining I was already doing (amazing how planning out your programming approach can make it smarter)
+
+#### What did you achieve?
+
+* Created updated methods for mining the titles + abstracts for keywords (not completely finished)
+* adding parts of proceedings to original database
+* tested out a NLP tokenizer
+
+#### What did you struggle with?
+
+* Feeling tired
+* Lectures at KU are really interesting but fall right on top op where I am usually most productive
+* Missing a feeling of accomplishment in how much I've done - and how much there is still to do perhaps?
+
+#### What would you like to work on next week?
+
+* I'd like to finish up the classification labelling
+* References mining finished as well
+* Getting clear on which articles to hand annotate
+* What to hand annotate
+* Google Form or not?
+
+#### Where do you need help from Veronika?
+
+* General feedback on updated methods
+* An estimate of how much work I still need to do, re:changing the hand in date (managing expectations)
+
+#### Any other topics
+
+Been in not the best headspace this week, and am a bit stressed about next week (personal stuff bleeding in, not as much time to work next week)
+Not really anything we need to discuss as such, just acknowledging it. Am still really enjoying what I'm doing thankfully!
+
 
 ### Date: 05 September 2022
 
