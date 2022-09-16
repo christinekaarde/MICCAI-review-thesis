@@ -1,7 +1,7 @@
 
 # Christine's Weekly Meeting Notes
 * [12 September 2022](#date-12-september-2022)
-* 
+
 * [05 September 2022](#date-05-september-2022)
 
 * [29 August 2022](#date-29-august-2022)
