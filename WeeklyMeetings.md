@@ -30,6 +30,7 @@ Meeting with Veronica and getting feedback, plus coming up with a more concise m
 * Created updated methods for mining the titles + abstracts for keywords (not completely finished)
 * adding parts of proceedings to original database
 * tested out a NLP tokenizer
+* references mining script that seems to work, yay!
 
 #### What did you struggle with?
 
@@ -39,15 +40,15 @@ Meeting with Veronica and getting feedback, plus coming up with a more concise m
 
 #### What would you like to work on next week?
 
-* I'd like to finish up the classification labelling
-* References mining finished as well
+* I'd like to finish up the classification labelling script, cleaning it up for use
+* finishing my ideas for using the references mining (adding columns to classification subset)
 * Getting clear on which articles to hand annotate
 * What to hand annotate
 * Google Form or not?
 
 #### Where do you need help from Veronika?
 
-* General feedback on updated methods
+* General feedback on updated methods + references mining
 * An estimate of how much work I still need to do, re:changing the hand in date (managing expectations)
 
 #### Any other topics
