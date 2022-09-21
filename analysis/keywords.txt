@@ -1,6 +1,6 @@
 atlas
 parcellation
-motion 
+motion
 correction
 super
 resolution
@@ -21,10 +21,10 @@ predict
 detection
 detect
 diagnosis
-MCI 
+MCI
 conversion
 multiclass
-dictionary 
+dictionary
 learning
 malignancy
 detection
