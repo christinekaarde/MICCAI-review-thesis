@@ -1,5 +1,7 @@
 
 # Christine's Weekly Meeting Notes
+* [19 September 2022](#date-19-september-2022)
+
 * [12 September 2022](#date-12-september-2022)
 
 * [05 September 2022](#date-05-september-2022)
@@ -13,6 +15,38 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 19 September 2022
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+
+
+#### What did you achieve?
+
+* More or less finished up my updated methods for labeling the articles as classification or otherwise
+* got the references mining to work
+
+#### What did you struggle with?
+
+* motivation
+* outside stressors that influenced the amount of work I could do
+
+#### What would you like to work on next week?
+
+* annotating articles
+* google form
+* getting a handle on how much work I should do
+
+#### Where do you need help from Veronika?
+
+* feedback on script
+* An estimate of how much work I still need to do, re:changing the hand in date (managing expectations)
+
+#### Any other topics
 
 
 
