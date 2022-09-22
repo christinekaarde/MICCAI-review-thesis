@@ -22,13 +22,12 @@
 
 
 #### What helped you this week?
-
-
+Utilising mornings, this is definitely when I work the best, so need to remember to structure my weeks and tasks around the early morning hours!
 
 #### What did you achieve?
 
-* More or less finished up my updated methods for labeling the articles as classification or otherwise
-* got the references mining to work
+* Finished my updated methods for labeling the articles as classification or otherwise
+* Got the references mining to work and finished it
 
 #### What did you struggle with?
 
@@ -47,7 +46,7 @@
 * An estimate of how much work I still need to do, re:changing the hand in date (managing expectations)
 
 #### Any other topics
-
+At some point, a bit later want to go back to the updated methods script and clean it up even more - but for now would like to move a bit on and work on something else just for my own sake. 
 
 
 ### Date: 12 September 2022
