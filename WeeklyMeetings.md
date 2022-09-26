@@ -1,5 +1,7 @@
 
 # Christine's Weekly Meeting Notes
+* [26 September 2022](#date-26-september-2022)
+
 * [19 September 2022](#date-19-september-2022)
 
 * [12 September 2022](#date-12-september-2022)
@@ -15,6 +17,45 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 26 September 2022
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### What helped you this week?
+
+Replace this text with a one/two sentence description of what helped you this week and how.
+
+#### What did you achieve?
+
+* Started annotating articles with google form
+* Updated rules slightly
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Veronika?
+
+* Replace this text with a bullet point list of what you need help from Veronika on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
 
 ### Date: 19 September 2022
 
@@ -297,7 +338,7 @@ Replace this text with a one/two sentence description of what helped you this we
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronica on.
+* Replace this text with a bullet point list of what you need help from Veronika on.
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
