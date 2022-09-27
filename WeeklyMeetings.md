@@ -23,17 +23,18 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
 
 #### What helped you this week?
 
-Replace this text with a one/two sentence description of what helped you this week and how.
+Monday's meeting with Veronika meant I knew exactly where to begin and have been feeling confident again in my work, yay.
+Also having a week where all my mornings were able to be dedicated to thesis work helped tremendously!
 
 #### What did you achieve?
 
 * Started annotating articles with google form
 * Updated rules slightly
+* created script for histograms of performance measures and methods
+* New hand in date, exciting!
 
 #### What did you struggle with?
 
