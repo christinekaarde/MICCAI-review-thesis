@@ -35,27 +35,26 @@ Also having a week where all my mornings were able to be dedicated to thesis wor
 * Updated rules slightly
 * created script for histograms of performance measures and methods
 * New hand in date, exciting!
+* created graphs for ethics mentioned in articles and affiliations mentioned in articles
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-
+* Back pain and pelvis pain... But am working on good working environments and giving my body all the short breaks it needs to hopefully combat this issue!
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Annotating more articles
+* Working on references analysis
+* Making my graphs prettier (more customised)
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* feedback on graphs so far (+ code)
+* how good/reproducible should I aim for my code to be in terms of generating graphs/doing analysis?
 
 #### Any other topics
 
-This space is yours to add to as needed.
+
 
 
 ### Date: 19 September 2022
