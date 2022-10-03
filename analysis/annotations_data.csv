@@ -243,3 +243,232 @@ Universal Lesion Detection (ULD) in computed tomography plays an essential role 
 29/09/2022 09.53.59,267,2021,Yes,It was accurately labelled,"In this paper, we propose a selective attention regularization module (SAttenReg) to mimic the diagnosis process of pathologists. Specifically, to explicitly encourage the model to focus on clinically interpretable features (e.g., nuclei and fat droplets), SAttenReg learns the attention map with the regularization of clinically interpretable features. Furthermore, with the different contributions of histological features, the model can selectively focus on different histological features based on the distribution of nuclei in each instance. Experiments conducted on the in-house Liver-NAS and public Biopsy4Grading biopsy image datasets show that our method achieves superior classification performance with promising localization results.",we propose a selective attention regularization module (SAttenReg) to mimic the diagnosis process of pathologists.,"Nonalcoholic fatty liver disease (NAFLD) is the most common cause of liver disease worldwide [21, 22]. It is estimated that the prevalence of NAFLD is between 25% and 45%, which has become an important public health concern [4, 20]. ",Neural network,"Specificity, F1 score, Sensitivity",No,Nothing is mentioned,Yes,Biopsy4grading and Liver-NAS,"Biopsy4Grading [7] is a public liver section dataset collected from animals studies. Each liver tiles (299 $$\times $$ 299 pixels) were assigned to discrete pathologist-like sub-scores for quantifying NAS-related components of ballooning degeneration (0–2), lobular inflammation (0–3), steatosis (0–3) and fibrosis (0–4), corresponding to the Kleiner score system [11]. Liver-NAS is a private dataset of liver biopsy images collecting from 9 patients. Image tiles were generated from whole slide images ($$\sim 106259\times 306939$$ pixels) with an area of $$224\times 224$$ pixels, which can guarantee the pathologist to sufficiently identify the relevant histological features within the tile.",Private,"Both, one is public, one is private",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"This work was supported by the Health and Medical Research Fund Project under Grant 07180216. We acknowledge insightful discussion with Anthony W.H. CHAN. We also thank Vincent WS WONG, Grace LH WONG, and Howard H.W. LEUNG from the Chinese University of Hong Kong for help with data preparation.",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,
 29/09/2022 10.01.00,268,2021,Yes,It was accurately labelled,Categorical Relation-Preserving Contrastive Knowledge Distillation for Medical Image Classification,"we propose a novel Categorical Relation-preserving Contrastive Knowledge Distillation (CRCKD) algorithm, which takes the commonly used mean-teacher model as the supervisor. ","The amount of medical images for training deep classification models is typically very scarce, making these deep models prone to overfit the training data. Studies showed that knowledge distillation (KD), especially the mean-teacher framework which is more robust to perturbations, can help mitigate the over-fitting effect. ","deep learning, knowledge distillation","Accuracy, F1 score,  average precision (AP), balanced multi-class accuracy (BMA),",No,Nothing is mentioned,Yes,"HAM10000 [23, 24] and APTOS datasets [25].","The HAM10000 consists of 10015 dermoscopy images labeled by 7 types of skin lesions. In APTOS, there are 3662 fundus images for grading diabetic retinopathy into five categories. ",Don't know,"Dataset: We evaluated our proposed CRCKD framework on the HAM10000 [23, 24] and APTOS datasets [25]. The HAM10000 consists of 10015 dermoscopy images labeled by 7 types of skin lesions. In APTOS, there are 3662 fundus images for grading diabetic retinopathy into five categories. These two datasets both suffer from severe class imbalance. A detailed description of these two datasets is provided in the supplementary material.",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"The work described in this paper was supported by National Key R&D program of China with Grant No. 2019YFB1312400, Hong Kong RGC CRF grant C4063-18G, and Hong Kong RGC GRF grant #14211420.",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"Also has supplementary electronic material, but there is a mention of what the supplementary material contains in the text, more info about the datasets, so some of the above questions may have different answers if this was available",
 29/09/2022 10.07.02,269,2021,Yes,It was accurately labelled,we propose a tensor-based multi-index representation learning (TMRL) framework for fMRI-based MDD detection,", we propose a tensor-based multi-index representation learning (TMRL) framework for fMRI-based MDD detection","Major depression disorder (MDD) is one of the most prevalent disabling disorder, characterized by depressed mood, loss of interest or pleasure in nearly all activities. This mental illness has a high mortality rate due to the suicidal behavior of MDD patients, while the high cost of treatment troubles patients, their family members, and society [1, 2]. Even though many efforts have been made in clinical neuroscience and psychiatric research, the unknown etiology and pathological mechanism still prevent us from fully understanding the disease.",tensor-based multi-index representation learning (TMRL) framework for MDD detection with rs-fMRI,"Specificity, Accuracy, F1 score, Sensitivity",No,"Each fMRI scan was basically pre-processed by using the Data Processing Assistant for Resting-State fMRI (DPARSF). In this pipeline, we first discard the first 10 time points, followed by slice timing correction, head motion correction, regression of nuisance co-variants of head motion parameters, white matter, and cerebrospinal fluid. Images are then normalized with an EPI template in the MNI space, resampling to $$3 \times 3\times 3\,\text {mm}^{3}$$ resolution, and spatial smoothing using a $$6\,\text {mm}$$ full-width at half-maximum (FWHM) Gaussian kernel. ",Yes,The public rs-fMRI dataset,The public rs-fMRI dataset consists of 533 subjects1,Public,The public rs-fMRI dataset consists of 533 subjects1,No,Nothing is mentioned,Yes,"Article contains a table covering the gender, age, education year, first period, on medication and illness time of subjects included!",No,Nothing is mentioned,Yes,This work was finished when D. Yao was visiting the University of North Carolina at Chapel Hill. D. Yao and M. Liu was partly supported by NIH grant (No. AG041721). Z. Zhang was partly supported by the National Key Research and Development Program of China (No. 2016YFD0700100).,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,The table showing the demographics and electronic supplementary material,
+30/09/2022 10.58.09,33,2012,No,I don't know,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Unsure about this one, doesn't have the performance measures I would expect, but also don't understand what they are really doing and how.."
+30/09/2022 11.06.10,36,2012,Yes,It was accurately labelled,"There is an increasing demand for automated detection and analysis of
+dermoscopy structures and malignancy clues such as streaks in dermoscopy images,
+for computer-aided early diagnosis of deadly melanoma. This paper presents
+a novel approach for streak detection and visualization on dermoscopic images.
+We tackle the detection of streaks by means of ridge and valley estimation. Orientation
+estimation and correction is applied to detect low contrast and fuzzy streaks
+lines, and candidate streaks are used to classify dermoscopy images into streaks
+Absent or Present with the AUC of 90.5% on 300 dermoscopy images.","This paper presents
+a novel approach for streak detection and visualization on dermoscopic images.","Melanoma is the most deadly form of skin cancer, yet treatable via excision if detected
+early. There is, therefore, a demand to develop computer-aided diagnostic systems to facilitate
+the early detection of melanoma.",SimpleLogistic classifier implemented in Weka ( a logistic regression model),"AUC, Accuracy, Precision, Recall, F1 score",Yes,First the lesion is segmented using Wighton et al.’s method,No,"we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission.","we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission.",Private,"we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission. - So I suppose that means mixed, the atlases may be public?",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"This work was funded by the Canadian NSERC, CIHR-Skin Research
+Training Center and a grant from the Canadian Health Research Project (CHRP).",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,
+30/09/2022 11.12.41,37,2012,Yes,It was accurately labelled,"Our experimental results show that the proposed method
+can effectively identify the location of the foveola, facilitating diagnosis
+around this important landmark.","We develop an automated method to determine the foveola
+location in macular 3D-OCT images in either healthy or pathological
+conditions.","The foveola is an important anatomical landmark for retinal image analysis [1]. It
+is located in the center of the macula, responsible for sharp central vision. Several
+clinically-relevant indices are measured with respect to the foveola location, such
+as the retina’s average thickness, or drusen size within concentric circles around
+the foveola [1, 2]. In addition, many macular diseases are best observed around
+the foveola, such as macular hole, and age-related macular degeneration [3].
+Therefore, the localization of the foveola in retinal images is an important first
+step for diagnosis and longitudinal data analysis.",SVM,"mean, median, standard deviation",No,nothing is mentioned,No,"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ≤ 8 pixels)","We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ≤ 8 pixels)",Private,"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ≤ 8 pixels)",Don't know,"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ≤ 8 pixels)",No,Nothing is mentioned,Yes,For the purpose of this article,Yes,"This research is supported in part by National Institutes of
+Health contracts R01-EY013178 and P30-EY008098, The Eye and Ear Foundation
+(Pittsburgh, PA), unrestricted grants from Research to Prevent Blindness,
+Inc. (New York, NY), and grants from Intel Labs Pittsburgh (Pittsburgh, PA).",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"There is psuedocode included for their algorithm, so partial transparency?","This one is perhaps also unclear if it is classification or not, the performance measures especially seem to indicate perhaps not, more localisation than classification, though they do do classification"
+30/09/2022 11.17.42,38,2012,Yes,It was accurately labelled,"In the context of a blind source separation
+of the underlying colour, we arrive at intrinsic melanin and hemoglobin
+images, whose properties are then used in supervised learning to achieve excellent
+malignant vs. benign skin lesion classification.","In this paper we propose a new log-chromaticity 2-D colour space,
+an extension of previous approaches, which succeeds in removing confounding
+factors from dermoscopic images: (i) the effects of the particular camera characteristics
+for the camera system used in forming RGB images; (ii) the colour
+of the light used in the dermoscope; (iii) shading induced by imaging non-flat
+skin surfaces; (iv) and light intensity, removing the effect of light-intensity falloff
+toward the edges of the dermoscopic image. In the context of a blind source separation
+of the underlying colour, we arrive at intrinsic melanin and hemoglobin
+images, whose properties are then used in supervised learning to achieve excellent
+malignant vs. benign skin lesion classification.","The three most common malignant skin cancers are basal cell carcinoma (BCC), squamous
+cell carcinoma (SCC), and melanoma, among which melanoma is the most deadly
+with a high increasing rate in most parts of the world. Melanoma is often treatable if
+detected in the early stage, particularly before the metastasis phase. Therefore, there is
+an increasing demand for computer-aided diagnostic systems to catch early melanomas.
+Colour has played a crucial role in the diagnosis of skin lesions by experts in most
+clinical methods (see e.g. [1]). For instance, the presence of multiple colours with an
+irregular distribution can signal malignancy.
+Few studies have investigated the use of colour features representing biological properties
+of skin lesions.",Logistic classifier,"AUC, Precision, Recall, F1 score",Yes,"For automatic segmentation of lesions, we found that
+using the geometric-mean μ is as good as or better than the state of the art [12] for these
+dermoscopic images, in amuch simpler algorithm.",No,"We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions","We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions",Private,"(This is the ONLY description of the dataset...) We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,This article probably has the shortest description of a dataset I've seen so far!
+30/09/2022 11.23.46,40,2012,Yes,It was accurately labelled,"We applied a linear Support Vector Machine (SVM) to classify candidate patch
+sequences.","we present an image analysis method to
+detect apoptosis in time-lapse phase-contrast microscopy, which is nondestructive
+imaging.","There have been little-to-no reports of apoptosis detection in phase-contrast
+microscopy. To the best of our knowledge, cell death event detection has only
+been implicitly performed as a byproduct of cell tracking; i.e., if the trajectory of
+a cell terminates during cell tracking, the cell is considered dead. However, this
+simple heuristic often yields poor results because many cell traject",SVM,"Precision, Recall",No,Nothing is mentioned,No,"After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/∼seungilh).","After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/∼seungilh).",Public,"The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/∼seungilh).",Yes,"After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/∼seungilh).",No,"Not relevant as such, uses stem cells (though no mention is made of which and whose stem cells are used of course)",Yes,For the purpose of this article,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,Pseudo code included,
+03/10/2022 09.06.44,270,2021,Yes,It was accurately labelled,computer-aided mild cognitive impairment (MCI) conversion prediction,we propose a region ensemble model using a divide and conquer strategy to capture the disease’s finer representation,"Despite many recent advances, computer-aided mild cognitive impairment (MCI) conversion prediction is still a very challenging task due to: 1) the abnormal areas are subtle compared to the size of the whole brain, 2) the features’ dimension is much larger than the number of samples. ",Neural network,"AUC, Specificity, Accuracy, Sensitivity",Yes,"Since our method needs voxel-level annotation to extract brain regions, we use the dataset in [13] and the method in [19] to train a segmentation model which segments the whole brain into 134 regions.",Yes,We perform experiments on the public Alzheimer’s Disease Neuroimaging Initiative (ADNI) dataset [18],"Following [9–12], in all experiments, we treat ADNI-1 as the training set and leave ADNI-2 for testing to make an easier comparison. The training and testing set contains 226 sMCI vs. 167 pMCI and 239 sMCI vs. 38 pMCI, respectively. We also collect 199 AD and 229 NC samples in ADNI-1 as the additional samples to optimize the proposed relation regularized loss.",Public,ADNI is available ,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,"This work has been supported by the National Key Research and Development Program Grant 2018AAA0100400, the National Natural Science Foundation of China (NSFC) grants 61773376, 61836014, 61721004 and 31870984.",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,
+03/10/2022 09.13.12,271,2021,Yes,It was accurately labelled," Since normal human airways share an anatomical structure, we design a graph prototype whose structure follows the normal airway anatomy. Then, we learn the prototype and a graph neural network from a weakly-supervised airway dataset, i.e., only the holistic label is available, indicating if the airway has anomaly or not, but which bronchus node has the anomaly is unknown. During inference, the graph neural network predicts the anomaly score at both the holistic level and node-level of an airway. "," Since normal human airways share an anatomical structure, we design a graph prototype whose structure follows the normal airway anatomy. Then, we learn the prototype and a graph neural network from a weakly-supervised airway dataset, i.e., only the holistic label is available, indicating if the airway has anomaly or not, but which bronchus node has the anomaly is unknown. During inference, the graph neural network predicts the anomaly score at both the holistic level and node-level of an airway. ",Detecting the airway anomaly can be an essential part to aid the lung disease diagnosis. ,"Graph analysis, Neural network","Specificity, Sensitivity",No,"But the data has to be segmented before using their model: Given the segmented and classified airway results shared by [7] (Fig. 2(b–c)), we encode the anatomical structure of the airways, as well as their image properties and graph properties into feature vectors. ",Yes,"We collected datasets from 3 resources: The Lung Image Database Consortium (LIDC) [8], The Lung Tissue Research Consortium (LTRC) [9], and The National Lung Screening Trial (NLST)","We collected datasets from 3 resources: The Lung Image Database Consortium (LIDC) [8], The Lung Tissue Research Consortium (LTRC) [9], and The National Lung Screening Trial (NLST) [10], leading to 62 normal samples and 23 anomaly samples in total. ",Public,"Looking at the references and googling, all 3 seem to be public",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,Yes,The code is publicly available on Github,
+03/10/2022 09.17.03,272,2021,No,Other medical imaging task,"In the experiments, we use three widely used metrics [20] to evaluate the performance of different retrieval methods. These evaluation metrics are: average cumulative gain (ACG), normalized discounted cumulative gain (NDCG), and weighted mean average precision (mAP$$_w$$).",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/10/2022 09.18.24,273,2021,No,Other medical imaging task,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/10/2022 09.19.11,275,2021,No,Segmentation,ASC-Net: Adversarial-Based Selective Network for Unsupervised Anomaly Segmentation,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/10/2022 09.33.27,41,2012,Yes,It was accurately labelled,"We test our method on a
+collection of 42 lymphocyte sequences and present results on i) discrimination of
+normal and abnormal cellular morphology, ii) local statistical differences between
+abnormal and normal shape sequences, and iii) classification of shape sequences
+based on the dynamic cellular shape changes from one time point to another.","In this paper we propose a dynamic framework for quantitative analysis of
+lymphocyte morphological changes in 2D+t image sequences","Morphological analysis of cells features prominently in a wide range of applications
+including digital pathology and is essential for improving our understanding
+of the basic physiological processes of organisms.",Learning Vector Quantization (LVQ) was then used to classify these two categories with 10-fold cross-validation,"Specificity, Accuracy, Sensitivity",No,"But mentions the data is segmented prior to use: We represent the segmented cell boundary by 2D
+closed, continuously parameterized curve [5–7] c ⊂ R2 given by c(s) : [0, 2π) →
+R2.",No,"Our data consists of 42 lymphocyte image sequences (20∼30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 μ resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.","Our data consists of 42 lymphocyte image sequences (20∼30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 μ resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.",Private,"Our data consists of 42 lymphocyte image sequences (20∼30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 μ resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.",No,"Our data consists of 42 lymphocyte image sequences (20∼30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 μ resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.",No,"Also not relevant, tested on mice",Yes,For the article,Yes,"This work is sponsored by the National Natural Science Foundation of China
+(60971133) and the China Scholarship Council. anxing@bit.edu.cn",No,"Not relevant, mice testing",No,Nothing is mentioned,No,"Not relevant, mice testing",No,Nothing mentioned,
+03/10/2022 09.37.26,42,2012,Yes,It was accurately labelled,"In this paper we propose a learning-based method that is general enough
+to perform well across different microscopy modalities. Rather than invoking
+computationally-intensive segmentation frameworks [1,9], or classifying all image
+patches in a sliding-window manner [15], it uses a highly-efficient MSER region
+detector [8] to find a broad number of candidate regions to be scored with a
+learning-based measure. The non-overlaping subset of those regions with high
+similarity to the class of interest can then be selected via dynamic programming,
+while the learning can be done within the structured output framework [12].","In this paper we propose a learning-based method that is general enough
+to perform well across different microscopy modalities. Rather than invoking
+computationally-intensive segmentation frameworks [1,9], or classifying all image
+patches in a sliding-window manner [15], it uses a highly-efficient MSER region
+detector [8] to find a broad number of candidate regions to be scored with a
+learning-based measure. The non-overlaping subset of those regions with high
+similarity to the class of interest can then be selected via dynamic programming,
+while the learning can be done within the structured output framework [12].","Automatic cell detection is a subject of interest in a wide range of cell-based
+studies, as it is the basis of many automatic methods for cell counting, segmentation
+and tracking. The broad diversity of cell lines and microscopy imaging
+techniques require that cell detection algorithms adapt well to different scenarios.
+The difficulty of the problem also increases when the cell density of the
+sample is high, as in this case the cell size can vary and cell clumping is usual.
+Moreover, in some applications different cell types or other similar structures
+can be present in the same image, and in this case the algorithm is required to
+detect only the cells of interest, posing a barrier hard to overcome with classical
+image processing techniques.",SVM,"Precision, Recall",Yes,"Although the algorithm produces a set of regions, our
+aim is to optimize the detection accuracy (and not the segmentation) w.r.t. the
+ground truth provided in the form of dots.",No,"Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+Three variations of our method are evaluated: (I) direct classification","Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+",Don't know,Mixed I think,No,"Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+Three variations of our method are evaluated: (I) direct classification",No,Nothing is mentioned,No,Nothing is mentioned,Yes,"We are grateful to Dr. N. Rajpoot, Dr. E. Bernadis, Dr.
+B. Vojnovic and Dr. G. Flaccavento for providing cell data sets. Financial support
+was provided by the RCUK Centre for Doctoral Training in Healthcare
+Innovation (EP/G036861/1) and ERC grant VisRec no. 228180.",No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,
+03/10/2022 09.39.15,51,2012,No,Other medical imaging task,"However, our target applications for this model are registration and reconstruction.",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/10/2022 09.40.04,52,2012,No,Other medical imaging task,"Towards Intra-operative PET for Head
+and Neck Cancer: Lymph Node Localization
+Using High-Energy Probes",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/10/2022 09.45.04,53,2012,Yes,It was accurately labelled,"Our method features a novel completely
+data-driven approach to breast shape prediction that does not necessitate
+prior knowledge about biomechanical properties and parameters of the
+breast tissue.","We therefore propose a method for 3D breast decompression
+and associated lesion mapping from 3D DBT data.","According to theWorld Cancer Report 2008 (globocan.iarc.fr, 2012/01/23) breast
+cancer is the most frequent cancer diagnosis in women among all specifiable
+kinds of cancer. Early detection is assumed to significantly improve outcomes.",3D Shape Prediction by Multiple Multi-variate Random Forest Regression,Accuracy,Yes,"For this we first segment the breast
+tissue area by thresholding and region growing,",No,"Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.","Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.",Private,"Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.",No,Nothing is mentioned,No,Nothing is mentioned,Yes,I believe it was collected for this article,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,No,Nothing is mentioned,
