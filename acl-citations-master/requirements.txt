@@ -1,0 +1,16 @@
+better_exceptions
+black
+docopt
+fuzzywuzzy[speedup]
+gitpython
+logzero
+lxml
+matplotlib
+numpy
+pandas
+python-slugify
+researchpy
+requests
+seaborn
+statsmodels
+tqdm
