@@ -28,34 +28,31 @@
 
 #### What helped you this week?
 
-Replace this text with a one/two sentence description of what helped you this week and how.
+Having multiple things to work on, so I could jump around as needed, depending on mood and inclination
 
 #### What did you achieve?
 
 * Started on the references analysis
 * annotated more articles with google forms
 * making (slightly) prettier graphs (work in progress)
+* started other aspects of my analysis (justification/affliations)
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Understanding the code from the forgetting to cite old papers and replicating it with my own data
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* More annotation
+* more other analysis
+* more work on references analysis
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Is the abstract meant to be in Danish?
 
 #### Any other topics
 
-This space is yours to add to as needed.
 
 
 ### Date: 26 September 2022
