@@ -24,7 +24,7 @@
 ### Date: 03 October 2022
 
 #### Who did you help this week?
-
+Ahmet I hope! Had a chat with him 07.10 about mining doi's. 
 
 #### What helped you this week?
 
@@ -33,7 +33,7 @@ Having multiple things to work on, so I could jump around as needed, depending o
 #### What did you achieve?
 
 * Started on the references analysis, added current figures to overleaf
-* annotated more articles with google forms
+* annotated many more articles with google forms (realised I need to look for positive hits to reach my goal)
 * making (slightly) prettier graphs (work in progress)
 * started other aspects of my analysis (justification/affliations)
 
