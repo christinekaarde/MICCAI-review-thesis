@@ -32,7 +32,7 @@ Having multiple things to work on, so I could jump around as needed, depending o
 
 #### What did you achieve?
 
-* Started on the references analysis
+* Started on the references analysis, added current figures to overleaf
 * annotated more articles with google forms
 * making (slightly) prettier graphs (work in progress)
 * started other aspects of my analysis (justification/affliations)
@@ -45,11 +45,12 @@ Having multiple things to work on, so I could jump around as needed, depending o
 
 * More annotation
 * more other analysis
-* more work on references analysis
+* more work on references analysis - especially figure 8!
 
 #### Where do you need help from Veronika?
 
 * Is the abstract meant to be in Danish?
+* scope of references analysis, enough?
 
 #### Any other topics
 
