@@ -30,15 +30,20 @@
 
 #### What helped you this week?
 
+* having lots of different tasks
+* music to motivate me and keep me going
+* a clear plan for the week's work!
 
 #### What did you achieve?
 
 * Updated performance measure and classification method viz with more options
 * Annotated a bunch more articles
+* got my bibliography up and running in overleaf 
 
 #### What did you struggle with?
 
-* Some more health issues, but most a good week (so far!)
+* overleaf and the bibliography was hard! But got there in the end
+* Some more health issues, but mostly a good week (so far!)
 
 #### What would you like to work on next week?
 
