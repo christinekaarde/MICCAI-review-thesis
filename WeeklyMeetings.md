@@ -1,5 +1,8 @@
 
 # Christine's Weekly Meeting Notes
+
+* [10 October 2022](#date-10-october-2022)
+
 * [03 October 2022](#date-03-october-2022)
 
 * [26 September 2022](#date-26-september-2022)
@@ -19,6 +22,37 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 10 October 2022
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+
+#### What did you achieve?
+
+* Updated performance measure and classification method viz with more options
+* Annotated a bunch more articles
+
+#### What did you struggle with?
+
+* Some more health issues, but most a good week (so far!)
+
+#### What would you like to work on next week?
+
+* Do first half of other analysis, now that I've reached 50 + annotated articles
+* annotate more articles
+
+#### Where do you need help from Veronika?
+* Do we have any idea when the date for the oral exam is available?
+* Timing in regards to you reading some of what I've written?
+
+#### Any other topics
+
+
+
 
 
 ### Date: 03 October 2022
