@@ -39,6 +39,7 @@
 * Updated performance measure and classification method viz with more options
 * Annotated a bunch more articles
 * got my bibliography up and running in overleaf 
+* got started writing/editing what I already have in overleaf
 
 #### What did you struggle with?
 
