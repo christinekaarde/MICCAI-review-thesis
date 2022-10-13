@@ -53,6 +53,7 @@
 #### Where do you need help from Veronika?
 * Do we have any idea when the date for the oral exam is available?
 * Timing in regards to you reading some of what I've written?
+* Can I copy from my project agreement into my report (introduction?)
 
 #### Any other topics
 
