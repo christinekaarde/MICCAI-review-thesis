@@ -40,6 +40,7 @@
 * Annotated a bunch more articles
 * got my bibliography up and running in overleaf 
 * got started writing/editing what I already have in overleaf
+* got the final figure I wanted from forgotten citations article to work!
 
 #### What did you struggle with?
 
