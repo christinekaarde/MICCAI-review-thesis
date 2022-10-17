@@ -1,5 +1,6 @@
 
 # Christine's Weekly Meeting Notes
+* [17 October 2022](#date-17-october-2022)
 
 * [10 October 2022](#date-10-october-2022)
 
@@ -22,6 +23,45 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 17 October 2022
+
+#### Who did you help this week?
+
+Replace this text with a one/two sentence description of who you helped this week and how.
+
+
+#### What helped you this week?
+
+Replace this text with a one/two sentence description of what helped you this week and how.
+
+#### What did you achieve?
+
+* Replace this text with a bullet point list of what you achieved this week.
+* It's ok if your list is only one bullet point long!
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Veronika?
+
+* Replace this text with a bullet point list of what you need help from Veronika on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+This space is yours to add to as needed.
+
+
 
 ### Date: 10 October 2022
 
