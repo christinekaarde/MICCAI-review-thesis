@@ -1,0 +1,1409 @@
+Column1;Tidsstempel;What is the article's index?;Which year is the article from?;Is the article accurately labelled as classification?;If not accurately labelled as classification, what would you label it as?;Please input the quote from which you infer the answer to the previous question (if possible);What is the aim or task of the article? (input quote);How does the article justify this aim or task? (input quote);Which method is used for classification?;Which performance measures are used? ;Does the article use segmentation as preprocessing?;Please input the quote from which you infer the answer to the previous question (if possible).1;Does the dataset used in the article have a title?;Please input the quote from which you infer the answer to the previous question (if possible).2;What is the size of the used dataset? (input quote);What type is the dataset?;Please input the quote from which you infer the answer to the previous question (if possible).3;Is the survey/method of how the dataset was obtained accessible?;Please input the quote from which you infer the answer to the previous question (if possible).4;Does the article mention the demographics of the patients/images included in the used dataset?;Please input the quote from which you infer the answer to the previous question (if possible).5;Does the article mention the intent for collecting the dataset? The intended task for the dataset?;Please input the quote from which you infer the answer to the previous question (if possible).6;Does the article disclose any affiliations?;Please input the quote from which you infer the answer to the previous question (if possible).7;Does the article include anything about respect for persons (informed consent, voluntary participation) participating in the dataset? ;Please input the quote from which you infer the answer to the previous question (if possible).8;Does the article have any mention of benefience, minimising risk/maximising benefit of work? ;Please input the quote from which you infer the answer to the previous question (if  possible);Does the article have any mention of justice (equal treatment, fair selection of subjects)?;Please input the quote from which you infer the answer to the previous question (if  possible).1;Does the article mention any respect for law/public interest (transparency in methods/results, accountability for actions)?;Please input the quote from which you infer the answer to the previous question (if  possible).2;Are there any other comments/interesting aspects?
+0;22/09/2022 13.28.08;4;2012;Yes;It was accurately labelled;we propose and evaluate three approaches to surgical gesture classification from video.;surgical gesture analysis;Most of the prior work on surgical gesture recognition (see, e.g., [4-6]) uses hidden Markov models (HMMs) to analyze kinematic data stored by the robot (…) Overall, our main conclusion is that methods based on video data perform equally well as methods based n kinematic data for a typical surgical training setup.; linear dynamical system, bag of features,  multiple kernel learning;Accuracy;No;"There is no mention of segmentation, but the article does write: ""We assume that each video is segmented into video surgemes"", so the segmentation has been done";Yes;"""For our tests we used the California dataset [3].""";"""The dataset consists of three different tasks: suturing (SU, 39 trials), needle passing (NP, 26 trials) and knot tying (KT, 36 trials). Each task is performed by 8 surgeons with different skill levels.""";Private;"There is no mention of a public dataset, and the article writes ""The authors thank Intuitive Surgical and Carol Reiley for providing the dataset""";No;searching for the dataset yields no results;No;"no mention of demographics, though the article does specify that ""Each task is performed by 8 surgeons with different skill levels""";No;the article contains no mention of intent of data collection;Yes;Center for Imaging Science, Johns Hopkins University  This work was funded by NSF grants 0931805 and 0941362, and by the Talentia Fellowships Programme of the Andalusian Regional Ministry of Economy, Innovation and Science;No; the article contains no information about the surgeons in the dataset or the patients they were presumably operating on;No;the focus of the article is to promote a new method, mode of analysis, and does not mention any risk or benefit other than the usefulness of this new method;No;there is no mention of this;No;there is no mention of this;
+1;22/09/2022 13.43.26;7;2012;Yes;It was accurately labelled;"Second, the classifier learning process does
+not rely on pre-labeled training samples, but rather the training samples are extracted
+from the test image itself using structural priors on relative cup and disc
+positions. Third, we present a classification refinement scheme that utilizes both
+structural priors and local context.";We present a superpixel based learning framework based on retinal structure priors for glaucoma diagnosis.;It is critical to detect this degeneration of the optic nerve as early as possible in order to stall its progression;SVM;accuracy;Yes;In this work, we utilize the stateof-the-art SLIC (Simple Linear Iterative Clustering) algorithm [12] to segment the fundus disc image into compact and nearly uniform superpixels.;Yes;using a large clinical dataset called ORIGA?light;For testing we use the ORIGA?light dataset, comprised of 168 glaucoma and 482 normal images.;Public;Is searchable, available upon request;No;But the dataset is available upon request, so perhaps this information is also;No;only size is mentioned;No;no mention of intent in article;Yes;"1 Institute for Infocomm Research, Agency for Science, Technology and Research, Singapore
+2 Microsoft Research Asia, P.R. China
+3 School of Computer Engineering, Nanyang Technological University, Singapore
+4 Singapore Eye Research Institute, Singapore
+5 Department of Ophthalmology, National University of Singapore, Singapore  This work is funded by Singapore A*STAR SERC Grant (092-148-00731)";No;article contains no mention of patients ;No;"no direct mention, simply mentions the method proposed gets a level of ""accuracy is comparable to or higher than the state-of-the-art technique [1], with a speedup factor of tens or hundreds.""";No;no mention of patients;Yes;"no mention of law/transparency - though they do mention ""The settings in [1] are also adopted in this work to facilitate comparisons"", so based on what that says, maybe";
+2;26/09/2022 09.18.32;9;2012;Yes;It was accurately labelled;"Automatic detection of lung tumors and abnormal lymph
+nodes are useful in assisting lung cancer staging. This paper presents a
+novel detection method, by first identifying all abnormalities, then differentiating
+between lung tumors and abnormal lymph nodes based on their
+degree of overlap with the lung field and mediastinum.";"our aim of this study is to develop a computerized method to detect
+the lung tumors and abnormal lymph nodes from PET-CT thoracic images automatically.";"In this work, we propose a new and intuitive idea to the detection problem –
+after attempting to detect all abnormalities, if we can identify the actual lung
+field (tumors inclusive), then we can differentiate lung tumors and abnormal
+lymph nodes based on the degree of overlap between the detected abnormality
+and the lung field.";Graph analysis;Accuracy, Precision, Recall;No;"The PET-CT thoracic images are first preprocessed to remove the background
+and soft tissues outside of the lung and mediastinum with morphological operations.
+All images are then aligned based on the carina of tracheae, and rescaled
+to the same size [4]. Next, the abnormalities are detected by classification of
+lung field (L), mediastinum (M) or abnormalities (O) (Fig. 1c), based on PET
+uptake values and CT densities.";No;"The experiment is performed on 50 sets of 3D PET-CT thoracic
+images from patients with non-small cell lung cancer (NSCLC), provided by
+the Royal Prince Alfred Hospital, Sydney.";"A total of 54 lung tumors and 35
+abnormal lymph nodes are annotated as the ground truth. For each data set,
+the contour of lung field is also roughly delineated. Five images representing
+the typical cases are selected manually as the training set for both structure
+labeling and classification between tumors and lymph nodes. The data sets are
+then randomly divided into five sets; and within each set, each image is used as
+the testing image, with the other nine as the reference images.";Private;"The experiment is performed on 50 sets of 3D PET-CT thoracic
+images from patients with non-small cell lung cancer (NSCLC), provided by
+the Royal Prince Alfred Hospital, Sydney.";No;"The experiment is performed on 50 sets of 3D PET-CT thoracic
+images from patients with non-small cell lung cancer (NSCLC), provided by
+the Royal Prince Alfred Hospital, Sydney.";No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;No;"Biomedical and Multimedia Information Technology (BMIT) Research Group,
+School of Information Technologies, University of Sydney, Australia
+2 The Russell H. Morgan Department of Radiology and Radiological Science,
+Johns Hopkins University School of Medicine  Nothing is mentioned in the article";No;Nothing is mentioned in the article;No;"They only mention: Lung cancer is currently the leading cause of cancer deaths; and staging plays
+a critical role in defining the prognosis and the best treatment approaches";No;Nothing is mentioned on the choice of subjects;No;There is a lengthy theory section, but no mention of accessing the code or the dataset;
+3;26/09/2022 09.25.02;10;2012;Yes;It was accurately labelled;"In this paper, we propose a novel domain-transfer learning method
+for MCI conversion prediction. Different from most existing methods, we
+classify MCI-C and MCI-NC with aid from the domain knowledge learned with
+AD and NC subjects as auxiliary domain to further improve the classification
+performance.";"Different from most existing methods, we
+classify MCI-C and MCI-NC with aid from the domain knowledge learned with
+AD and NC subjects as auxiliary domain to further improve the classification
+performance.";"Alzheimer’s disease (AD) is the most common form of dementia in elderly people
+worldwide. Early diagnosis of AD is very important for possible delay of the disease.
+Mild cognitive impairment (MCI) is a prodromal stage of AD, which can be further
+categorized into MCI converters (MCI-C) and MCI non-converters (MCI-NC). The
+former will convert into AD in follow-up time, while the latter will not convert. Thus,
+accurate diagnosis of MCI converters is of great importance.";SVM;AUC, Specificity, Accuracy, Sensitivity;Yes;"Then, we use the FSL package to segment
+each structural MR image into three different tissue types: gray matter (GM), white
+matter (WM), and cerebrospinal fluid (CSF).";Yes;"we evaluate the effectiveness of our proposed DTSVM method on
+multimodal data, including MRI, PET and CSF, from the AlzheimerÊs disease
+Neuroimaging Initiative (ADNI) database.";"the baseline ADNI subjects with all corresponding MRI, PET,
+and CSF data are included, which leads to a total of 202 subjects (including 51 AD
+patients, 99 MCI patients, and 52 normal controls (NC)). For 99 MCI patients, it
+includes 43 MCI converters and 56 MCI non-converters. We use 51 AD and 52 NC
+subjects as auxiliary domains, and 99 MCI subjects as target domains.";Public;Googling ADNI leads to a webpage where the dataset is available upon request for research;No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;Yes;"1 Dept. of Computer Science and Engineering,
+Nanjing University of Aeronautics and Astronautics, Nanjing 210016, China
+2 Dept. of Radiology and BRIC, University of North Carolina at Chapel Hill, NC 27599  This work was partially supported by NIH grants (EB006733,
+EB008374, EB009634, AG041721 and MH088520), NSFC grant (60875030), and
+CQKJ (KJ121111).";No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;No;Nothing is mentioned in the article;
+5;26/09/2022 09.45.32;13;2012;Yes;It was accurately labelled;"We
+utilize a fuzzy multi-class modeling using a stochastic expectation maximization
+(SEM) algorithm to fit a finite mixture model (FMM) to the
+PET image. We then propose a direct estimation formula for TLA and
+SUVmean from this multi-class statistical model.";"We
+utilize a fuzzy multi-class modeling using a stochastic expectation maximization
+(SEM) algorithm to fit a finite mixture model (FMM) to the
+PET image. We then propose a direct estimation formula for TLA and
+SUVmean from this multi-class statistical model.";"The aforementioned functional markers computed from the PET image are
+corrupted by partial volume effects and acquisition blur. Nonetheless, we recently
+proposed a direct statistical estimation method, statistical lesion activity
+computation (SLAC), in [6] for computing TLA, in the presence of blur.";Unsupervised learning;Accuracy;No;Not mentioned in the article;No;"To evaluate the performance, an NCAT phantom [11] with a hot liver lesion was
+simulated.";"To evaluate the performance, an NCAT phantom [11] with a hot liver lesion was
+simulated. Realistic FDG uptake values were assigned to the various organs and
+tissues of the NCAT phantom. A non spherical tumor (27.67mL) was inserted in
+the liver (see Fig. 1). In the tumor, the activity was set to 18.2kBq/cc. The activity
+in the liver, spleen, lungs and body was 6.3kBq/cc, 5.5kBq/cc, 0.9kBq/cc
+and 2.5kBq/cc respectively. The voxel size used to generate the phantom was
+1mm×1mm×1mm. 30 3min scans of the NCAT phantom were simulated using
+a Monte Carlo simulator (PET-SORTEO [10]) which models among others the
+spatially variant point spread function (PSF) of the ECAT Exact HR+ scanner.
+Attenuation and scatter were also modeled. During reconstruction of both
+datasets, the system PSF resolution was recovered by modeling as an isotropic
+Gaussian with 5mm FWHM. The projection data were reconstructed using the
+maximum likelihood expectation maximization (MLEM) algorithm [9] with ordered
+subsets. As in clinical routine, 4 iterations over 16 subsets were performed.
+The reconstruction voxel size was set to 2mm× 2mm× 2mm. The images were
+post-smoothed with 5mm Gaussian FWHM.";Private;It is simulated data generated for this article of a liver lesion with a tumor inserted;Yes;"To evaluate the performance, an NCAT phantom [11] with a hot liver lesion was
+simulated. Realistic FDG uptake values were assigned to the various organs and
+tissues of the NCAT phantom. A non spherical tumor (27.67mL) was inserted in
+the liver (see Fig. 1). In the tumor, the activity was set to 18.2kBq/cc. The activity
+in the liver, spleen, lungs and body was 6.3kBq/cc, 5.5kBq/cc, 0.9kBq/cc
+and 2.5kBq/cc respectively. The voxel size used to generate the phantom was
+1mm×1mm×1mm. 30 3min scans of the NCAT phantom were simulated using
+a Monte Carlo simulator (PET-SORTEO [10]) which models among others the
+spatially variant point spread function (PSF) of the ECAT Exact HR+ scanner.
+Attenuation and scatter were also modeled. During reconstruction of both
+datasets, the system PSF resolution was recovered by modeling as an isotropic
+Gaussian with 5mm FWHM. The projection data were reconstructed using the
+maximum likelihood expectation maximization (MLEM) algorithm [9] with ordered
+subsets. As in clinical routine, 4 iterations over 16 subsets were performed.
+The reconstruction voxel size was set to 2mm× 2mm× 2mm. The images were
+post-smoothed with 5mm Gaussian FWHM.";No;No patients were included as the data was simulated;Yes;It was created for this article;Yes;"1 Medical Imaging Research Center, UZ Leuven, Belgium
+2 IBBT-KU Leuven Future Health Department, Belgium
+3 Medical Image Computing (ESAT/PSI/MIC)
+4 Nuclear Medicine
+5 Gastroenterology
+3,4,5 KU, Leuven, Belgium
+6icoMetrix NV, Leuven, Belgium  The authors gratefully acknowledge the financial support
+by KU Leuven’s Concerted Research Action GOA/11/006, IWT - TBM project
+070717 and Research Foundation - Flanders (FWO).";No;Because no persons were involved;No;No persons involved;No;No persons involved;No;No persons involved but a very long perhaps useful theory section if one can recreate it from that?;
+6;26/09/2022 10.18.37;14;2012;Yes;It was accurately labelled;"A novel gland segmentation and classification scheme applied
+to an H&E histology image of the prostate tissue is proposed. For
+gland segmentation, we associate appropriate nuclei objects with each
+lumen object to create a gland segment. We further extract 22 features
+to describe the structural information and contextual information for
+each segment. These features are used to classify a gland segment into
+one of the three classes: artifact, normal gland and cancer gland.";"A novel gland segmentation and classification scheme applied
+to an H&E histology image of the prostate tissue is proposed.";"In detecting prostate cancer on a digitized tissue slide, the pathologist relies
+on: (i) structural information; glands in a cancer region (cancer glands) appear
+to have structural properties (e.g. nuclei abundance, lumen size) different from
+glands in a normal region (normal glands) and (ii) contextual information; cancer
+glands typically cluster into groups and are of similar shape and size1, while
+shape and size of normal glands vary widely. These two sources of information
+can be observed in Fig. 1b. Hence, a reasonable approach to assist a pathologist
+in finding cancer regions includes segmenting out glandular regions, examining
+their structural and contextual information and finally classifying them.";SVM;Accuracy;Yes;"For
+gland segmentation, we associate appropriate nuclei objects with each
+lumen object to create a gland segment.";No;"The dataset includes 48 images at 5× magnification (average image
+size is 900 × 1,500 pixels), which come from 20 patients. Glands in images of
+the same patient still have very large variability in structures. Given the pathologist’s
+annotation on each image, we manually label 525 artifacts, 931 normal
+glands and 1,375 cancer glands to form the (ground truth) gland dataset.";"The dataset includes 48 images at 5× magnification (average image
+size is 900 × 1,500 pixels), which come from 20 patients. Glands in images of
+the same patient still have very large variability in structures. Given the pathologist’s
+annotation on each image, we manually label 525 artifacts, 931 normal
+glands and 1,375 cancer glands to form the (ground truth) gland dataset.";Private;The article contains no mention of where the dataset comes from;No;No mention in article;No;No mention in article;No;No mention in article;No;"1 Michigan State Unversity, East Lansing, MI 48824, USA
+2 Ventana Medical Systems, Inc., Sunnyvale, CA 94085, USA
+{nguye231,jain}@cse.msu.edu, anindya.sarkar@ventana.roche.com  No mention in article";No;No mention in article;No;No mention in article;No;No mention in article;Yes;"The article includes a link to a github repo, containing at least some of the code
+The article also includes stats for running time and details about the machine it has been run on";
+8;28/09/2022 10.03.14;16;2012;Yes;It was accurately labelled;"With the advent of advanced imaging techniques, genotyping,
+and methods to assess clinical and biological progression, there is
+a growing need for a unified framework that could exploit information
+available from multiple sources to aid diagnosis and the identification
+of early signs of Alzheimer’s disease (AD).";"We propose a modeling
+strategy using supervised feature extraction to optimally combine highdimensional
+imaging modalities with several other low-dimensional disease
+risk factors. The motivation is to discover new imaging biomarkers
+and use them in conjunction with other known biomarkers for prognosis
+of individuals at high risk of developing AD. Our framework also has the
+ability to assess the relative importance of imaging modalities for predicting
+AD conversion.";"Mild cognitive impairment (MCI) is an intermediate stage between healthy aging
+and dementia. Patients diagnosed with MCI are at high risk of developing
+Alzheimer’s disease (AD), but not everyone with MCI will convert. Accurate
+prognosis for MCI patients is an important prerequisite for providing the optimal
+treatment and management of the disease.";SVM;AUC, Specificity, Accuracy, Sensitivity;Yes;"Tissue-wise intensity normalization
+for white matter, gray matter, and cerebrospinal fluid was performed using the expectation maximization based segmentation followed by the piecewise polynomial
+histogram matching algorithm";Yes;"All the baseline and screening T1 weighted, bias-fieldcorrected
+and N3 scaled structuralMagnetic Resonance Images were downloaded
+from the Alzheimer’s Disease Neuroimaging Initiative (ADNI) database.";"The baseline subjects that had all the clinical, APOE genotyping, FDG-PET
+imaging and MRI imaging data from the ADNI database comprised of a total
+of 242 individuals.";Public;ADNI is available upon request;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;"University of Utah, Salt Lake City, UT    Data collection and sharing for this project was funded by
+the Alzheimer’s Disease Neuroimaging Initiative (ADNI) (NIH Grant U01
+AG024904).The research in this paper was supported byNIHgrant 5R01EB007688,
+the University of California, San Francisco (NIH grantP41 RR023953),NSF grant
+CNS-0751152), and NSF CAREER Grant 1054057.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+10;28/09/2022 10.21.37;19;2012;Yes;It was accurately labelled;"One important contribution of the method is
+the provision of an interpretability layer, which is able to explain a particular
+classification by visually mapping the most important visual patterns associated
+with such classification.";"A method for automatic analysis and interpretation of histopathology
+images is presented. The method uses a representation of the image data
+set based on bag of features histograms built from visual dictionary of Haarbased
+patches and a novel visual latent semantic strategy for characterizing the
+visual content of a set of images.";"This paper presents a new method, ViSAI, for automatic analysis and interpretation of
+histopathological images.";probabilistic classification model;Specificity, Accuracy, Sensitivity;No;Nothing is mentioned;No;"The dataset comprises 10 labeled histopathological cases from St. Jude Children’s Research
+Hospital, which 5 are anaplastic and 5 are non-anaplastic";"Each slide is a whole
+virtual slide of 80000×80000 pixels with one or more cancerous regions with a large
+tumoral variability, manually annotated by a neuro-pathologist. For every slide, 750
+individual images of 200×200 pixels non-overlapping where extracted uniformly at
+random from these cancerous regions, resulting in a database of 7500 different images:
+half of them anaplastic.";Private;"The dataset comprises 10 labeled histopathological cases from St. Jude Children’s Research
+Hospital, which 5 are anaplastic and 5 are non-anaplastic";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;"BioIngenium Research Group, Universidad Nacional de Colombia, Bogot´a, Colombia
+2 Rutgers, Department of Biomedical Engineering, Piscataway, NJ, USA
+3 Children Hospital of L.A., Department of Pathology Lab Medicine, Los Angeles, CA, USA
+4 St. Jude Children’s Research Hospital from Memphis, TN, USA
+5 Penn State College of Medicine, Department of Pathology, Hershey, PA, USA  Nothing is mentioned";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+12;28/09/2022 11.40.00;25;2012;Yes;It was accurately labelled;"Classification of Ambiguous Nerve Fiber
+Orientations in 3D Polarized Light Imaging";"3D Polarized Light Imaging (3D-PLI) has been shown to
+measure the orientation of nerve fibers in post mortem human brains at
+ultra high resolution. The 3D orientation in each voxel is obtained as a
+pair of angles, the direction angle and the inclination angle with unknown
+sign. The sign ambiguity is a major problem for the correct interpretation
+of fiber orientation. Measurements from a tiltable specimen stage, that
+are highly sensitive to noise, extract information, which allows drawing
+conclusions about the true inclination sign. In order to reduce noise, we
+propose a global classification of the inclination sign, which combines
+measurements with spatial coherence constraints.";"Fiber tracts are composed of axons, which connect nerve cells between each
+other, and thus transmit information between brain areas. The exact courses
+of fiber tracts are still far from being fully understood.";Graph analysis;Sensitivity, RMSD;No;Nothing is mentioned (but this article is insanely convoluted!);No;"We evaluate our approach on synthetic and human brain
+data.";"Human Brain Data. Regions in histological sections of three post mortem
+brains without pathological findings were selected to demonstrate the different
+behavior of all approaches (Fig. 4(b)–(d)).
+Synthetic Data. A synthetic data set consisting of a direction image ˜ ? and an
+inclination image ˜? was created. The structure consists of rounded and crossing
+fiber tracts (Fig. 4(a))";Private;The synthetic data they construct themselves and no mention is made of the human brain data;Don't know;Not sure if someone who understands this could recreate the synthetic data, the human data no;No;Nothing is mentioned;Yes;At least the synthetic data is created for this article;No;"1 Institute of Neuroscience and Medicine (INM-1, INM-4),
+Research Center J¨ulich,Germany
+2 Department of Physics, University of Wuppertal, Germany
+3 Department of Psychiatry, Psychotherapy and Psychosomatics,
+RWTH Aachen University, Germany  Nothing is mentioned";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+16;30/09/2022 11.06.10;36;2012;Yes;It was accurately labelled;"There is an increasing demand for automated detection and analysis of
+dermoscopy structures and malignancy clues such as streaks in dermoscopy images,
+for computer-aided early diagnosis of deadly melanoma. This paper presents
+a novel approach for streak detection and visualization on dermoscopic images.
+We tackle the detection of streaks by means of ridge and valley estimation. Orientation
+estimation and correction is applied to detect low contrast and fuzzy streaks
+lines, and candidate streaks are used to classify dermoscopy images into streaks
+Absent or Present with the AUC of 90.5% on 300 dermoscopy images.";"This paper presents
+a novel approach for streak detection and visualization on dermoscopic images.";"Melanoma is the most deadly form of skin cancer, yet treatable via excision if detected
+early. There is, therefore, a demand to develop computer-aided diagnostic systems to facilitate
+the early detection of melanoma.";Logistic classifier;AUC, Accuracy, Precision, Recall, F1 score;Yes;First the lesion is segmented using Wighton et al.’s method;No;"we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission.";"we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission.";Private;"we evaluated our proposed approach on streak detection
+on a set of 300 dermoscopy images, including 105 absent and 195 present. 250
+images are chosen randomly from two atlases of dermoscopy [10,1], and 50 images
+are taken from experts’ archives with permission. - So I suppose that means mixed, the atlases may be public?";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;"1 School of Computing Science, Simon Fraser University, Canada
+msa68@sfu.ca
+2 Department of Dermatology and Skin Science, University of British Columbia, Canada
+3 Cancer Control Research Program, BC Cancer Research Center, Canada   This work was funded by the Canadian NSERC, CIHR-Skin Research
+Training Center and a grant from the Canadian Health Research Project (CHRP).";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+17;30/09/2022 11.12.41;37;2012;Yes;It was accurately labelled;"Our experimental results show that the proposed method
+can effectively identify the location of the foveola, facilitating diagnosis
+around this important landmark.";"We develop an automated method to determine the foveola
+location in macular 3D-OCT images in either healthy or pathological
+conditions.";"The foveola is an important anatomical landmark for retinal image analysis [1]. It
+is located in the center of the macula, responsible for sharp central vision. Several
+clinically-relevant indices are measured with respect to the foveola location, such
+as the retina’s average thickness, or drusen size within concentric circles around
+the foveola [1, 2]. In addition, many macular diseases are best observed around
+the foveola, such as macular hole, and age-related macular degeneration [3].
+Therefore, the localization of the foveola in retinal images is an important first
+step for diagnosis and longitudinal data analysis.";SVM;mean, median, standard deviation;No;nothing is mentioned;No;"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ? 8 pixels)";"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ? 8 pixels)";Private;"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ? 8 pixels)";Don't know;"We collected a large sample of 3D SD-OCT macular scans (200x200x1024 or
+512x128x1024 protocol, 6x6x2 mm; Cirrus HD-OCT; Carl Zeiss Meditec). Each
+scan is then normalized to be 200x200x200 in x, y, z. For each scan, two ophthalmologists
+labeled the (x, y) location of the foveola independently. We then
+included a total of 170 scans from 170 eyes/126 subjects in which all scans have
+good expert labeling agreement (distance ? 8 pixels)";No;Nothing is mentioned;Yes;For the purpose of this article;Yes;"1 College of Computing, Georgia Institute of Technology, Atlanta, GA
+2 UPMC Eye Center, University of Pittsburgh School of Medicine, Pittsburgh, PA
+3 Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA
+4 Intel Science and Technology Center on Embedded Computing, Pittsburgh, PA   This research is supported in part by National Institutes of
+Health contracts R01-EY013178 and P30-EY008098, The Eye and Ear Foundation
+(Pittsburgh, PA), unrestricted grants from Research to Prevent Blindness,
+Inc. (New York, NY), and grants from Intel Labs Pittsburgh (Pittsburgh, PA).";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;There is psuedocode included for their algorithm, so partial transparency?;This one is perhaps also unclear if it is classification or not, the performance measures especially seem to indicate perhaps not, more localisation than classification, though they do do classification
+18;30/09/2022 11.17.42;38;2012;Yes;It was accurately labelled;"In the context of a blind source separation
+of the underlying colour, we arrive at intrinsic melanin and hemoglobin
+images, whose properties are then used in supervised learning to achieve excellent
+malignant vs. benign skin lesion classification.";"In this paper we propose a new log-chromaticity 2-D colour space,
+an extension of previous approaches, which succeeds in removing confounding
+factors from dermoscopic images: (i) the effects of the particular camera characteristics
+for the camera system used in forming RGB images; (ii) the colour
+of the light used in the dermoscope; (iii) shading induced by imaging non-flat
+skin surfaces; (iv) and light intensity, removing the effect of light-intensity falloff
+toward the edges of the dermoscopic image. In the context of a blind source separation
+of the underlying colour, we arrive at intrinsic melanin and hemoglobin
+images, whose properties are then used in supervised learning to achieve excellent
+malignant vs. benign skin lesion classification.";"The three most common malignant skin cancers are basal cell carcinoma (BCC), squamous
+cell carcinoma (SCC), and melanoma, among which melanoma is the most deadly
+with a high increasing rate in most parts of the world. Melanoma is often treatable if
+detected in the early stage, particularly before the metastasis phase. Therefore, there is
+an increasing demand for computer-aided diagnostic systems to catch early melanomas.
+Colour has played a crucial role in the diagnosis of skin lesions by experts in most
+clinical methods (see e.g. [1]). For instance, the presence of multiple colours with an
+irregular distribution can signal malignancy.
+Few studies have investigated the use of colour features representing biological properties
+of skin lesions.";Logistic classifier;AUC, Precision, Recall, F1 score;Yes;"For automatic segmentation of lesions, we found that
+using the geometric-mean ? is as good as or better than the state of the art [12] for these
+dermoscopic images, in amuch simpler algorithm.";No;"We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions";"We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions";Private;"(This is the ONLY description of the dataset...) We applied a Logistic classifier to a set of 500 images, with two classes consisting of
+malignant (melanoma and BCC) vs. all benign lesions";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;"School of Computing Science
+Simon Fraser University
+amadooei@cs.sfu.ca
+http://www.cs.sfu.ca/?amadooei  Nothing is mentioned";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;This article probably has the shortest description of a dataset I've seen so far!
+19;30/09/2022 11.23.46;40;2012;Yes;It was accurately labelled;"We applied a linear Support Vector Machine (SVM) to classify candidate patch
+sequences.";"we present an image analysis method to
+detect apoptosis in time-lapse phase-contrast microscopy, which is nondestructive
+imaging.";"There have been little-to-no reports of apoptosis detection in phase-contrast
+microscopy. To the best of our knowledge, cell death event detection has only
+been implicitly performed as a byproduct of cell tracking; i.e., if the trajectory of
+a cell terminates during cell tracking, the cell is considered dead. However, this
+simple heuristic often yields poor results because many cell traject";SVM;Precision, Recall;No;Nothing is mentioned;No;"After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/?seungilh).";"After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/?seungilh).";Public;"The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/?seungilh).";Yes;"After C2C12 myoblastic stem cells were cultured for one day, Mitomycin C was
+added to induce apoptosis. Afterward, three populations were imaged every 5
+minutes over 45 hours, resulting in three sets of 540 image frames. As shown in
+Fig. 4, most of cells were dead at the last frame. We manually annotated apoptosis
+by marking the center of each apoptotic cell after it shrinks and becomes
+bright, obtaining 1154 cases in total. The image sequences and ground truths
+are available on the first author’s web page (www.cs.cmu.edu/?seungilh).";No;Not relevant as such, uses stem cells (though no mention is made of which and whose stem cells are used of course);Yes;For the purpose of this article;No;"Robotics Institute, Carnegie Mellon University
+{seungilh,hangs,tk}@cs.cmu.edu
+2 Department of Orthopedic Surgery, Stanford University
+elmerker@stanford.edu  Nothing is mentioned";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;Pseudo code included;
+20;03/10/2022 09.33.27;41;2012;Yes;It was accurately labelled;"We test our method on a
+collection of 42 lymphocyte sequences and present results on i) discrimination of
+normal and abnormal cellular morphology, ii) local statistical differences between
+abnormal and normal shape sequences, and iii) classification of shape sequences
+based on the dynamic cellular shape changes from one time point to another.";"In this paper we propose a dynamic framework for quantitative analysis of
+lymphocyte morphological changes in 2D+t image sequences";"Morphological analysis of cells features prominently in a wide range of applications
+including digital pathology and is essential for improving our understanding
+of the basic physiological processes of organisms.";Learning Vector Quantization;Specificity, Accuracy, Sensitivity;No;"But mentions the data is segmented prior to use: We represent the segmented cell boundary by 2D
+closed, continuously parameterized curve [5–7] c ? R2 given by c(s) : [0, 2?) ?
+R2.";No;"Our data consists of 42 lymphocyte image sequences (20?30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 ? resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.";"Our data consists of 42 lymphocyte image sequences (20?30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 ? resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.";Private;"Our data consists of 42 lymphocyte image sequences (20?30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 ? resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.";No;"Our data consists of 42 lymphocyte image sequences (20?30 seconds) of mice
+undergoing back skin transplantation (age: 6-8 weeks, weight 20-22 g) observed
+with phase contrast microscopy (Olympus BX51, 0.3 ? resolution, 16 × 1000
+magnification). The first group consisted of 21 healthy Balb/C mice as hosts
+and 21 healthy Balb/C mice as donors, whereas the second group consisted of
+21 healthy Balb/C mice as hosts and 21 healthy C57BL/6 mice as donors. The
+lymphocytes were obtained from the blood samples of the 42 hosts collected
+from the tail 7 days after the skin transplant.";No;Also not relevant, tested on mice;Yes;For the article;Yes;"1 School of Information and Electronics, Beijing Inst. of Tech., Beijing, China
+2 School of Computer Sci. and Engineering, Arizona State University, Tempe, USA
+3 Department of General Surgery, Beijing You’An Hospital, Beijing, China
+4 Laboratory of Neuro Imaging, UCLA School of Medicine, Los Angeles, CA, USA   This work is sponsored by the National Natural Science Foundation of China
+(60971133) and the China Scholarship Council. anxing@bit.edu.cn";No;Not relevant, mice testing;No;Nothing is mentioned;No;Not relevant, mice testing;No;Nothing mentioned;
+21;03/10/2022 09.37.26;42;2012;Yes;It was accurately labelled;"In this paper we propose a learning-based method that is general enough
+to perform well across different microscopy modalities. Rather than invoking
+computationally-intensive segmentation frameworks [1,9], or classifying all image
+patches in a sliding-window manner [15], it uses a highly-efficient MSER region
+detector [8] to find a broad number of candidate regions to be scored with a
+learning-based measure. The non-overlaping subset of those regions with high
+similarity to the class of interest can then be selected via dynamic programming,
+while the learning can be done within the structured output framework [12].";"In this paper we propose a learning-based method that is general enough
+to perform well across different microscopy modalities. Rather than invoking
+computationally-intensive segmentation frameworks [1,9], or classifying all image
+patches in a sliding-window manner [15], it uses a highly-efficient MSER region
+detector [8] to find a broad number of candidate regions to be scored with a
+learning-based measure. The non-overlaping subset of those regions with high
+similarity to the class of interest can then be selected via dynamic programming,
+while the learning can be done within the structured output framework [12].";"Automatic cell detection is a subject of interest in a wide range of cell-based
+studies, as it is the basis of many automatic methods for cell counting, segmentation
+and tracking. The broad diversity of cell lines and microscopy imaging
+techniques require that cell detection algorithms adapt well to different scenarios.
+The difficulty of the problem also increases when the cell density of the
+sample is high, as in this case the cell size can vary and cell clumping is usual.
+Moreover, in some applications different cell types or other similar structures
+can be present in the same image, and in this case the algorithm is required to
+detect only the cells of interest, posing a barrier hard to overcome with classical
+image processing techniques.";SVM;Precision, Recall;Yes;"Although the algorithm produces a set of regions, our
+aim is to optimize the detection accuracy (and not the segmentation) w.r.t. the
+ground truth provided in the form of dots.";No;"Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+Three variations of our method are evaluated: (I) direct classification";"Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+";Don't know;Mixed I think;No;"Three data sets for cell detection have been used to validate the method
+(Figure 1). Firstly, the ICPR 2010 Histopathology Images contest [4], which
+consists of 20 images of stained breast cancer tissue. It is required to detect
+lymphocyte nuclei, while discriminating them from breast cancer nuclei having
+very similar appearance. The second data set comes from [1] and contains 12
+fluorescence microscopy images of human embryonic kidney (HEK) cells, where
+the detection task is challenging due to the significant intensity variation between
+cells across the image, fading boundaries, and frequent cell clumping. The third
+data set contains 22 phase-contrast images of cervical cancer cell colonies of the
+HeLa cell line, which presents a high variability in cell shapes and sizes.
+Three variations of our method are evaluated: (I) direct classification";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"1 Department of Engineering Science, University of Oxford, U.K.
+2 Yandex, Moscow, Russia   We are grateful to Dr. N. Rajpoot, Dr. E. Bernadis, Dr.
+B. Vojnovic and Dr. G. Flaccavento for providing cell data sets. Financial support
+was provided by the RCUK Centre for Doctoral Training in Healthcare
+Innovation (EP/G036861/1) and ERC grant VisRec no. 228180.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+24;03/10/2022 09.45.04;53;2012;Yes;It was accurately labelled;"Our method features a novel completely
+data-driven approach to breast shape prediction that does not necessitate
+prior knowledge about biomechanical properties and parameters of the
+breast tissue.";"We therefore propose a method for 3D breast decompression
+and associated lesion mapping from 3D DBT data.";"According to theWorld Cancer Report 2008 (globocan.iarc.fr, 2012/01/23) breast
+cancer is the most frequent cancer diagnosis in women among all specifiable
+kinds of cancer. Early detection is assumed to significantly improve outcomes.";Multiple Multi-variate Random Forest Regression;Accuracy;Yes;"For this we first segment the breast
+tissue area by thresholding and region growing,";No;"Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.";"Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.";Private;"Nipple detection has been trained and evaluated on 122 annotated training
+data sets, i.e., DBT scans.";No;Nothing is mentioned;No;Nothing is mentioned;Yes;I believe it was collected for this article;No;"1 Siemens AG, Corporate Technology, Erlangen, Germany
+2 University Hospital Erlangen, Department of Radiology, Germany
+3 Siemens AG, Healthcare, Erlangen, Germany
+4 Siemens Corporation, Corporate Research and Technology, Princeton, NJ, USA  Nothing is mentioned";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+28;07/10/2022 11.28.33;62;2012;Yes;It was accurately labelled;"to find discriminative regions
+of 3D brain images in the classification of neurodegenerative disease.";"We present a novel method of Hierarchical Manifold Learning
+which aims to automatically discover regional variations within images.";"We present a novel method of Hierarchical Manifold Learning
+which aims to automatically discover regional variations within images.";Graph analysis, Hierarchical Manifold Learning;Accuracy;No;Nothing is mentioned;Yes;ADNI;"We have
+applied HML to the Alzheimer’s Disease Neuroimaging Initiative (ADNI) [1]
+dataset of 429 subjects of size 160 × 192 × 160 mm. This consists of 231 normal
+control subjects and 198 subjects with Alzheimer’s disease.";Public;"We have
+applied HML to the Alzheimer’s Disease Neuroimaging Initiative (ADNI) [1]
+dataset of 429 subjects of size 160 × 192 × 160 mm. This consists of 231 normal
+control subjects and 198 subjects with Alzheimer’s disease.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;"Biomedical Image Analysis Group,
+Department of Computing, Imperial College London, London, UK
+2 Division of Imaging Sciences and Biomedical Engineering,
+King’s College London, London, UK
+
+We thank Marc Modat and M. Jorge Cardoso from the Centre for Medical Image
+Computing, University College London, for their advice and assistance. The work is
+partially funded under the 7th Framework Programme by the European Commission
+(http://cordis.europa.eu/ist/).";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+30;07/10/2022 11.37.42;88;2012;Yes;It was accurately labelled;"Population based pattern analysis and classification for
+quantifying structural and functional differences between diverse groups
+has been shown to be a powerful tool for the study of a number of
+diseases, and is quite commonly used especially in neuroimaging.";"we show that null distributions ordinarily obtained
+by permutation tests using SVMs can be analytically approximated from
+the data. The analytical computation takes a small fraction of the time
+it takes to do an actual permutation test, thereby rendering it possible
+to quickly create statistical significance maps derived from SVMs. Such
+maps are critical for understanding imaging patterns of group differences
+and interpreting which anatomical regions are important in determining
+the classifier’s decision.";"The dominant approach
+addressing this problem involves performing independent statistical testing either
+pixel/voxel-wise [1] or regions of interest (ROI-wise) in the image. It has
+been argued that such univariate analysis might miss group difference patterns
+that span multiple voxels or regions [2]. Hence, replacing univariate methods by
+multivariate methods such as SVMs [3] [4][5] has been discussed in literature.
+However, unlike univariate methods [1], SVMs do not naturally provide statistical
+tests (and corresponding p-values) associated with every voxel/region of
+an image. Permutation testing has been suggested for interpreting SVM output
+for such high dimensional data [6]. However, performing these tests is time
+consuming and computationally costly";SVM;Accuracy;No;Nothing is mentioned;No;"Simulated data was generated as follows 1) grey matter tissue
+density maps were generated from brain images of 152 normal subjects 2)simulated
+brain shrinkage was introduced in the right frontal lobe of half of these
+images by a localized reduction in intensity of the corresponding TDMs. The
+vectorized TDM corresponding to each subject forms the superlong vector xi of
+section 2.1.
+Experiment 2: 278 TDMs were generated. This dataset contained 152 controls
+and 126 Alzheimer’s patients.";"Simulated data was generated as follows 1) grey matter tissue
+density maps were generated from brain images of 152 normal subjects 2)simulated
+brain shrinkage was introduced in the right frontal lobe of half of these
+images by a localized reduction in intensity of the corresponding TDMs. The
+vectorized TDM corresponding to each subject forms the superlong vector xi of
+section 2.1.
+Experiment 2: 278 TDMs were generated. This dataset contained 152 controls
+and 126 Alzheimer’s patients.";Private;"Simulated data was generated as follows 1) grey matter tissue
+density maps were generated from brain images of 152 normal subjects 2)simulated
+brain shrinkage was introduced in the right frontal lobe of half of these
+images by a localized reduction in intensity of the corresponding TDMs. The
+vectorized TDM corresponding to each subject forms the superlong vector xi of
+section 2.1.
+Experiment 2: 278 TDMs were generated. This dataset contained 152 controls
+and 126 Alzheimer’s patients.";No;"Simulated data was generated as follows 1) grey matter tissue
+density maps were generated from brain images of 152 normal subjects 2)simulated
+brain shrinkage was introduced in the right frontal lobe of half of these
+images by a localized reduction in intensity of the corresponding TDMs. The
+vectorized TDM corresponding to each subject forms the superlong vector xi of
+section 2.1.
+Experiment 2: 278 TDMs were generated. This dataset contained 152 controls
+and 126 Alzheimer’s patients.";No;"Simulated data was generated as follows 1) grey matter tissue
+density maps were generated from brain images of 152 normal subjects 2)simulated
+brain shrinkage was introduced in the right frontal lobe of half of these
+images by a localized reduction in intensity of the corresponding TDMs. The
+vectorized TDM corresponding to each subject forms the superlong vector xi of
+section 2.1.
+Experiment 2: 278 TDMs were generated. This dataset contained 152 controls
+and 126 Alzheimer’s patients.";Yes;For this article;No;"Section for Biomedical Image Analysis,
+University of Pennsylvania, Philadelphia, PA 19104, USA";No;Nothing is mentioned, also perhaps not relevant, as simulated data;No;Nothing is mentioned, also perhaps not relevant, as simulated data;No;Nothing is mentioned, also perhaps not relevant, as simulated data;No;Nothing is mentioned;"They don't really use accuracy as such, but that is the closest I could come to a performance measure. Also first article I can recall that doesn't have a conclusion...
+Simulated data, so the ethics questions 1-3 also a bit fishy"
+34;07/10/2022 11.52.29;97;2012;Yes;It was accurately labelled;"We then measure the accuracy score of our encoding
+by training a linear classifier, which outperforms the same classifier based
+on volumetric measurements.";"we adapt spectral signatures for capturing morphological
+changes over time. Advanced techniques for capturing temporal shape changes
+frequently rely on first registering the sequence of shapes and then analyzing the
+corresponding set of high dimensional deformation maps. Instead, we propose a
+simple encoding motivated by the observation that small shape deformations lead
+to minor refinements in the spectral signature composed of the eigenvalues of
+the Laplace operator. The proposed encoding does not require registration, since
+spectral signatures are invariant to pose changes. We apply our representation to
+the shapes of the ventricles extracted from 22 cine MR scans of healthy controls
+and Tetralogy of Fallot patients. We then measure the accuracy score of our encoding
+by training a linear classifier, which outperforms the same classifier based
+on volumetric measurements.";"Capturing the shape and function of anatomy through volumetric measurements extracted
+from 4D medical scans has become of central importance in diagnosing diseases.
+For example, cardiologists rely on ejection fraction extracted from ultrasound
+or cine MR scans to assess patients. These volumetric measurements, however, are not
+sensitive enough to aid the diagnosis of many focal or diffuse cardiac diseases. In this
+paper, we introduce a new encoding of the shape and its temporal changes based on
+the spectral signature and show that this encoding is more sensitive for comparing two
+shapes and their temporal dynamics than volumetric measurements.";SVM;Accuracy, Precision, Recall;Yes;"A
+medical expert then semi-automatically segmented the blood pool of the right ventricle
+andmyocardium of the left ventricle at the end-diastole (ED) timepoint using ‘Segment’
+[15] with manual corrections of the results.";No;"Our dataset includes the cine MR scans of 11 TOF
+cases and 11 healthy volunteers (K=22)";"Our dataset includes the cine MR scans of 11 TOF
+cases and 11 healthy volunteers (K=22)";Private;"Our dataset includes the cine MR scans of 11 TOF
+cases and 11 healthy volunteers (K=22)";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"For this article: We would like to thank DongHye Ye for his help on generating
+the cardiac dataset. ";Yes;"Dept. of Radiology, University of Pennsylvania, Philadelphia, PA 19104, USA
+2 Microsoft Research, Cambridge, CB3 0FB, UK
+3 Dept. of Computer Science, Rutgers University, Piscataway, NJ 08854, USA
+
+We would like to thank Dong Hye Ye for his help on generating
+the cardiac dataset. This project was supported in part by Grant Number UL1RR024134
+and by the Institute for Translational Medicine and Therapeutics’ (ITMAT) Transdisciplinary
+Program.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+38;07/10/2022 12.05.24;117;2012;Yes;It was accurately labelled;"Our results demonstrate that the constrained sparse network gives better classification
+performance than the conventional correlation-based network, indicating
+its greater sensitivity to early stage brain pathologies.";"we consider a constrained sparse linear regression model associated
+with the least absolute shrinkage and selection operator (LASSO). Specifically,
+we introduced sparsity into brain connectivity via l1-norm penalization, and ensured
+consistent non-zero connections across subjects via l2-norm penalization.
+Our results demonstrate that the constrained sparse network gives better classification
+performance than the conventional correlation-based network, indicating
+its greater sensitivity to early stage brain pathologies.";"Mild cognitive impairment (MCI) is difficult to diagnose due to its
+subtlety. Recent emergence of advanced network analysis techniques utilizing
+resting-state functional Magnetic Resonance Imaging (rs-fMRI) has made the
+understanding of neurological disorders more comprehensively at a whole-brain
+connectivity level. However, inferring effective brain connectivity from fMRI
+data is a challenging task, particularly when the ultimate goal is to obtain good
+control-patient classification performance. Incorporating sparsity into connectivity
+modeling can potentially produce results that are biologically more meaningful
+since most biologically networks are formed by a relatively few number
+of connections. However, this constraint, when applied at an individual level, will
+degrade classification performance due to inter-subject variability. To address this
+problem,";SVM;AUC, Specificity, Accuracy, Sensitivity;Yes;"The images were then masked with their respective graymatter (GM)
+masks, created by segmenting the GM regions from their T1-weighted images to eliminate
+the physiological noise caused by cardiac and respiratory cycles in white matter
+and cerebrospinal fluid [17].";No;"Resting-state fMRI (rs-fMRI) scans of 12 MCI patients and 25 healthy controls were
+acquired using a 3 Tesla (Signa EXCITE, GE) scanner with the following parameters:
+TR/TE = 2000/32 ms, flip angle = 77?, imaging matrix = 64 × 64, FOV = 256 ×
+256 mm2, 34 slices, 150 volumes, and voxel thickness = 4 mm.";"Resting-state fMRI (rs-fMRI) scans of 12 MCI patients and 25 healthy controls were
+acquired using a 3 Tesla (Signa EXCITE, GE) scanner with the following parameters:
+TR/TE = 2000/32 ms, flip angle = 77?, imaging matrix = 64 × 64, FOV = 256 ×
+256 mm2, 34 slices, 150 volumes, and voxel thickness = 4 mm.";Private;"Resting-state fMRI (rs-fMRI) scans of 12 MCI patients and 25 healthy controls were
+acquired using a 3 Tesla (Signa EXCITE, GE) scanner with the following parameters:
+TR/TE = 2000/32 ms, flip angle = 77?, imaging matrix = 64 × 64, FOV = 256 ×
+256 mm2, 34 slices, 150 volumes, and voxel thickness = 4 mm.";Yes;"Resting-state fMRI (rs-fMRI) scans of 12 MCI patients and 25 healthy controls were
+acquired using a 3 Tesla (Signa EXCITE, GE) scanner with the following parameters:
+TR/TE = 2000/32 ms, flip angle = 77?, imaging matrix = 64 × 64, FOV = 256 ×
+256 mm2, 34 slices, 150 volumes, and voxel thickness = 4 mm.";Yes;"Informed consent was obtained from all subjects, and the
+experimental protocols were approved by the institutional ethics board. Confirmation
+of diagnosis for all subjects was made via expert consensus panels. Demographic and
+clinical information of the participants is provided in Table 1.
+214 C.-Y. Wee et al.
+Table 1. Demographic and clinical information of the participants
+Group MCI Control p-value
+No. of subjects (Male/Female) 6/6 9/16 -
+Age (mean ± SD) 75.0 ± 8.0 72.9 ± 7.9 0.3598a
+Years of education (mean ± SD) 18.0 ± 4.1 15.8 ± 2.4 0.0491a
+MMSE (mean ± SD) 28.5 ± 1.5b 29.3 ± 1.1 0.1201a";Yes;For this article;No;"Department of Radiology and BRIC,
+University of North Carolina at Chapel Hill, NC, USA
+2 Brain Imaging and Analysis Center,
+Duke University Medical Center, Durham, NC, USA";Yes;"Informed consent was obtained from all subjects, and the
+experimental protocols were approved by the institutional ethics board. ";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"Informed consent was obtained from all subjects, and the
+experimental protocols were approved by the institutional ethics board. ";WOW, that's a first!
+42;07/10/2022 12.13.48;122;2012;Yes;It was accurately labelled;"This paper presents a method for unsupervised cluster analysis using
+multi-edge similarity graphs that combine information from different
+modalities. The method alleviates the issues with traditional supervised
+classification methods that use diagnostic labels and are therefore unable
+to exploit or elucidate the underlying heterogeneity of the dataset under
+analysis.";"This paper presents a method for unsupervised cluster analysis using
+multi-edge similarity graphs that combine information from different
+modalities. The method alleviates the issues with traditional supervised
+classification methods that use diagnostic labels and are therefore unable
+to exploit or elucidate the underlying heterogeneity of the dataset under
+analysis.";"Classifying subjects based on their underlying pathology, brain structure, behavior
+and cognition is an important step towards creating biomarkers. However,
+pathologies like ASD and other neuropsychiatric disorders are defined over a
+spectrum and the severity of the disease may vary within a population thus
+making the data highly heterogeneous. Different modalities, like imaging, neurocognitive
+scores etc., may characterize different aspects of this heterogeneity
+to different degrees. This paper presents a method for unsupervised cluster analysis
+of populations using multi-edge similarity graphs that combine information
+of population heterogeneity from different modalities, producing classes that are
+more representative of population variability.
+Traditional superivised classification methods, utilize predefined diagnostic
+labels for the subjects for training [1], [2], and hence new subjects can only be
+classified into one of these diagnostic categories, thereby overlooking the underlying
+heterogeneity of the pathology.";Graph analysis, Unsupervised learning;Accuracy;Yes;"Cortical parcellation and sub-cortical
+segmentation of all the subjects was obtained using Freesurfer [11] on structural
+T1 images, and a total of 78 ROI’s were extracted to represent the nodes of the
+structural network.";No;"Two separate datasets were used in the unsupervised clustering:
+– The SCZ dataset consisted of 29 female controls (CNT) and 23 female age
+matched patients with schizophrenia. The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 64 gradient directions. Neurocognitive
+testing was carried out on all the subjects and the speed and
+accuracy of memory, emotion, reasoning, and executive functioning were
+recorded.
+– The ASD dataset consisted of 33 participants with ASD and 21 age matched
+typically developing controls (TD’s). The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 30 gradient directions. The
+cognitive and psychological tests included verbal IQ, Social Responsiveness
+Scale (SRS), Social communication questionnaire (SCQ), Clinical evaluation
+of language fundamentals (CELF), Full scale IQ and Autism diagnostic
+observation schedule (ADOS) and perceptual reasoning index (PRI).";"Two separate datasets were used in the unsupervised clustering:
+– The SCZ dataset consisted of 29 female controls (CNT) and 23 female age
+matched patients with schizophrenia. The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 64 gradient directions. Neurocognitive
+testing was carried out on all the subjects and the speed and
+accuracy of memory, emotion, reasoning, and executive functioning were
+recorded.
+– The ASD dataset consisted of 33 participants with ASD and 21 age matched
+typically developing controls (TD’s). The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 30 gradient directions. The
+cognitive and psychological tests included verbal IQ, Social Responsiveness
+Scale (SRS), Social communication questionnaire (SCQ), Clinical evaluation
+of language fundamentals (CELF), Full scale IQ and Autism diagnostic
+observation schedule (ADOS) and perceptual reasoning index (PRI).";Private;"Two separate datasets were used in the unsupervised clustering:
+– The SCZ dataset consisted of 29 female controls (CNT) and 23 female age
+matched patients with schizophrenia. The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 64 gradient directions. Neurocognitive
+testing was carried out on all the subjects and the speed and
+accuracy of memory, emotion, reasoning, and executive functioning were
+recorded.
+– The ASD dataset consisted of 33 participants with ASD and 21 age matched
+typically developing controls (TD’s). The DWI images were acquired on
+Siemens 3T scanner with b=1000 s/mm2 and 30 gradient directions. The
+cognitive and psychological tests included verbal IQ, Social Responsiveness
+Scale (SRS), Social communication questionnaire (SCQ), Clinical evaluation
+of language fundamentals (CELF), Full scale IQ and Autism diagnostic
+observation schedule (ADOS) and perceptual reasoning index (PRI).";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;Yes;"Section of Biomedical Image Analysis,
+University of Pennsylvania, Philadelphia, PA, USA
+{Madhura.Ingalhalikar,Ragini.Verma}@uphs.upenn.edu
+2 Brain Behavior Laboratory, University of Pennsylvania, Philadelphia, PA, USA
+3 Lurie Family Foundation’s MEG Imaging Center, Department of Radiology,
+Children’s Hospital of Philadelphia, Philadelphia, PA, USA
+
+The authors would like to acknowledge support from the NIH grants: MH092862,
+MH079938 and DC008871.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+47;11/10/2022 10.23.19;137;2012;Yes;It was accurately labelled;"The experimental results of applying the HCRF classifier on real, multi-centre
+clinical trial images acquired from 122 patients with Relapsing Remitting MS
+(RRMS) yields a 98% sensitivity rate, 0.66 positive predictive value (PPV) and
+an average of 1.55 FP counts per patient when compared to a set of “silver
+standard” manual labels attained by expert consensus1";"we present an automatic, probabilistic Hierarchical
+Conditional Random Field (HCRF) framework for detection of gadenhancing
+lesions in brain images of patients with MS.";"The detection of gad-enhancing lesions in brain MRI of Multiple
+Sclerosis (MS) patients is of great interest since they are important
+markers of disease activity. However, many of the enhancing voxels are
+associated with normal structures (i.e. blood vessels) or noise in the
+MRI, making the detection of gad-enhancing lesions a challenging task.";Conditional Random Fields;Sensitivity;No;"A Conditional Random
+Fields (CRF) [1] classifier was recently developed for this task, without relying
+on the pre-segmentation of T2w lesions and using only commonly acquired
+MRI sequences (";No;"The data was acquired from 122 patients with RRMS as part of a multi center
+clinical trial (31 centers). The patients had varying levels of gad-enhancing lesion
+loads, located in different areas of the brain WM, and showed varying amounts
+of brain atrophy.";"The HCRF classifier is trained on 92 randomly selected MRI volumes and
+tested on the remaining 30 cases.";Private;"The data was acquired from 122 patients with RRMS as part of a multi center
+clinical trial (31 centers). The patients had varying levels of gad-enhancing lesion
+loads, located in different areas of the brain WM, and showed varying amounts
+of brain atrophy.";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"For this article: The data was acquired from 122 patients with RRMS as part of a multi center
+clinical trial (31 centers).";No;"1 Centre for Intelligent Machines, McGill University, Canada
+2 Montreal Neurological Institute, McGill University, Canada
+3 NeuroRx Research, Montreal, Canada";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+49;11/10/2022 10.29.37;152;2012;Yes;It was accurately labelled;"a neural network-based classifier is implemented to test the
+effectiveness of the proposed morphological analysis approach";"By exploiting the recent developments in Multirow-Detector
+Computed Tomography (MDCT) scanner technology, the complex endocardial
+surface morphology of the left ventricle is studied and the cardiac segments
+affected by coronary arterial stenosis localized via analysis of Computed
+Tomography (CT) image data obtained from a 320-MDCT scanner. The nonrigid
+endocardial surface data is analyzed using an isometry-invariant Bag-of-
+Words (BOW) feature-based approach. The clinical significance of the analysis
+in identifying, localizing and quantifying the incidence and extent of coronary
+artery disease is investigated. Specifically, the association between the
+incidence and extent of coronary artery disease and the alterations in the
+endocardial surface morphology is studied. The results of the proposed
+approach on 15 normal data sets, and 12 abnormal data sets exhibiting coronary
+artery disease with varying levels of severity are presented. Based on the
+characterization of the endocardial surface morphology using the Bag-of-Words
+features, a neural network-based classifier is implemented to test the
+effectiveness of the proposed morphological analysis approach.";"The complex morphological structure of the left ventricular
+endocardial surface and its relation to the severity of arterial stenosis has not yet
+been thoroughly investigated due to the limitations of conventional imaging
+techniques.
+
+
+Since CAD is a leading cause of morbidity and
+mortality worldwide, techniques that improve diagnostic and prognostic effectiveness
+have a potentially significant clinical impact.";Neural network;Accuracy;Yes;Left Ventricle Segmentation and Meshing;No;"We employed the proposed methods for segmentation, meshing and endocardial
+surface shape description on 27 MDCT data sets consisting of 12 data sets from
+cardiac patients and 15 data sets from normal subjects";"We employed the proposed methods for segmentation, meshing and endocardial
+surface shape description on 27 MDCT data sets consisting of 12 data sets from
+cardiac patients and 15 data sets from normal subjects";Private;"We employed the proposed methods for segmentation, meshing and endocardial
+surface shape description on 27 MDCT data sets consisting of 12 data sets from
+cardiac patients and 15 data sets from normal subjects";No;Nothing is mentioned;No;"We employed the proposed methods for segmentation, meshing and endocardial
+surface shape description on 27 MDCT data sets consisting of 12 data sets from
+cardiac patients and 15 data sets from normal subjects";No;"We employed the proposed methods for segmentation, meshing and endocardial
+surface shape description on 27 MDCT data sets consisting of 12 data sets from
+cardiac patients and 15 data sets from normal subjects";No;"1 Department of Computer Science, The University of Georgia, Athens, GA, USA
+2 Piedmont Heart Institute, Atlanta, GA, USA
+3 Stony Brook University Medical Center, Stony Brook, NY, USA";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+54;11/10/2022 10.47.27;163;2012;Yes;It was accurately labelled;"Feature Classification
+for Tracking Articulated Surgical Tools";"we describe a tracking system which
+learns visual feature descriptors as class-specific landmarks on an articulated tool.";"Tool tracking is an accepted capability for computer-aided surgical intervention
+which has numerous applications, both in robotic and manual
+minimally-invasive procedures.";Randomized Trees;Accuracy;Yes;"Although the integral images afford efficient extractions of the covariances, we can
+reduce the computations further by initially segmenting the pixels of the image to identify
+areas of interest to classify.";No;We experimented on previously collected porcine data from a da Vinci R  surgical robot.;"Overall, we use ? 15,000 training samples across the 7 classes.
+Couldn't find the size of the test set";Private;Nothing public is referenced;No;Nothing is mentioned;No;Not relevant, porcine data;Yes;For this article: We begin by collecting data to train our classifier;No;"1 Columbia University, New York NY USA
+{areiter,allen}@cs.columbia.edu
+2 Intuitive Surgical, Inc, Sunnyvale CA USA
+tao.zhao@intusurg.com";No;Not relevant, porcine data;No;Nothing is mentioned;No;Not relevant, porcine data;No;Nothing is mentioned;
+60;11/10/2022 12.19.48;194;2012;Yes;It was accurately labelled;"In this paper we propose an auditory stimulation and Near Infra-Red
+Spectroscopy (NIRS) hemodynamic changes acquisition protocol for preterm
+neonates. This study is designed to assess the specific characteristics of
+neurovascular coupling to auditory stimuli in healthy and ill neonate brains. The
+method could lead to clinical application in Intra-Ventricular Hemorrhage
+(IVH) diagnosis along with other techniques such as EEG. We propose a
+realistic head model creation with all useful head structures and brain tissues
+including the neonate fontanel for more accurate results from NIRS signals
+modeling. We also design a 3D imaging tool for dynamic mapping and analysis
+of brain activation onto the cortex surface. Results show significant differences
+in oxy-hemoglobin between healthy neonates and subjects with IVH.";"We propose a
+realistic head model creation with all useful head structures and brain tissues
+including the neonate fontanel for more accurate results from NIRS signals
+modeling. We also design a 3D imaging tool for dynamic mapping and analysis
+of brain activation onto the cortex surface. Results show significant differences
+in oxy-hemoglobin between healthy neonates and subjects with IVH.";"Low arterial blood oxygenation and abnormal cerebral
+blood flow is believed to influence the function of the neonatal brain [1]. Preterm
+neonates are at high-risk of IVH because of their lack of ability to regulate cerebral blood
+flow and pressure [2].";Multimodality atlas;AUC;Yes;"The fontanel was segmented from the CT-Scan using a
+variational level-set method";No;"This study was carried out on two groups; the first one is composed of 12 healthy control
+subjects and the second one of 7 ill subjects with IVH of grade III-IV. All subjects of
+both groups are preterm neonates of gestational age from 28 to 32 weeks; tested during
+their sleep between 2 and 4 days after birth. Subjects were submitted to auditory stimuli
+which consist of two digitized syllables /ba/ and /ga/ as in a previous EEG study [9].
+Three stimulations conditions were used: the standard one (ST: four /ba/ male); deviant
+voice (DV: three /ba/ male, one /ba/ female); and deviant phoneme (DP: three /ba/ male,
+one /ga/ male). The four syllables block duration is 4s and total stimulation (20s) is
+composed of five consecutive blocks. A newborn special NIRS probe showed in Fig. 1(a)
+was designed and consists of two patches containing two detectors and sixteen light
+sources in each of them (8 to ?=690nm; 8 to ?=830nm wavelengths). Twenty acquisition
+channels, ten per hemisphere, are measured in the configuration showed in Fig. 1(b). We
+used a multi-channel frequency domain based optical imaging system (Imagent, ISS Inc.)
+for the acquisition of oxygenated hemoglobin (HbO) and deoxygenated hemoglobin (Hb)
+changes during auditory stimuli. Values of HbO and Hb and their changes were obtained
+using the relation between absorption spectroscopic coefficients of the environment and
+chromophore concentrations according to the modified Beer-Lambert law [10] used in
+NIRS studies.";"This study was carried out on two groups; the first one is composed of 12 healthy control
+subjects and the second one of 7 ill subjects with IVH of grade III-IV. All subjects of
+both groups are preterm neonates of gestational age from 28 to 32 weeks; tested during
+their sleep between 2 and 4 days after birth. Subjects were submitted to auditory stimuli
+which consist of two digitized syllables /ba/ and /ga/ as in a previous EEG study [9].
+Three stimulations conditions were used: the standard one (ST: four /ba/ male); deviant
+voice (DV: three /ba/ male, one /ba/ female); and deviant phoneme (DP: three /ba/ male,
+one /ga/ male). The four syllables block duration is 4s and total stimulation (20s) is
+composed of five consecutive blocks. A newborn special NIRS probe showed in Fig. 1(a)
+was designed and consists of two patches containing two detectors and sixteen light
+sources in each of them (8 to ?=690nm; 8 to ?=830nm wavelengths). Twenty acquisition
+channels, ten per hemisphere, are measured in the configuration showed in Fig. 1(b). We
+used a multi-channel frequency domain based optical imaging system (Imagent, ISS Inc.)
+for the acquisition of oxygenated hemoglobin (HbO) and deoxygenated hemoglobin (Hb)
+changes during auditory stimuli. Values of HbO and Hb and their changes were obtained
+using the relation between absorption spectroscopic coefficients of the environment and
+chromophore concentrations according to the modified Beer-Lambert law [10] used in
+NIRS studies.";Private;"This study was carried out on two groups; the first one is composed of 12 healthy control
+subjects and the second one of 7 ill subjects with IVH of grade III-IV. All subjects of
+both groups are preterm neonates of gestational age from 28 to 32 weeks; tested during
+their sleep between 2 and 4 days after birth. Subjects were submitted to auditory stimuli
+which consist of two digitized syllables /ba/ and /ga/ as in a previous EEG study [9].
+Three stimulations conditions were used: the standard one (ST: four /ba/ male); deviant
+voice (DV: three /ba/ male, one /ba/ female); and deviant phoneme (DP: three /ba/ male,
+one /ga/ male). The four syllables block duration is 4s and total stimulation (20s) is
+composed of five consecutive blocks. A newborn special NIRS probe showed in Fig. 1(a)
+was designed and consists of two patches containing two detectors and sixteen light
+sources in each of them (8 to ?=690nm; 8 to ?=830nm wavelengths). Twenty acquisition
+channels, ten per hemisphere, are measured in the configuration showed in Fig. 1(b). We
+used a multi-channel frequency domain based optical imaging system (Imagent, ISS Inc.)
+for the acquisition of oxygenated hemoglobin (HbO) and deoxygenated hemoglobin (Hb)
+changes during auditory stimuli. Values of HbO and Hb and their changes were obtained
+using the relation between absorption spectroscopic coefficients of the environment and
+chromophore concentrations according to the modified Beer-Lambert law [10] used in
+NIRS studies.";Yes;"This study was carried out on two groups; the first one is composed of 12 healthy control
+subjects and the second one of 7 ill subjects with IVH of grade III-IV. All subjects of
+both groups are preterm neonates of gestational age from 28 to 32 weeks; tested during
+their sleep between 2 and 4 days after birth. Subjects were submitted to auditory stimuli
+which consist of two digitized syllables /ba/ and /ga/ as in a previous EEG study [9].
+Three stimulations conditions were used: the standard one (ST: four /ba/ male); deviant
+voice (DV: three /ba/ male, one /ba/ female); and deviant phoneme (DP: three /ba/ male,
+one /ga/ male). The four syllables block duration is 4s and total stimulation (20s) is
+composed of five consecutive blocks. A newborn special NIRS probe showed in Fig. 1(a)
+was designed and consists of two patches containing two detectors and sixteen light
+sources in each of them (8 to ?=690nm; 8 to ?=830nm wavelengths). Twenty acquisition
+channels, ten per hemisphere, are measured in the configuration showed in Fig. 1(b). We
+used a multi-channel frequency domain based optical imaging system (Imagent, ISS Inc.)
+for the acquisition of oxygenated hemoglobin (HbO) and deoxygenated hemoglobin (Hb)
+changes during auditory stimuli. Values of HbO and Hb and their changes were obtained
+using the relation between absorption spectroscopic coefficients of the environment and
+chromophore concentrations according to the modified Beer-Lambert law [10] used in
+NIRS studies.";No;Nothing is mentioned;Yes;For this article;No;"1 GRAMFC, Inserm U1105, CHU Amiens, University of Picardie Jules Verne, Amiens, France
+{marc.fournier,mahdi.mahmoudzadeh,guy.kongolo,reinhard.grebe,
+fabrice.wallois}@u-picardie.fr
+2 Dept. of Electrical and Electronics Engineering, Shiraz University of Technology, Shiraz, Iran
+kazemi@sutech.ac.ir
+3 NeuroSpin, CEA, Inserm U992, Cognitive Neuroimaging, University Paris XI, Paris, France
+ghislaine.dehaene@cea.fr";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+62;11/10/2022 12.25.55;202;2012;Yes;It was accurately labelled;"we
+investigate a tree-guided sparse coding method to identify grouped imaging
+features in the brain regions for guiding disease classification and interpretation.";"we
+investigate a tree-guided sparse coding method to identify grouped imaging
+features in the brain regions for guiding disease classification and interpretation.";"Neuroimage analysis based on machine learning technologies has
+been widely employed to assist the diagnosis of brain diseases such as
+Alzheimer's disease and its prodromal stage - mild cognitive impairment. One
+of the major problems in brain image analysis involves learning the most
+relevant features from a huge set of raw imaging features, which are far more
+numerous than the training samples. This makes the tasks of both disease
+classification and interpretation extremely challenging. Sparse coding via L1
+regularization, such as Lasso, can provide an effective way to select the most
+relevant features for alleviating the curse of dimensionality and achieving more
+accurate classification. However, the selected features may distribute randomly
+throughout the whole brain, although in reality disease-induced abnormal
+changes often happen in a few contiguous regions.";SVM;Accuracy;Yes;"Then, each image was segmented
+into three brain tissues, i.e., gray matter (GM), white matter (WM), and cerebrospinal
+fluid (CSF),";Yes;"We evaluate the proposed classification algorithm with the T1-weighted baseline MR
+brain images of 643 subjects, which include 196 AD patients, 220 MCI subjects, and
+227 normal controls (NC), randomly selected from Alzheimer's Disease
+Neuroimaging Initiative (ADNI) database.";"We evaluate the proposed classification algorithm with the T1-weighted baseline MR
+brain images of 643 subjects, which include 196 AD patients, 220 MCI subjects, and
+227 normal controls (NC), randomly selected from Alzheimer's Disease
+Neuroimaging Initiative (ADNI) database.";Public;ADNI;No;Nothing is mentioned;Yes;"Table 1 provides a summary of the
+demographic characteristics of the studied subjects (denoted as mean ± standard
+deviation). (and shows age and gender as the only demographic information)";No;Nothing is mentioned;Yes;"1 IDEA Lab, Department of Radiology and BRIC,
+University of North Carolina at Chapel Hill, USA
+2 Department of Instrument Science and Technology,
+Shanghai Jiao Tong University, China
+3 Department of Computer Science and Engineering,
+Nanjing University of Aeronautics and Astronautics, China
+
+This work was partially supported by NIH grants EB006733, EB008374, EB009634, AG041721,
+and MH088520, Medical and Engineering Foundation of Shanghai Jiao Tong University (No.
+YG2010MS74), and NSFC grants (No. 61005024 and 60875030).";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+63;16/10/2022 09.34.12;203;2012;Yes;It was accurately labelled;"The benefits of our approach are twofold. First it uses the
+reference database for prediction, i.e. to provide potential biomarkers in
+a clinical setting. Second it increases statistical power on the new task.
+We demonstrate on a set of 18 pairs of functional MRI experimental
+conditions that our approach gives good prediction.";"we propose to use a database
+of images, rather than coordinates, and frame the problem as transfer
+learning: learning a discriminant model on a reference task to apply it
+to a different but related new task. To facilitate statistical analysis of
+small cohorts, we use a sparse discriminant model that selects predictive
+voxels on the reference task and thus provides a principled procedure to
+define ROIs.";"Typical cohorts in brain imaging studies are not large enough
+for systematic testing of all the information contained in the images. To
+build testable working hypotheses, investigators thus rely on analysis
+of previous work, sometimes formalized in a so-called meta-analysis. In
+brain imaging, this approach underlies the specification of regions of interest
+(ROIs) that are usually selected on the basis of the coordinates of
+previously detected effects. In this paper, we propose to use a database
+of images, rather than coordinates, and frame the problem as transfer
+learning:";logistic regression;Accuracy;No;Nothing is mentioned;No;"We use 3 studies for this meta-analysis. The first study (E1) [11] is composed
+of 322 subjects and was designed to assess the inter-subject variability in some
+language, calculation, and sensorimotor tasks. The second study (E2) is similar
+to the first one in terms of stimuli, but its data was acquired on 35 pairs of twinsubjects.
+The last study (E3) [12] characterizes brain regions in charge of the
+syntactic and the semantic processing for the language. It was performed with
+40 subjects, 20 of which were stimulated by pseudowords (jabberwocky stimuli)
+instead of actual meaningful sentences. All the studies were pre-processed and
+analyzed with the standard fMRI analysis software SPM5. The data used for this
+work are the statistical images resulting from the intra-subject analyses across
+the 3 studies. E1 has 34 contrasts images available, E2 56, and E3 28. The raw
+images were not always acquired on the same scanner. E1 has data from a 3T
+SIEMENS Trio, and a 3T Brucker scanner; E2 data were acquired on a 1.5T
+GE Signa; and E3 images come from the same 3T SIEMENS Trio.";"We use 3 studies for this meta-analysis. The first study (E1) [11] is composed
+of 322 subjects and was designed to assess the inter-subject variability in some
+language, calculation, and sensorimotor tasks. The second study (E2) is similar
+to the first one in terms of stimuli, but its data was acquired on 35 pairs of twinsubjects.
+The last study (E3) [12] characterizes brain regions in charge of the
+syntactic and the semantic processing for the language. It was performed with
+40 subjects, 20 of which were stimulated by pseudowords (jabberwocky stimuli)
+instead of actual meaningful sentences. All the studies were pre-processed and
+analyzed with the standard fMRI analysis software SPM5. The data used for this
+work are the statistical images resulting from the intra-subject analyses across
+the 3 studies. E1 has 34 contrasts images available, E2 56, and E3 28. The raw
+images were not always acquired on the same scanner. E1 has data from a 3T
+SIEMENS Trio, and a 3T Brucker scanner; E2 data were acquired on a 1.5T
+GE Signa; and E3 images come from the same 3T SIEMENS Trio.";Private;"We use 3 studies for this meta-analysis. The first study (E1) [11] is composed
+of 322 subjects and was designed to assess the inter-subject variability in some
+language, calculation, and sensorimotor tasks. The second study (E2) is similar
+to the first one in terms of stimuli, but its data was acquired on 35 pairs of twinsubjects.
+The last study (E3) [12] characterizes brain regions in charge of the
+syntactic and the semantic processing for the language. It was performed with
+40 subjects, 20 of which were stimulated by pseudowords (jabberwocky stimuli)
+instead of actual meaningful sentences. All the studies were pre-processed and
+analyzed with the standard fMRI analysis software SPM5. The data used for this
+work are the statistical images resulting from the intra-subject analyses across
+the 3 studies. E1 has 34 contrasts images available, E2 56, and E3 28. The raw
+images were not always acquired on the same scanner. E1 has data from a 3T
+SIEMENS Trio, and a 3T Brucker scanner; E2 data were acquired on a 1.5T
+GE Signa; and E3 images come from the same 3T SIEMENS Trio.";No;"We use 3 studies for this meta-analysis. The first study (E1) [11] is composed
+of 322 subjects and was designed to assess the inter-subject variability in some
+language, calculation, and sensorimotor tasks. The second study (E2) is similar
+to the first one in terms of stimuli, but its data was acquired on 35 pairs of twinsubjects.
+The last study (E3) [12] characterizes brain regions in charge of the
+syntactic and the semantic processing for the language. It was performed with
+40 subjects, 20 of which were stimulated by pseudowords (jabberwocky stimuli)
+instead of actual meaningful sentences. All the studies were pre-processed and
+analyzed with the standard fMRI analysis software SPM5. The data used for this
+work are the statistical images resulting from the intra-subject analyses across
+the 3 studies. E1 has 34 contrasts images available, E2 56, and E3 28. The raw
+images were not always acquired on the same scanner. E1 has data from a 3T
+SIEMENS Trio, and a 3T Brucker scanner; E2 data were acquired on a 1.5T
+GE Signa; and E3 images come from the same 3T SIEMENS Trio.";No;"We use 3 studies for this meta-analysis. The first study (E1) [11] is composed
+of 322 subjects and was designed to assess the inter-subject variability in some
+language, calculation, and sensorimotor tasks. The second study (E2) is similar
+to the first one in terms of stimuli, but its data was acquired on 35 pairs of twinsubjects.
+The last study (E3) [12] characterizes brain regions in charge of the
+syntactic and the semantic processing for the language. It was performed with
+40 subjects, 20 of which were stimulated by pseudowords (jabberwocky stimuli)
+instead of actual meaningful sentences. All the studies were pre-processed and
+analyzed with the standard fMRI analysis software SPM5. The data used for this
+work are the statistical images resulting from the intra-subject analyses across
+the 3 studies. E1 has 34 contrasts images available, E2 56, and E3 28. The raw
+images were not always acquired on the same scanner. E1 has data from a 3T
+SIEMENS Trio, and a 3T Brucker scanner; E2 data were acquired on a 1.5T
+GE Signa; and E3 images come from the same 3T SIEMENS Trio.";No;Nothing is mentioned;No;"1 Parietal Team, INRIA Saclay-ˆIle-de-France, Saclay, France
+yannick.schwartz@inria.fr
+2 CEA, DSV, I2BM, Neurospin bˆat 145, 91191 Gif-Sur-Yvette, France
+3 INSERM, CEA, Cognitive Neuroimaging Unit, Neurospin Center, France
+
+";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+65;16/10/2022 09.42.23;206;2012;Yes;It was accurately labelled;The criterion function of SFFS was the accuracy of the SVM classifier;"We applied the feature analysis method
+to a large TCS dataset that is relevant for clinical practice and includes
+the variability that is present under real conditions. In order to decrease
+the influence to the image properties from the different settings of ultrasound
+machine, we propose a local image analysis method using an
+invariant scale blob detection for the hyperechogenicity estimation. The
+local features are extracted from the detected blobs and the watershed
+regions in half of mesencephalon area. The performance of these features
+is evaluated by a feature-selection method. The cross validation results
+show that the local features could be used for PD detection.";"Transcranial sonography (TCS) is a new tool for the diagnosis
+of Parkinson’s disease (PD) according to a distinct hyperechogenic
+pattern in the substantia nigra (SN) region. However a procedure including
+rating scale of SN hyperechogenicity was required for a standard clinical
+setting with increased use.";SVM;Accuracy, Confusion matrix;Yes;"Secondly, based on the manually segmented HoM images which were
+marked by the physicians, the suspicious hyperechogenicity areas were localized
+by the invariant scale blob detection method.";No;"The experiments were based on three data sets which were obtained with Philips
+SONOS 5500 by different examiners. Dataset 1 includes 42 TCS images from 23
+PD patients and 36 TCS images from 21 healthy controls. Dataset 2 includes
+15 PD TCS images from ten PD patients and eight control images from four
+controls. The last dataset consisted of ten PD TCS images from five PD patients
+and 27 TCS from 14 controls. Totally, this large dataset includes 67 PD images
+from 38 PD patients and 71 control images from 39 healthy subjects.";"The experiments were based on three data sets which were obtained with Philips
+SONOS 5500 by different examiners. Dataset 1 includes 42 TCS images from 23
+PD patients and 36 TCS images from 21 healthy controls. Dataset 2 includes
+15 PD TCS images from ten PD patients and eight control images from four
+controls. The last dataset consisted of ten PD TCS images from five PD patients
+and 27 TCS from 14 controls. Totally, this large dataset includes 67 PD images
+from 38 PD patients and 71 control images from 39 healthy subjects.";Private;"The experiments were based on three data sets which were obtained with Philips
+SONOS 5500 by different examiners. Dataset 1 includes 42 TCS images from 23
+PD patients and 36 TCS images from 21 healthy controls. Dataset 2 includes
+15 PD TCS images from ten PD patients and eight control images from four
+controls. The last dataset consisted of ten PD TCS images from five PD patients
+and 27 TCS from 14 controls. Totally, this large dataset includes 67 PD images
+from 38 PD patients and 71 control images from 39 healthy subjects.";No;"The experiments were based on three data sets which were obtained with Philips
+SONOS 5500 by different examiners. Dataset 1 includes 42 TCS images from 23
+PD patients and 36 TCS images from 21 healthy controls. Dataset 2 includes
+15 PD TCS images from ten PD patients and eight control images from four
+controls. The last dataset consisted of ten PD TCS images from five PD patients
+and 27 TCS from 14 controls. Totally, this large dataset includes 67 PD images
+from 38 PD patients and 71 control images from 39 healthy subjects.";No;Nothing is mentioned;No;"Possibly for this article, but hard to tell...
+
+The experiments were based on three data sets which were obtained with Philips
+SONOS 5500 by different examiners. Dataset 1 includes 42 TCS images from 23
+PD patients and 36 TCS images from 21 healthy controls. Dataset 2 includes
+15 PD TCS images from ten PD patients and eight control images from four
+controls. The last dataset consisted of ten PD TCS images from five PD patients
+and 27 TCS from 14 controls. Totally, this large dataset includes 67 PD images
+from 38 PD patients and 71 control images from 39 healthy subjects.";No;"1 Institute for Signal Processing, University of Luebeck, Germany
+2 Department of Neurology, University Hospital Schleswig-Holstein, Germany
+3 Graduate School, University of Luebeck, Germany";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+67;16/10/2022 09.51.56;213;2012;Yes;It was accurately labelled;"We propose a novel approach to detect fusion
+and undocking events by first searching for docked vesicles that ‘disappear’ from
+the field of view, and then using a diffusion model to classify them as either fusion
+or undocking events.";"We propose a novel approach to detect fusion
+and undocking events by first searching for docked vesicles that ‘disappear’ from
+the field of view, and then using a diffusion model to classify them as either fusion
+or undocking events.";"Fluorescently-tagged proteins located on vesicles can fuse with the
+surface membrane (visualised as a ‘puff’) or undock and return back into the bulk
+of the cell. Detection and quantitative measurement of these events from timelapse
+videos has proven difficult.";own algorithm - cannot find any keywords I relate;Accuracy, Precision, Recall;No;Nothing is mentioned;No;"Our data
+set comprises of four videos1.";"Our data
+set comprises of four videos1.";Private;"Our data
+set comprises of four videos1.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;"1 Department of Computer Science, University of Oxford, UK
+2 Department of Computer Science, University of Bristol, UK
+3 Department of Biochemistry, University of Bristol, UK";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+68;16/10/2022 09.59.07;215;2012;Yes;It was accurately labelled;"In low-resource areas, the most common method of tuberculosis
+(TB) diagnosis is visual identification of rod-shaped TB bacilli
+in microscopic images of sputum smears. We present an algorithm for
+automated TB detection using images from digital microscopes such as
+CellScope [2], a novel, portable device capable of brightfield and fluorescence
+microscopy. Automated processing on such platforms could
+save lives by bringing healthcare to rural areas with limited access to
+laboratory-based diagnostics. Our algorithm applies morphological operations
+and template matching with a Gaussian kernel to identify candidate
+TB-objects. We characterize these objects using Hu moments,
+geometric and photometric features, and histograms of oriented gradients
+and then perform support vector machine classification.";"e present an algorithm for
+automated TB detection using images from digital microscopes such as
+CellScope [2], a novel, portable device capable of brightfield and fluorescence
+microscopy";"Automated processing on such platforms could
+save lives by bringing healthcare to rural areas with limited access to
+laboratory-based diagnostics";SVM;Specificity, Precision, Recall, Sensitivity;No;"We propose a TB detection algorithm for FM with three stages: (1) candidate
+TB-object identification, (2) feature representation, and (3) discriminative classification.";No;"Our dataset consists of sputum smear slides collected at clinics in Uganda. Fluorescence
+images of these smears were taken using CellScope, which has a 0.4NA
+objective and an 8-bit monochrome CMOS camera. CellScope gives a Rayleigh
+resolution of 0.76?m and is capable of effective magnifications of 2000-3000x.
+The CellScope images are 1944x2592 pixels and cover a 640x490?m field of view
+at the smear-referenced plane. We use 594 CellScope images (296 TB-positive,
+298 TB-negative), which correspond to 290 patients (143 TB-positive, 147 TBnegative).
+We have slide-level human reader and culture classification results for
+all 290 slides.";"Our dataset consists of sputum smear slides collected at clinics in Uganda. Fluorescence
+images of these smears were taken using CellScope, which has a 0.4NA
+objective and an 8-bit monochrome CMOS camera. CellScope gives a Rayleigh
+resolution of 0.76?m and is capable of effective magnifications of 2000-3000x.
+The CellScope images are 1944x2592 pixels and cover a 640x490?m field of view
+at the smear-referenced plane. We use 594 CellScope images (296 TB-positive,
+298 TB-negative), which correspond to 290 patients (143 TB-positive, 147 TBnegative).
+We have slide-level human reader and culture classification results for
+all 290 slides.";Public;Our dataset and human annotations will be publicly available.;Yes;"Our dataset consists of sputum smear slides collected at clinics in Uganda. Fluorescence
+images of these smears were taken using CellScope, which has a 0.4NA
+objective and an 8-bit monochrome CMOS camera. CellScope gives a Rayleigh
+resolution of 0.76?m and is capable of effective magnifications of 2000-3000x.
+The CellScope images are 1944x2592 pixels and cover a 640x490?m field of view
+at the smear-referenced plane. We use 594 CellScope images (296 TB-positive,
+298 TB-negative), which correspond to 290 patients (143 TB-positive, 147 TBnegative).
+We have slide-level human reader and culture classification results for
+all 290 slides.";No;Nothing is mentioned;No;"Perhaps for this article: We would like to thank our collaborators at the Mulago
+Hospital of Kampala, Uganda, who provided the sputum smears used in this
+study.";Yes;"1 UC Berkeley Department of Electrical Engineering and Computer Sciences
+2 UC Berkeley Department of Bioengineering
+3 UC San Francisco Medical School and San Francisco General Hospital
+
+We would like to thank our collaborators at the Mulago
+Hospital of Kampala, Uganda, who provided the sputum smears used in this
+study.";No;Nothing is mentioned;Yes;"Though tuberculosis (TB) receives relatively little attention in high-income countries,
+it remains the second leading cause of death from infectious disease worldwide
+(second only to HIV/AIDS)
+
+Hence, with the advent of low-cost digital microscopy, automated TB diagnosis presents a ready opportunity
+for the application of modern computer vision techniques to a real-world,
+high-impact problem.
+
+Sputum smear microscopy continues to be by far the
+most widely used method of TB diagnosis, suggesting that enhancements to
+microscopy-based screening methods could provide significant benefit to large
+numbers of TB-burdened communities across the globe.";No;Nothing is mentioned;Yes;"The dataset and code is made available - though no link to where: We will release
+our dataset, annotations, and code, which we hope will provide helpful
+insights for future approaches to quantitative TB diagnosis.
+";
+71;16/10/2022 10.06.04;227;2012;Yes;It was accurately labelled;"In this work, for the first time, we propose
+an automatic 3D SNE detection approach based on random forests,
+with a novel formulation of SNE probability that relies on visual context
+and anatomical priors. On a 3D-TCUS dataset of 11 PD patients and 11
+healthy controls, we demonstrate that our SNE detection approach yields
+promising results with a sensitivity and specificity of around 83%.";"In this work, for the first time, we propose
+an automatic 3D SNE detection approach based on random forests,
+with a novel formulation of SNE probability that relies on visual context
+and anatomical priors. On a 3D-TCUS dataset of 11 PD patients and 11
+healthy controls, we demonstrate that our SNE detection approach yields
+promising results with a sensitivity and specificity of around 83%.";"Parkinson’s disease (PD) is a neurodegenerative movement
+disorder caused by decay of dopaminergic cells in the substantia nigra
+(SN), which are basal ganglia residing within the midbrain area. In the
+past two decades, transcranial B-mode sonography (TCUS) has emerged
+as a viable tool in differential diagnosis of PD and recently has been shown
+to have promising potential as a screening technique for early detection of
+PD, even before onset of motor symptoms. In TCUS imaging, the degeneration
+of SN cells becomes visible as bright and hyper-echogenic speckle
+patches (SNE) in the midbrain. Recent research proposes the usage of 3D
+ultrasound imaging in order to make the application of the TCUS technique
+easier and more objective.";random forest;Specificity, F1 score, Sensitivity;Yes;"We further assume that we are given a segmentation of the midbrain
+M ? ?, either from a manual expert segmentation or alternatively from the
+output of a ROI detection algorithm";No;"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";Private;"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";No;"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";No;"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";No;"In this section, we evaluate our SNE detection approach on the bi-lateral 3DTCUS
+dataset volume of 22 subjects, consisting of 11 PD patients and 11
+healthy controls.";No;"1 Institute of Biomathematics and Biometry, Helmholtz Zentrum M¨unchen, Germany
+2 Computer Aided Medical Procedures, Technische Universit¨at M¨unchen, Germany
+3 Department of Neurology, Ludwig-Maximilians-University of Munich, Germany
+
+";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+73;16/10/2022 11.09.08;230;2012;Yes;It was accurately labelled;"A classifier capable of handling subjects
+with unequal numbers of modalities prevents discarding any subjects, as
+is traditionally done, thereby broadening the scope of the classifier to
+more severe pathology.";"The paper presents a method for learning multimodal classifiers
+from datasets in which not all subjects have data from all modalities.";"Pattern classification techniques are generating increasing interest in the neuroimaging
+community as they are powerful in learning the patterns of pathology from a population, assign a probabilistic score to each subject which characterizes
+pathology on an individual basis and aid in assessing treatment in conjunction
+with other clinical scores";ensemble based classification framework;AUC, Accuracy;No;Nothing is mentioned;No;"Our dataset consisted of 138 subjects (42 TD
+and 96 ASD), out of which 55 subjects had complete data while others had some
+feature missing (60.1% subjects with partial data). 30% of subjects were missing
+MMF, 15.7% were missing M100 and 38% were missing DTI. We randomly
+picked 112 subjects (51 complete and 61 subjects with partial data, making
+54.4% missing data) for training and the other 26 (4 complete and 22 partial
+data) as test data.";"Our dataset consisted of 138 subjects (42 TD
+and 96 ASD), out of which 55 subjects had complete data while others had some
+feature missing (60.1% subjects with partial data). 30% of subjects were missing
+MMF, 15.7% were missing M100 and 38% were missing DTI. We randomly
+picked 112 subjects (51 complete and 61 subjects with partial data, making
+54.4% missing data) for training and the other 26 (4 complete and 22 partial
+data) as test data.";Private;"Our dataset consisted of 138 subjects (42 TD
+and 96 ASD), out of which 55 subjects had complete data while others had some
+feature missing (60.1% subjects with partial data). 30% of subjects were missing
+MMF, 15.7% were missing M100 and 38% were missing DTI. We randomly
+picked 112 subjects (51 complete and 61 subjects with partial data, making
+54.4% missing data) for training and the other 26 (4 complete and 22 partial
+data) as test data.";Yes;"Dataset and Preprocessing. Our dataset consisted of 138 subjects (42 TD
+and 96 ASD), out of which 55 subjects had complete data while others had some
+feature missing (60.1% subjects with partial data). 30% of subjects were missing
+MMF, 15.7% were missing M100 and 38% were missing DTI. We randomly
+picked 112 subjects (51 complete and 61 subjects with partial data, making
+54.4% missing data) for training and the other 26 (4 complete and 22 partial
+data) as test data.
+The MEG recordings were performed using a CTF 275-channel biomagnetometer
+with the following protocol: (i) binaural auditory presentation of brief
+sinusoidal tone stimuli at 45dB SL.M100 latency was determined from the source
+modeled peak of the stimulus-locked average of 100 trials of each token (ii) binaural
+auditory presentation of interleaved standard and deviant tone and vowel
+tokens (/a/, /u/). Mismatch field (MMF) latency was determined from the subtraction
+of superior temporal gyrus (STG) source-modeled responses for each
+token as deviant vs. standard. The DTI data were acquired on Siemens 3T VerioTM scanner using the Stejkal Tanner diffusion weighted imaging sequence
+(2mm isotropic resolution) with b=1000 mm/s2 and 30 gradient directions.";No;Nothing is mentioned;Yes;For the article;Yes;"1 Section of Biomedical Image Analysis, University of Pennsylvania,
+Philadelphia, PA, USA
+{Madhura.Ingalhalikar,Ragini.Verma}@uphs.upenn.edu
+2 Lurie Family Foundations MEG Imaging Center, Department of Radiology,
+Children’s Hospital of Philadelphia, Philadelphia, PA, USA
+
+The authors would like to acknowledge support from the NIH grants: MH092862,
+MH079938 and DC008871.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+75;17/10/2022 08.36.09;234;2012;Yes;It was accurately labelled;"In clinical practice, physicians often exploit previously observed
+patterns in coronary angiograms from similar patients to quickly
+assess the state of the disease in a current patient. These assessments
+involve visually observed features such as the distance of a junction from
+the root and the tortuosity of the arteries. In this paper, we show how
+these visual features can be automatically extracted from coronary artery
+images and used for finding similar coronary angiograms from a database.
+Testing on a large collection has shown the method finds clinically similar
+coronary angiograms from patients with similar clinical history.";"we show how
+these visual features can be automatically extracted from coronary artery
+images and used for finding similar coronary angiograms from a database.";"X-ray Coronary angiography is a commonly used technique to assess the state
+of coronary artery disease (CAD). During assessment, clinicians look for characteristic
+visual features, taking into account the overall disease burden, the
+complexity of individual lesions, and placing more weight on proximal stenoses
+of the coronary arteries. Even though there are quantitative assessment scores
+such as the Syntax Score[12], they require manual input of angiographic information.
+Thus the clinicians still characterize the disease by ’eyeballing’ on salient
+visual features such as lumen variation or the relative thickness of arteries (see
+Fig. 1a-c)[5], the distance of the junctions from the root, the number of trifurcations,
+etc.";Supervised learning, Relevant Component Analysis;Accuracy, Precision;Yes;Extracting Coronary Artery Segments;No;"From a collection of 1600 runs of X-ray angiography videos from 70 patients,
+we applied a keyframe detection method [13] to retain the top 10 key frames
+from each run, generating a ground truth test set of 600 images drawn across
+multiple patients, viewpoints and coronary arteries.";"From a collection of 1600 runs of X-ray angiography videos from 70 patients,
+we applied a keyframe detection method [13] to retain the top 10 key frames
+from each run, generating a ground truth test set of 600 images drawn across
+multiple patients, viewpoints and coronary arteries.";Private;"From a collection of 1600 runs of X-ray angiography videos from 70 patients,
+we applied a keyframe detection method [13] to retain the top 10 key frames
+from each run, generating a ground truth test set of 600 images drawn across
+multiple patients, viewpoints and coronary arteries.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;"1 IBM Almaden Research Center, San Jose, CA, USA
+2 Kaiser San Francisco Medical Center, San Francisco, CA, USA";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+76;17/10/2022 08.40.16;235;2012;Yes;It was accurately labelled;"Twenty-eight features are computed for each fracture
+line and sent to a committee of support vector machines for classification.";"We propose a
+fully automated method to detect acute vertebral body fractures on trauma CT
+studies.";"Assessment of trauma patients with multiple injuries, particularly in the setting of
+multiple trauma patients presenting to the hospital concurrently, can be one of the
+most clinically challenging situations dealt with by the radiologist. Traumatic injury
+of the spine is a subset of the spectrum of blunt trauma pathology, and is common and
+potentially devastating. Previous reports estimate the number of vertebral fractures
+each year in the United States at more than 140,000, with 19%-50% of fractures of the
+thoracolumbar spine associated with neurological injury [1]. Rapid and accurate
+assessment is essential for determination of an acceptable management algorithm, and
+delay in detection and management of";SVM;Sensitivity;Yes;"The cortical shell of vertebral
+body is then segmented using deformable dual-surface models";No;"Our cohort includes 18 trauma patients admitted to UC Irvine Medical Center between
+June 2009 and July 2010. The mean patient age was 51±11 yrs (18-86yrs). There were
+13 men and 5 women. All patients were scanned on a Siemens Sensation 64 scanner.
+The scanning parameters were: 2mm slice thickness, 120 kvp, no intravenous contrast
+administration, and convolution kernel B40f (16 patients) or B60f (2 patients). The CT
+data covered the thoracic and lumbar spines, and included 14 vertebrae on average. An
+expert radiologist examined the cases and manually marked the fracture sites. Ten
+patients were positive for vertebral body fractures. The total number of spatially distinct
+fracture sites was 21, among the 10 patients. The remaining 8 patients had no evidence
+of vertebral body fracture. The average running time is 5.6 minutes.";"Our cohort includes 18 trauma patients admitted to UC Irvine Medical Center between
+June 2009 and July 2010. The mean patient age was 51±11 yrs (18-86yrs). There were
+13 men and 5 women. All patients were scanned on a Siemens Sensation 64 scanner.
+The scanning parameters were: 2mm slice thickness, 120 kvp, no intravenous contrast
+administration, and convolution kernel B40f (16 patients) or B60f (2 patients). The CT
+data covered the thoracic and lumbar spines, and included 14 vertebrae on average. An
+expert radiologist examined the cases and manually marked the fracture sites. Ten
+patients were positive for vertebral body fractures. The total number of spatially distinct
+fracture sites was 21, among the 10 patients. The remaining 8 patients had no evidence
+of vertebral body fracture. The average running time is 5.6 minutes.";Private;"Our cohort includes 18 trauma patients admitted to UC Irvine Medical Center between
+June 2009 and July 2010. The mean patient age was 51±11 yrs (18-86yrs). There were
+13 men and 5 women. All patients were scanned on a Siemens Sensation 64 scanner.
+The scanning parameters were: 2mm slice thickness, 120 kvp, no intravenous contrast
+administration, and convolution kernel B40f (16 patients) or B60f (2 patients). The CT
+data covered the thoracic and lumbar spines, and included 14 vertebrae on average. An
+expert radiologist examined the cases and manually marked the fracture sites. Ten
+patients were positive for vertebral body fractures. The total number of spatially distinct
+fracture sites was 21, among the 10 patients. The remaining 8 patients had no evidence
+of vertebral body fracture. The average running time is 5.6 minutes.";Yes;"Our cohort includes 18 trauma patients admitted to UC Irvine Medical Center between
+June 2009 and July 2010. The mean patient age was 51±11 yrs (18-86yrs). There were
+13 men and 5 women. All patients were scanned on a Siemens Sensation 64 scanner.
+The scanning parameters were: 2mm slice thickness, 120 kvp, no intravenous contrast
+administration, and convolution kernel B40f (16 patients) or B60f (2 patients). The CT
+data covered the thoracic and lumbar spines, and included 14 vertebrae on average. An
+expert radiologist examined the cases and manually marked the fracture sites. Ten
+patients were positive for vertebral body fractures. The total number of spatially distinct
+fracture sites was 21, among the 10 patients. The remaining 8 patients had no evidence
+of vertebral body fracture. The average running time is 5.6 minutes.";Yes;"Sex and age(mean and range are reported): 
+
+Our cohort includes 18 trauma patients admitted to UC Irvine Medical Center between
+June 2009 and July 2010. The mean patient age was 51±11 yrs (18-86yrs). There were
+13 men and 5 women. All patients were scanned on a Siemens Sensation 64 scanner.
+The scanning parameters were: 2mm slice thickness, 120 kvp, no intravenous contrast
+administration, and convolution kernel B40f (16 patients) or B60f (2 patients). The CT
+data covered the thoracic and lumbar spines, and included 14 vertebrae on average. An
+expert radiologist examined the cases and manually marked the fracture sites. Ten
+patients were positive for vertebral body fractures. The total number of spatially distinct
+fracture sites was 21, among the 10 patients. The remaining 8 patients had no evidence
+of vertebral body fracture. The average running time is 5.6 minutes.";No;Nothing is mentioned;No;"1 Radiology and Imaging Sciences Department, Clinical Center, The National Institutes
+of Health, Bethesda, MD 20892
+2 Department of Radiological Sciences, University of California, Irvine School of Medicine";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+79;17/10/2022 08.55.02;240;2012;Yes;It was accurately labelled;"In this study, we propose a computational diagnosis system
+for detecting the colorectal cancer from histopathological slices.The computational
+analysis was usually performed on patch level where only
+a small part of the slice is covered. However, slice-based classification
+is more realistic for histopathological diagnosis.";"In this study, we propose a computational diagnosis system
+for detecting the colorectal cancer from histopathological slices.The computational
+analysis was usually performed on patch level where only
+a small part of the slice is covered. However, slice-based classification
+is more realistic for histopathological diagnosis.";"Colorectal cancer is the third most common cancer in both men and women
+world-wide and is the third leading cause of cancer-related deaths in the Western
+world [1]. For 2012, 103,000 colon cancer cases and 51,000 colon cancer
+related deaths are predicted for the United States. Like for many other types
+of cancer, histopathological analysis is accepted as the gold standard for malignancy
+diagnosis [2]. The analysis of these data, however, is performed visually
+and the detection and grading of the suspect tissue may show variability depending
+on the experience and awareness of the experts. Therefore, various studies
+have been performed into the development of computer-aided diagnosis systems
+(CAD) to improve the ability of pathologists at discriminating between malignant
+and benign tissue.";logistic classifier;AUC, Accuracy;Yes;"The nuclei in patches could be better segmented
+using more advanced techniques.";No;"A total of 120 H&E stained colon biopsy slices from 96 different patients were collected
+and scanned by high resolution camera at AtriumMedical Center, Heerlen.
+The original slices (sized about 70,000x120,000) consist of equal sized patches of
+1024x1024 pixels. Each slice may include different numbers of patches that display
+actual tissue (between 200 and 6000) depending on the size of the original
+biopsy etc. Slices were labeled at two different levels: either at slice-level or at
+patch-level. 55 of the slices are used for patch-based labeling where each individual
+patch was assigned to one of the four primary (normal, cancer, adenomatous,
+inflamed) and two secondary classes (unknown, inappropriate) by a pathologist
+(see Fig.2). The unknown class is for the patches which the pathologist is not sure
+and inappropriate is for the patches which are not appropriate for analysis due to
+the imaging problems such as camera focus.We consider the primary classes only,
+which include 6134, 2503, 2261 and 2967 patches, respectively.";"A total of 120 H&E stained colon biopsy slices from 96 different patients were collected
+and scanned by high resolution camera at AtriumMedical Center, Heerlen.
+The original slices (sized about 70,000x120,000) consist of equal sized patches of
+1024x1024 pixels. Each slice may include different numbers of patches that display
+actual tissue (between 200 and 6000) depending on the size of the original
+biopsy etc. Slices were labeled at two different levels: either at slice-level or at
+patch-level. 55 of the slices are used for patch-based labeling where each individual
+patch was assigned to one of the four primary (normal, cancer, adenomatous,
+inflamed) and two secondary classes (unknown, inappropriate) by a pathologist
+(see Fig.2). The unknown class is for the patches which the pathologist is not sure
+and inappropriate is for the patches which are not appropriate for analysis due to
+the imaging problems such as camera focus.We consider the primary classes only,
+which include 6134, 2503, 2261 and 2967 patches, respectively.";Private;"A total of 120 H&E stained colon biopsy slices from 96 different patients were collected
+and scanned by high resolution camera at AtriumMedical Center, Heerlen.
+The original slices (sized about 70,000x120,000) consist of equal sized patches of
+1024x1024 pixels. Each slice may include different numbers of patches that display
+actual tissue (between 200 and 6000) depending on the size of the original
+biopsy etc. Slices were labeled at two different levels: either at slice-level or at
+patch-level. 55 of the slices are used for patch-based labeling where each individual
+patch was assigned to one of the four primary (normal, cancer, adenomatous,
+inflamed) and two secondary classes (unknown, inappropriate) by a pathologist
+(see Fig.2). The unknown class is for the patches which the pathologist is not sure
+and inappropriate is for the patches which are not appropriate for analysis due to
+the imaging problems such as camera focus.We consider the primary classes only,
+which include 6134, 2503, 2261 and 2967 patches, respectively.";No;"A total of 120 H&E stained colon biopsy slices from 96 different patients were collected
+and scanned by high resolution camera at AtriumMedical Center, Heerlen.
+The original slices (sized about 70,000x120,000) consist of equal sized patches of
+1024x1024 pixels. Each slice may include different numbers of patches that display
+actual tissue (between 200 and 6000) depending on the size of the original
+biopsy etc. Slices were labeled at two different levels: either at slice-level or at
+patch-level. 55 of the slices are used for patch-based labeling where each individual
+patch was assigned to one of the four primary (normal, cancer, adenomatous,
+inflamed) and two secondary classes (unknown, inappropriate) by a pathologist
+(see Fig.2). The unknown class is for the patches which the pathologist is not sure
+and inappropriate is for the patches which are not appropriate for analysis due to
+the imaging problems such as camera focus.We consider the primary classes only,
+which include 6134, 2503, 2261 and 2967 patches, respectively.";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"1 Pattern Recognition Laboratory, Delft University of Technology, The Netherlands
+2 Atrium Medical Center, Heerlen, The Netherlands
+3 Department of Computer Engineering, Suleyman Demirel University, Turkey
+
+Habil Kalkan is supported by TUBITAK-BIDEB 2219 program.";No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;No;Nothing is mentioned;
+81;17/10/2022 09.10.32;242;2012;Yes;It was accurately labelled;"Distortion correction is applied to endoscopic duodenal imagery to
+improve automated classification of celiac disease affected mucosa patches.";"Distortion correction is applied to endoscopic duodenal imagery to
+improve automated classification of celiac disease affected mucosa patches.";"Computer-aided decision support systems relying on automated analysis of endoscopic
+imagery receive increasing attention [1].
+A specific type of degradation, present in all endoscopic images, is a barrel-type
+distortion. This type of degradation is caused by the wide-angle (fish eye) nature of the
+optics used in endoscopes.
+The aim of correcting this distortion in endoscopy is manifold";SVM, Discriminant analysis, knn;Specificity, Accuracy, Sensitivity;No;Nothing is mentioned;No;"The image test set used in this work (see [7] for example images) stems from three
+pediatric gastroscopes without magnification, types GIF-Q165 and GIF-N180, Olympus,
+with two of the first type and one of the latter type, respectively. The patients
+presented in the pediatric Department because of celiac-like symptoms.";"From the acquired images, an experienced endoscopist extracted 128 × 128 pixels
+patches significant for diagnosis. The images and patients were pre-classified by the diagnostic
+outcome of the biopsy of the significant region at the hospital into the modified
+Marsh classification as shown in Table 1.";Private;"The image test set used in this work (see [7] for example images) stems from three
+pediatric gastroscopes without magnification, types GIF-Q165 and GIF-N180, Olympus,
+with two of the first type and one of the latter type, respectively. The patients
+presented in the pediatric Department because of celiac-like symptoms.";No;"The image test set used in this work (see [7] for example images) stems from three
+pediatric gastroscopes without magnification, types GIF-Q165 and GIF-N180, Olympus,
+with two of the first type and one of the latter type, respectively. The patients
+presented in the pediatric Department because of celiac-like symptoms.";No;Nothing is mentioned;No;Nothing is mentioned;Yes;"1 Department of Computer Sciences
+University of Salzburg, Austria
+2 St.Anna Children’s Hospital, Dept. Pediatrics
+Medical University, Vienna
+
+This work has been partially supported by the Austrian Science Fund project no. 24366.";No;"They only mention that patients were there because they showed symptoms..:
+The patients
+presented in the pediatric Department because of celiac-like symptoms.";No;Nothing is mentioned;No;Nothing is mentioned;Yes;There are several links to implementations used during the preprocessing stage;
+84;17/10/2022 09.17.50;248;2012;Yes;It was accurately labelled;"In addition to segmentation,
+since the feature vectors capture the information on the phase retardation
+caused by cells, they can be used for cell stage classification between
+intermitotic and mitotic/apoptotic stages. Experiments on three image
+sequences demonstrate that the dictionary-based restoration method can
+restore phase contrast images containing cells with different optical natures
+and provide promising results on cell stage classification.";"the
+authors analyze the image formation process of phase contrast images
+and propose an image restoration method based on the dictionary representation
+of diffraction patterns.";"Computer-aided image analysis of phase contrast microscopy [1] has attracted
+increasing attention since it enables long-term monitoring of the proliferation
+and migration processes of live cells.";K-means clustering;Precision, Recall;Yes;The sample results of cell segmentation.;;"The proposed approach was tested on three different sets of phase contrast
+images of 1040× 1392 pixels. The specifications of the datasets are summarized
+in Table 1.";"The proposed approach was tested on three different sets of phase contrast
+images of 1040× 1392 pixels. The specifications of the datasets are summarized
+in Table 1.";Private;"The proposed approach was tested on three different sets of phase contrast
+images of 1040× 1392 pixels. The specifications of the datasets are summarized
+in Table 1.";No;Nothing is mentioned;No;Nothing is mentioned - also not relevant, cells?;No;Nothing is mentioned;Yes;"Department of EE, Shanghai Jiaotong University
+2 Department of CS, Missouri University of Science and Technology
+3 The Robotics Institute, Carnegie Mellon University
+
+This research is supported by funds from Cell Image Analysis Consortium of Carnegie
+Mellon University and University of Missouri Research Board.";No;Nothing is mentioned, not relevant, cells?;No;Nothing is mentioned;No;Nothing is mentioned, not relevant, cells?;Yes;The article includes pseudocode;
