@@ -1,0 +1,37 @@
+year;type;disease;body part;task
+2012;sci;;all;surgery
+2012;dis;glaucoma ;eyes;
+2012;nov;cancer;lungs;
+2012;sci;alzheimers;brain;
+2012;sci;;cell;metabolic response of cells
+2012;nov;cancer;prostate;
+2012;dis;alzheimers;brain;
+2012;nov, sci;cancer;brain;
+2012;sci;;brain;measuring nerve fibers
+2012;nov, dis;cancer;skin;
+2012;sci;;eyes;location of foveola for different diseases
+2012;nov, dis;cancer;skin;
+2012;nov;;cell;cell death event detection
+2012;sci;;cell;cell feature analysis
+2012;sci;;cell;cell detection
+2012;dis;cancer;breast;
+2012;nov, sci;;all;detect regional differences in images, for different diseases
+2012;sci;;brain;population based pattern recognition brain in particular
+2012;sci;;heart;capturing morphological changes over time
+2012;sci;mild cognitive impairment;brain;
+2012;sci;autism;brain;
+2012;sci;multiple sclerosis;brain;
+2012;sci, dis;coronary artery disease;heart;
+2012;sci;;all;surgery robotic
+2012;dis;;brain;neonate brain mapping
+2012;dis, sci;alzheimers;brain;
+2012;sci;;brain;different applications
+2012;sci;parkinson's disease;brain;
+2012;nov;;cell;vesicle fusion/undocking
+2012;dis;tuberculosis;lungs;
+2012;nov;parkinson's disease;brain;
+2012;sci;autism;brain;
+2012;sci;coronary artery disease;heart;
+2012;sci, dis;verebral body fractures;spine;
+2012;dis;cancer;colorectal;
+2012;sci;;cell;phase contrast microscopy
