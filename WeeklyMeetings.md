@@ -28,38 +28,40 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
-
-
 #### What helped you this week?
 
-Replace this text with a one/two sentence description of what helped you this week and how.
+Feeling like I was getting somewhere with the annotations! Gave me motivation to keep going. 
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* Initally finished the references section/analysis
+* Finished annotating all 2012 articles
+* Did other analysis for 2012
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* Getting a bit nervous about only having a month more (ish to finish)
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* More annotations from 2021
+* clean up other analysis notebooks
+* clean up references mining/analysis notebook
+* make graphs prettier/better
+* continue writing
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* For method section: should I include description of specific software/hardware? Have written python, jupyter notebooks
+* should I reference individual jupyter notebooks or simply the github repo in the report?
+* want to maybe cite the springer database where I got the articles from, but is behind a login, so don't think the reference will work/be useful - thoughts?
+* how much detail should I go into when describing all the coding work I've done? Explaining how I've generated the database for instance, describing methods? Or how do I ensure the coding is evaluated?
+* I have a number of articles from 2012 (7 I think) that I was unsure where classification or not, should I do something about those? Second opinion etc?
+* feedback on figure 3 especially and conclusions from references analysis 
+
 
 #### Any other topics
 
-This space is yours to add to as needed.
 
 
 
