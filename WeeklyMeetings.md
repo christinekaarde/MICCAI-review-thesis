@@ -37,6 +37,7 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 * Initally finished the references section/analysis
 * Finished annotating all 2012 articles
 * Did other analysis for 2012
+* Annotated a bunch of 2021 as well
 
 #### What did you struggle with?
 
