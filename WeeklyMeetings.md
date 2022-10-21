@@ -36,8 +36,8 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 
 * Initally finished the references section/analysis
 * Finished annotating all 2012 articles
-* Did other analysis for 2012
-* Annotated a bunch of 2021 as well
+* Did some qualitative analysis for 2012
+* Annotated all of part 5 from 2021
 
 #### What did you struggle with?
 
@@ -46,8 +46,6 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 #### What would you like to work on next week?
 
 * More annotations from 2021
-* clean up other analysis notebooks
-* clean up references mining/analysis notebook
 * make graphs prettier/better
 * continue writing
 
@@ -59,6 +57,7 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 * how much detail should I go into when describing all the coding work I've done? Explaining how I've generated the database for instance, describing methods? Or how do I ensure the coding is evaluated?
 * I have a number of articles from 2012 (7 I think) that I was unsure where classification or not, should I do something about those? Second opinion etc?
 * feedback on figure 3 especially and conclusions from references analysis 
+* Which section of 2021 should I continue with? (part 2 or 3 more general, part 7 or 8 next most hits with my script, but clinical applications, abdomen and ophthalmology that I haven't seen a lot so far in part 5)
 
 
 #### Any other topics
