@@ -58,6 +58,7 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 * I have a number of articles from 2012 (7 I think) that I was unsure where classification or not, should I do something about those? Second opinion etc?
 * feedback on figure 3 especially and conclusions from references analysis 
 * Which section of 2021 should I continue with? (part 2 or 3 more general, part 7 or 8 next most hits with my script, but clinical applications, abdomen and ophthalmology that I haven't seen a lot so far in part 5)
+* how to add page numbers to in text citations in overleaf? 
 
 
 #### Any other topics
