@@ -1,5 +1,8 @@
 
 # Christine's Weekly Meeting Notes
+
+* [24 October 2022](#date-24-october-2022)
+
 * [17 October 2022](#date-17-october-2022)
 
 * [10 October 2022](#date-10-october-2022)
@@ -23,6 +26,41 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 24 October 2022
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+
+#### What did you achieve?
+
+
+#### What did you struggle with?
+
+
+#### What would you like to work on next week?
+
+
+#### Where do you need help from Veronika?
+(copied from last week)
+* Feedback on references analysis (figure 3 in particular)
+* Which section of 2021 should I continue with? (part 2 or 3 more general, part 7 or 8 next most hits with my script, but clinical applications, abdomen and ophthalmology that I haven't seen a lot so far in part 5)
+* I have 7 articles from 2012 that I was unsure where classification or not, should I do something about those? Get a second opinion or?
+
+Writing specific questions:
+* For method section: should I include description of specific software/hardware? Have written python, jupyter notebooks
+* should I reference individual jupyter notebooks or simply the github repo in the report?
+* want to maybe cite the springer database where I got the articles from, but is behind a login, so don't think the reference will work/be useful - thoughts?
+* how much detail should I go into when describing all the coding work I've done? Explaining how I've generated the database for instance, describing methods? Or how do I ensure the coding is evaluated?
+* how to add page numbers to in text citations in overleaf? 
+
+#### Any other topics
+
+
 
 ### Date: 17 October 2022
 
@@ -59,7 +97,6 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 * feedback on figure 3 especially and conclusions from references analysis 
 * Which section of 2021 should I continue with? (part 2 or 3 more general, part 7 or 8 next most hits with my script, but clinical applications, abdomen and ophthalmology that I haven't seen a lot so far in part 5)
 * how to add page numbers to in text citations in overleaf? 
-
 
 #### Any other topics
 
