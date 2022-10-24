@@ -37,7 +37,7 @@
 
 
 #### What did you achieve?
-
+* edited the references section
 
 #### What did you struggle with?
 
@@ -54,9 +54,9 @@
 Writing specific questions:
 * For method section: should I include description of specific software/hardware? Have written python, jupyter notebooks
 * should I reference individual jupyter notebooks or simply the github repo in the report?
-* want to maybe cite the springer database where I got the articles from, but is behind a login, so don't think the reference will work/be useful - thoughts?
 * how much detail should I go into when describing all the coding work I've done? Explaining how I've generated the database for instance, describing methods? Or how do I ensure the coding is evaluated?
-* how to add page numbers to in text citations in overleaf? 
+* want to maybe cite the springer database where I got the articles from, but is behind a login, so don't think the reference will work/be useful - thoughts?
+ 
 
 #### Any other topics
 
@@ -75,7 +75,7 @@ Feeling like I was getting somewhere with the annotations! Gave me motivation to
 * Initally finished the references section/analysis
 * Finished annotating all 2012 articles
 * Did some qualitative analysis for 2012
-* Annotated all of part 5 from 2021
+* Annotated all of part 5 from 2021 
 
 #### What did you struggle with?
 
