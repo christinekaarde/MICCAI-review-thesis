@@ -34,10 +34,11 @@
 
 
 #### What helped you this week?
-
+Having a meeting with Veronika, knowing where to continue! Also having a fixed date for a read through feels good!
 
 #### What did you achieve?
 * edited the references section
+* updated filenames, small changes to repo for ease of reading etc
 
 #### What did you struggle with?
 
@@ -46,16 +47,8 @@
 
 
 #### Where do you need help from Veronika?
-(copied from last week)
-* Feedback on references analysis (figure 3 in particular)
-* Which section of 2021 should I continue with? (part 2 or 3 more general, part 7 or 8 next most hits with my script, but clinical applications, abdomen and ophthalmology that I haven't seen a lot so far in part 5)
-* I have 7 articles from 2012 that I was unsure where classification or not, should I do something about those? Get a second opinion or?
 
-Writing specific questions:
-* For method section: should I include description of specific software/hardware? Have written python, jupyter notebooks
-* should I reference individual jupyter notebooks or simply the github repo in the report?
-* how much detail should I go into when describing all the coding work I've done? Explaining how I've generated the database for instance, describing methods? Or how do I ensure the coding is evaluated?
-* want to maybe cite the springer database where I got the articles from, but is behind a login, so don't think the reference will work/be useful - thoughts?
+* I have several articles on eyes from 2012, not a part of Zhou's body categories, so how to capture this?
  
 
 #### Any other topics
