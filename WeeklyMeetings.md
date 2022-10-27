@@ -39,9 +39,11 @@ Having a meeting with Veronika, knowing where to continue! Also having a fixed d
 #### What did you achieve?
 * edited the references section
 * updated filenames, small changes to repo for ease of reading etc
+* finish annotations, did all of part 2 and 3 for continuity (111 postive)
+* started doing qualitative analysis
 
 #### What did you struggle with?
-
+* lack of motivation, but kept working through it, so it's been a good week
 
 #### What would you like to work on next week?
 
