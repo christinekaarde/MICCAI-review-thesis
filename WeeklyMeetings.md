@@ -40,18 +40,19 @@ Having a meeting with Veronika, knowing where to continue! Also having a fixed d
 * edited the references section
 * updated filenames, small changes to repo for ease of reading etc
 * finish annotations, did all of part 2 and 3 for continuity (111 postive)
+* quantiative analysis for 2021
 * started doing qualitative analysis
 
 #### What did you struggle with?
 * lack of motivation, but kept working through it, so it's been a good week
 
 #### What would you like to work on next week?
-
+* finishing the qualitative analysis (going on trip Thursday-Sunday, so only a 3 day work week)
 
 #### Where do you need help from Veronika?
 
-* I have several articles on eyes from 2012, not a part of Zhou's body categories, so how to capture this?
- 
+* eyes, mouth, lymph nodes, skin (found in 2021 articles) not a part of Zhou's body categories, so how to capture this?
+* feedback on graphs (quantitative analysis done)
 
 #### Any other topics
 
