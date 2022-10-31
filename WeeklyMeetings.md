@@ -1,6 +1,8 @@
 
 # Christine's Weekly Meeting Notes
 
+* [31 October 2022](#date-31-october-2022)
+
 * [24 October 2022](#date-24-october-2022)
 
 * [17 October 2022](#date-17-october-2022)
@@ -26,6 +28,43 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 31 October 20222
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+Replace this text with a one/two sentence description of what helped you this week and how.
+
+#### What did you achieve?
+
+* Finished finding body parts/disease or task types for all articles
+* finished collecting all my data (I think)
+
+#### What did you struggle with?
+
+* Replace this text with a bullet point list of where you struggled this week.
+* It's ok if your list is only one bullet point long!
+
+#### What would you like to work on next week?
+
+* Replace this text with a bullet point list of what you would like to work on next week.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Where do you need help from Veronika?
+
+* Replace this text with a bullet point list of what you need help from Veronika on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+Going to Amsterdam Thursday to Sunday this week - excited!
+
+
 
 
 ### Date: 24 October 2022
