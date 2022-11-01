@@ -1,37 +1,110 @@
-year;type;disease;body part;task
-2012;sci;;all;surgery
-2012;dis;glaucoma ;eyes;
-2012;nov;cancer;lungs;
-2012;sci;alzheimers;brain;
-2012;sci;;cell;metabolic response of cells
-2012;nov;cancer;prostate;
-2012;dis;alzheimers;brain;
-2012;nov, sci;cancer;brain;
-2012;sci;;brain;measuring nerve fibers
-2012;nov, dis;cancer;skin;
-2012;sci;;eyes;location of foveola for different diseases
-2012;nov, dis;cancer;skin;
-2012;nov;;cell;cell death event detection
-2012;sci;;cell;cell feature analysis
-2012;sci;;cell;cell detection
-2012;dis;cancer;breast;
-2012;nov, sci;;all;detect regional differences in images, for different diseases
-2012;sci;;brain;population based pattern recognition brain in particular
-2012;sci;;heart;capturing morphological changes over time
-2012;sci;mild cognitive impairment;brain;
-2012;sci;autism;brain;
-2012;sci;multiple sclerosis;brain;
-2012;sci, dis;coronary artery disease;heart;
-2012;sci;;all;surgery robotic
-2012;dis;;brain;neonate brain mapping
-2012;dis, sci;alzheimers;brain;
-2012;sci;;brain;different applications
-2012;sci;parkinson's disease;brain;
-2012;nov;;cell;vesicle fusion/undocking
-2012;dis;tuberculosis;lungs;
-2012;nov;parkinson's disease;brain;
-2012;sci;autism;brain;
-2012;sci;coronary artery disease;heart;
-2012;sci, dis;verebral body fractures;spine;
-2012;dis;cancer;colorectal;
-2012;sci;;cell;phase contrast microscopy
+year;type;disease;body part;Zhou category;task;id
+2012;sci;;all;;surgery;4
+2012;dis;glaucoma ;eyes;;;7
+2012;nov;cancer;lungs;chest;;9
+2012;sci;alzheimers;brain;neuro;;10
+2012;sci;;cell;microscopy;metabolic response of cells;13
+2012;nov;cancer;prostate;abdomen;;14
+2012;dis;alzheimers;brain;neuro;;16
+2012;nov, sci;cancer;brain;neuro;;19
+2012;sci;;brain;neuro;measuring nerve fibers;25
+2012;nov, dis;cancer;skin;microscopy;;36
+2012;sci;;eyes;;location of foveola for different diseases;37
+2012;nov, dis;cancer;skin;microscopy;;38
+2012;nov;;cell;microscopy;cell death event detection;40
+2012;sci;;cell;microscopy;cell feature analysis;41
+2012;sci;;cell;microscopy;cell detection;42
+2012;dis;cancer;breast;;;53
+2012;nov, sci;;all;;detect regional differences in images, for different diseases;62
+2012;sci;;brain;neuro;population based pattern recognition, brain in particular;88
+2012;sci;;heart;cardiovascular;capturing morphological changes over time;97
+2012;sci;mild cognitive impairment;brain;neuro;;117
+2012;sci;autism;brain;neuro;;122
+2012;sci;multiple sclerosis;brain;neuro;;137
+2012;sci, dis;coronary artery disease;heart;cardiovascular;;152
+2012;sci;;all;;surgery, robotic;163
+2012;dis;;brain;neuro;neonate brain mapping;194
+2012;dis, sci;alzheimers;brain;neuro;;202
+2012;sci;;brain;neuro;different applications;203
+2012;sci;parkinson's disease;brain;neuro;;206
+2012;nov;;cell;microscopy;vesicle fusion/undocking;213
+2012;dis;tuberculosis;lungs;chest;;215
+2012;nov;parkinson's disease;brain;neuro;;227
+2012;sci;autism;brain;neuro;;230
+2012;sci;coronary artery disease;heart;cardiovascular;;234
+2012;sci, dis;verebral body fractures;spine;abdomen;;235
+2012;dis;cancer;colorectal;abdomen;;240
+2012;sci;;cell;microscopy;phase contrast microscopy;248
+2021;sci;;eyes;?;gender prediction;173
+2021;sci;schizophrenia, bipolar, Alzheimers;brain;neuro;;74
+2021;dis, sci;intercranial hemorrhage;brain;neuro;;122
+2021;nov, dis;cancer;esophagus;abdomen;;321
+2021;sci, dis;cancer;brain;neuro;;316
+2021;dis, sci;cancer;esophagus;abdomen;;315
+2021;nov, sci, dis;cancer;lungs;abdomen;;314
+2021;sci;covid;lungs;abdomen;;309
+2021;sci, dis;;embryo/uterus;abdomen;embryo development stage detection;304
+2021;sci, nov;;brain;neuro;brain midline delineation;301
+2021;sci, dis;cancer;liver;abdomen;;294
+2021;dis, sci;epilepsy;all;?;;284
+2021;sci;;spine;abdomen;evaluation of spinal bone lesions;280
+2021;sci;liver steatosis;liver;abdomen;;278
+2021;dis, hc;cancer;pancreas;abdomen;;277
+2021;dis;cancer;breast;abdomen;;258
+2021;dis;cancer;colorectal;abdomen;;324
+2021;dis, sci;covid;lungs;abdomen;;331
+2021;sci, nov;cancer, crohn's disease, cancer;prostate, stomach/bowel, rectum;abdomen, abdomen, abdomen;;170
+2021;sci, hc;lumbar degeneration disease;spine;abdomen;;82
+2021;sci;;face;neuro?;gender prediction;106
+2021;dis;ulcerative colitis;colon;abdomen;;112
+2021;sci, hc;;chest;abdomen;screening thoracic diseases;118
+2021;hc;pneumothorax, cancer;chest, brain;abdomen, neuro;;124
+2021;nov, hc;;skin, all,chest;?;alleviating data imbalance;291
+2021;dis, sci;nonalcoholic fatty liver disease;liver;abdomen;;267
+2021;sci, hc;cancer, cancer;lungs, all;abdomen, ?;predicting survival time;322
+2021;nov, sci;autism, alzheimers;brain;neuro;;320
+2021;sci;alzheimers;brain;neuro;;318
+2021;nov, sci;cancer;breast;abdomen;;313
+2021;sci, dis;cancer;colon;abdomen;;312
+2021;dis;parkinson's disease;brain;neuro;;311
+2021;sci;;chest;abdomen;content based image retrieval for radiology;310
+2021;hc, sci;;gastro/intestines;abdomen;anatomy site recognition;306
+2021;nov, hc, dis;rare diseases;skin;?;classifying rare diseases;302
+2021;nov, sci;brain disease;brain;neuro;;300
+2021;sci, dis;neurodegenerative disorders;brain;neuro;;298
+2021;sci;;skin;?;continual learning for intelligent diagnosis systems;290
+2021;dis;adolescent idopathic scoliosis;spine;abdomen;;288
+2021;nov;;mouth;?;tooth localization;287
+2021;sci, hc;lesion;breast ;abdomen;;286
+2021;nov, sci;;eyes, gastro/intestines;?, abdomen;managing imbalanced datasets;283
+2021;dis, sci;Subjective cognitive decline;brain;neuro;;276
+2021;hc;lung disease;lungs;abdomen;;271
+2021;dis, sci;mild cognitive impairment;brain;neuro;;270
+2021;dis;major depression disorder;brain;neuro;;269
+2021;sci;;skin, eyes;?,?;fixing overfitting models;268
+2021;nov, sci;;all;?;universal lesion detection;266
+2021;sci;pneumonia;lungs;abdomen;;262
+2021;sci, dis;cancer;lungs;abdomen;;255
+2021;sci, hc;cancer;brain;neuro;;325
+2021;nov, hc;;chest;abdomen;labeling chest X-rays;329
+2021;sci, nov;;breast, chest;abdomen, abdomen;multi-view medical image analysis;138
+2021;sci;cancer;lymph nodes;?;tumor classification;139
+2021;sci, hc;;brain, whole body;neuro, ?;harmonization of medical data;145
+2021;sci, hc;intercranial hemorrhage, skin lesion diagnosis;brain, skin;neuro, ?;data labelling;159
+2021;dis, hc;cancer;skin;?;;160
+2021;sci, hc;;skin;?;fixing degrading models (retrogress);161
+2021;sci;covid;lungs;abdomen;;164
+2021;hc;cancer, diabetic retinopathy;skin, eyes;?,?;imbalanced datasets;172
+2021;sci;gastrointestinal abnormalities;gastro/intestines;abdomen;;174
+2021;hc;cancer;skin;?;;180
+2021;hc, sci;cancer, cancer;breast, colon;abdomen, abdomen;;69
+2021;sci, hc;tumor, cancer;lungs, brain;abdomen, neuro;;72
+2021;sci;;colon;abdomen;histopathological image visual representation;73
+2021;sci;cancer;skin;?;;78
+2021;dis, sci;cancer;thyroid, kidney;abdomen, abdomen;;92
+2021;sci;;chest;abdomen;detecting pathologies and assesing pulmonary edema severity;94
+2021;nov, sci;alzheimers;brain;neuro;;102
+2021;sci, hc;;chest, heart (fetal);abdomen, abdomen;outlier detection;308
+2021;nov, sci;;skin, skin, chest;?,?, abdomen;preventing overfitting of models;297
+2021;nov, hc;;colon, eyes;abdomen, ?;unsupervised anomoly detection;265
+2021;dis, sci;cancer;all;?;;257
