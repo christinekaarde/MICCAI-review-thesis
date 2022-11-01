@@ -9,7 +9,7 @@
 1;;uni;Belgium;IBBT-KU Leuven Future Health Department, Belgium;13;
 1;;corp;Belgium;icoMetrix NV, Leuven, Belgium;13;
 1;;gov;Belgium;IWT - TBM project 070717 and Research Foundation - Flanders (FWO);13;
-1;;other;Belgium;Medical Imaging Research Center, UZ Leuven, Belgium;13;
+1;;hosp;Belgium;Medical Imaging Research Center, UZ Leuven, Belgium;13;
 2;1;uni;Canada;Simon Fraser University, Canada;36, 38;304
 1;1;gov;Canada;"Canadian NSERC, CIHR-Skin Research
 Training Center and a grant from the Canadian Health Research Project (CHRP)";36;324
@@ -100,7 +100,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;2;gov;Germany;German Ministry of Science and Education, Bavarian State Ministry of Science and the Arts;;173, 318
 ;1;corp;Germany;Helmholtz AI;;160
 1;;uni;Germany;Helmholtz Zentrum Munchen;227;
-1;;other;Germany;Institute of Neuroscience and Medicine (INM-1, INM-4), Research Center Julich,Germany;25;
+1;;hosp;Germany;Institute of Neuroscience and Medicine (INM-1, INM-4), Research Center Julich,Germany;25;
 ;1;uni;Germany;Johannes-Gutenberg University of Mainz;;74
 1;1;uni;Germany;Ludwig-Maximilians-University of Munich;227;318
 1;;uni;Germany;RWTH Aachen University;25;
@@ -126,7 +126,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;hosp;Japan;Kyoto Second Red Cross Hospital;;112
 ;1;uni;Japan;Kyushu University;;112
 ;1;uni;Japan;National Institute of Informatics;;112
-1;;other;Netherlands;Atrium Medical Center, Heerlen;240;
+1;;hosp;Netherlands;Atrium Medical Center, Heerlen;240;
 1;;uni;Netherlands;Delft University of Technology;240;
 ;1;gov;Netherlands;EFRO/OP-Oost;;138
 ;1;uni;Netherlands;Radboud University;;138
@@ -172,7 +172,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 1;1;uni;UK;Imperial College London, London, UK;62;308
 1;;corp;UK;Microsoft Research, Cambridge, CB3 0FB, UK;97;
 ;1;hosp;UK;National Hospital for Neurology and Neurosurgery;;284
-1;;other;UK;RCUK Centre for Doctoral Training in Healthcare Innovation;42;
+1;;hosp;UK;RCUK Centre for Doctoral Training in Healthcare Innovation;42;
 ;1;uni;UK;UCL Queen Square Institute of Neurology;;284
 ;2;gov;UK;UK gov;;284, 308
 ;1;uni;UK;University College London;;284

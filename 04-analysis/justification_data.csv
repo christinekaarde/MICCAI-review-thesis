@@ -1,4 +1,4 @@
-year;type;disease;body part;Zhou category;task;id
+﻿year;type;disease;body part;Zhou category;task;id
 2012;sci;;all;;surgery;4
 2012;dis;glaucoma ;eyes;;;7
 2012;nov;cancer;lungs;chest;;9
@@ -98,7 +98,7 @@ year;type;disease;body part;Zhou category;task;id
 2021;sci;gastrointestinal abnormalities;gastro/intestines;abdomen;;174
 2021;hc;cancer;skin;?;;180
 2021;hc, sci;cancer, cancer;breast, colon;abdomen, abdomen;;69
-2021;sci, hc;tumor, cancer;lungs, brain;abdomen, neuro;;72
+2021;sci, hc;cancer, cancer;lungs, brain;abdomen, neuro;;72
 2021;sci;;colon;abdomen;histopathological image visual representation;73
 2021;sci;cancer;skin;?;;78
 2021;dis, sci;cancer;thyroid, kidney;abdomen, abdomen;;92
