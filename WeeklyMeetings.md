@@ -1,6 +1,8 @@
 
 # Christine's Weekly Meeting Notes
 
+* [07 November 2022](#date-07-november-2022)
+
 * [31 October 2022](#date-31-october-2022)
 
 * [24 October 2022](#date-24-october-2022)
@@ -29,10 +31,10 @@
 
 * [Template](#template-date-dd-month-yyyy)
 
-### Date: 31 October 20222
+
+### Date: 07 November 2022
 
 #### Who did you help this week?
-
 
 #### What helped you this week?
 
@@ -40,12 +42,13 @@ Replace this text with a one/two sentence description of what helped you this we
 
 #### What did you achieve?
 
-* Finished finding body parts/disease or task types for all articles
-* finished collecting all my data (I think)
+* made a plan for what I need to get done before Veronika reads on Nov 21st
+* finished affiliations analysis (coding part)
+* cleaned up graphs
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
+* Stuff taking longer than expected (as usual, but always catches me unaware)
 * It's ok if your list is only one bullet point long!
 
 #### What would you like to work on next week?
@@ -59,6 +62,38 @@ Replace this text with a one/two sentence description of what helped you this we
 * Replace this text with a bullet point list of what you need help from Veronika on.
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
+
+#### Any other topics
+
+Took Monday this week off, after coming home from Amsterdam late Sunday, so am planning to work on Saturday this week to make up for it
+
+
+
+
+### Date: 31 October 20222
+
+#### Who did you help this week?
+
+
+#### What helped you this week?
+
+
+#### What did you achieve?
+
+* Finished finding body parts/disease or task types for all articles
+* finished collecting all my data (I think)
+
+#### What did you struggle with?
+
+* Finding out where to go from here
+* how to visualise certain things, combining ethics graphs, grr!
+
+#### What would you like to work on next week?
+
+* create a plan of attack for final weeks
+* carry out that plan!
+
+#### Where do you need help from Veronika?
 
 #### Any other topics
 
