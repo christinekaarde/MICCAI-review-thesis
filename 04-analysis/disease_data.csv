@@ -1,0 +1,132 @@
+﻿year;disease;body part;Zhou category;task;id
+2012;;all;all;surgery;4
+2012;glaucoma ;eyes;eyes;;7
+2012;cancer;lungs;chest;;9
+2012;alzheimers;brain;neuro;;10
+2012;;cell;microscopy;metabolic response of cells;13
+2012;cancer;prostate;abdomen;;14
+2012;alzheimers;brain;neuro;;16
+2012;cancer;brain;neuro;;19
+2012;;brain;neuro;measuring nerve fibers;25
+2012;cancer;skin;microscopy;;36
+2012;;eyes;eyes;location of foveola for different diseases;37
+2012;cancer;skin;microscopy;;38
+2012;;cell;microscopy;cell death event detection;40
+2012;;cell;microscopy;cell feature analysis;41
+2012;;cell;microscopy;cell detection;42
+2012;cancer;breast;chest;;53
+2012;;all;all;detect regional differences in images for different diseases;62
+2012;;brain;neuro;population based pattern recognition brain in particular;88
+2012;;heart;cardiovascular;capturing morphological changes over time;97
+2012;mild cognitive impairment;brain;neuro;;117
+2012;autism;brain;neuro;;122
+2012;multiple sclerosis;brain;neuro;;137
+2012;coronary artery disease;heart;cardiovascular;;152
+2012;;all;all;surgery robotic;163
+2012;;brain;neuro;neonate brain mapping;194
+2012;alzheimers;brain;neuro;;202
+2012;;brain;neuro;different applications;203
+2012;parkinson's disease;brain;neuro;;206
+2012;;cell;microscopy;vesicle fusion/undocking;213
+2012;tuberculosis;lungs;chest;;215
+2012;parkinson's disease;brain;neuro;;227
+2012;autism;brain;neuro;;230
+2012;coronary artery disease;heart;cardiovascular;;234
+2012;verebral body fractures;spine;abdomen;;235
+2012;cancer;colorectal;abdomen;;240
+2012;;cell;microscopy;phase contrast microscopy;248
+2021;;eyes;eyes;gender prediction;173
+2021;alzheimers;brain;neuro;;74
+2021;bipolar;brain;neuro;;74
+2021;schizophrenia;brain;neuro;;74
+2021;intercranial hemorrhage;brain;neuro;;122
+2021;cancer;esophagus;abdomen;;321
+2021;cancer;brain;neuro;;316
+2021;cancer;esophagus;abdomen;;315
+2021;cancer;lungs;chest;;314
+2021;covid;lungs;chest;;309
+2021;;embryo/uterus;abdomen;embryo development stage detection;304
+2021;;brain;neuro;brain midline delineation;301
+2021;cancer;liver;abdomen;;294
+2021;epilepsy;all;all;;284
+2021;;spine;abdomen;evaluation of spinal bone lesions;280
+2021;liver steatosis;liver;abdomen;;278
+2021;cancer;pancreas;abdomen;;277
+2021;cancer;breast;chest;;258
+2021;cancer;colorectal;abdomen;;324
+2021;covid;lungs;chest;;331
+2021;cancer;prostate;abdomen;;170
+2021;crohn's disease; stomach/bowel;abdomen;;170
+2021;cancer;rectum;abdomen;;170
+2021;lumbar degeneration disease;spine;abdomen;;82
+2021;;face;face;gender prediction;106
+2021;ulcerative colitis;colon;abdomen;;112
+2021;;chest;chest;screening thoracic diseases;118
+2021;pneumothorax;chest;chest;;124
+2021;cancer;brain;neuro;;124
+2021;;skin;microscopy;alleviating data imbalance;291
+2021;;all;all;alleviating data imbalance;291
+2021;;chest;chest;alleviating data imbalance;291
+2021;nonalcoholic fatty liver disease;liver;abdomen;;267
+2021;;lungs;chest;predicting survival time;322
+2021;;all;all;predicting survival time;322
+2021;autism;brain;neuro;;320
+2021;alzheimers;brain;neuro;;320
+2021;alzheimers;brain;neuro;;318
+2021;cancer;breast;chest;;313
+2021;cancer;colon;abdomen;;312
+2021;parkinson's disease;brain;neuro;;311
+2021;;chest;chest;content based image retrieval for radiology;310
+2021;;gastro/intestines;abdomen;anatomy site recognition;306
+2021;;skin;microscopy;classifying rare diseases;302
+2021;brain disease;brain;neuro;;300
+2021;neurodegenerative disorders;brain;neuro;;298
+2021;;skin;microscopy;continual learning for intelligent diagnosis systems;290
+2021;adolescent idopathic scoliosis;spine;abdomen;;288
+2021;;mouth;mouth;tooth localization;287
+2021;;breast ;chest;mammography lesion matching;286
+2021;;eyes;eyes;managing imbalanced datasets;283
+2021;;gastro/intestines;abdomen;managing imbalanced datasets;283
+2021;Subjective cognitive decline;brain;neuro;;276
+2021;lung disease;lungs;chest;;271
+2021;mild cognitive impairment;brain;neuro;;270
+2021;major depression disorder;brain;neuro;;269
+2021;;skin;microscopy;fixing overfitting models;268
+2021;;eyes;eyes;fixing overfitting models;268
+2021;;all;all;universal lesion detection;266
+2021;pneumonia;lungs;chest;;262
+2021;cancer;lungs;chest;;255
+2021;cancer;brain;neuro;;325
+2021;;chest;chest;labeling chest X-rays;329
+2021;;breast;chest;multi-view medical image analysis;138
+2021;;chest;chest;multi-view medical image analysis;138
+2021;;lymph nodes;abdomen;tumor classification;139
+2021;;brain;neuro;harmonization of medical data;145
+2021;;all;all;harmonization of medical data;145
+2021;;brain;neuro;data labelling;159
+2021;;skin;microscopy;data labelling;159
+2021;cancer;skin;microscopy;;160
+2021;;skin;microscopy;fixing degrading models (retrogress);161
+2021;covid;lungs;chest;;164
+2021;;skin;microscopy;imbalanced datasets;172
+2021;;eyes;eyes;imbalanced datasets;172
+2021;gastrointestinal abnormalities;gastro/intestines;abdomen;;174
+2021;cancer;skin;microscopy;;180
+2021;cancer;breast;chest;;69
+2021;cancer;colon;abdomen;;69
+2021;cancer;lungs;chest;;72
+2021;cancer;brain;neuro;;72
+2021;;colon;abdomen;histopathological image visual representation;73
+2021;cancer;skin;microscopy;;78
+2021;cancer;kidney;abdomen;;92
+2021;cancer;thyroid;thyroid;;92
+2021;;chest;chest;detecting pathologies and assesing pulmonary edema severity;94
+2021;alzheimers;brain;neuro;;102
+2021;;chest;chest;outlier detection;308
+2021;;heart (fetal);cardiovascular;outlier detection;308
+2021;;skin;microscopy;preventing overfitting of models;297
+2021;;skin;microscopy;preventing overfitting of models;297
+2021;;chest;chest;preventing overfitting of models;297
+2021;;colon;abdomen;unsupervised anomoly detection;265
+2021;;eyes;eyes;unsupervised anomoly detection;265
+2021;cancer;all;all;;257
