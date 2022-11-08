@@ -2,7 +2,7 @@
 ;1;gov ;Australia;Australian Research Council;;283
 ;2;uni;Australia;La Trobe University;;315, 321
 ;1;uni;Australia;University of Adelaide;;283
-1;;uni;Australia;University of Sydney;9;
+1;;uni;Australia;The University of Sydney;9;
 1;;gov;Austria;Austrian Science Fund;242;
 1;;hosp;Austria;St.Anna Childrens Hospital, Dept. Pediatrics Medical University, Vienna;242;
 1;;uni;Austria;University of Salzburg;242;
@@ -18,13 +18,12 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 1;;corp;Canada;NeuroRx Research, Montreal, Canada;137;
 ;1;hosp;Canada;Pacific Centre for Reproductive Medicine;;304
 ;1;hosp;Canada;Sunnybrook Research Institute;;324
-1;;uni;Canada;University of British Columbia, Canada;36;
+1;;uni;Canada;University of British Columbia;36;
 ;1;uni;Canada;University of Toronto;;324
 1;;uni;China;Beijing Inst. of Tech., Beijing, China;41;
 1;;hosp;China;Beijing YouAn Hospital, Beijing, China;41;
 ;2;uni;China;East China Normal University;;262, 269
 ;2;gov;China;111 project;;69, 258
-;1;corp;China;Alibaba Group;;266
 ;1;uni;China;Beihang University;;159
 ;1;uni;China;Beijing Normal University;;269
 ;3;uni;China;CAS;;265, 266, 270, 288
@@ -32,12 +31,12 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;5;uni;China;Chinese Academy of Sciences;;118, 159, 269, 270, 288
 ;2;uni;China;City University of Hong Kong;;161, 268
 1;;uni;China;CQKJ ;10;
-;2;corp;China;DAMO Academy, Alibaba Group;;265, 266
+;2;corp;China;Alibaba Group;;265, 266
 ;2;corp;China;Deepwise AI Lab;;255, 257
 ;1;gov;China;Foundation of China;;159
 ;2;uni;China;Heilongjiang University;;315, 321
-;2;gov;China;Hong Kong Innovation and Technology Fund;;118, 159
-;1;uni;China;Hong Kong University of Science and Technology;;286
+;2;gov;Hong Kong SAR;Hong Kong Innovation and Technology Fund;;118, 159
+;2;uni;Hong Kong SAR;Hong Kong University of Science and Technology;;286, 118
 ;3;corp;China;Huawei Technologies Co., Ltd.;;164, 294, 298
 ;1;uni;China;Huazhong University of Science and Technology;;286
 ;1;corp;China;Imsight AI Research Lab;;118
@@ -59,7 +58,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;hosp;China;Ruijin Hospital;;278
 ;2;uni;China;Shandong First Medical University and Shandong Academy of Medical Sciences;;315, 321
 ;1;gov;China;Shandong Higher Education Young Science and Technology Support Program;;73
-2;3;uni;China;Shanghai Jiao Tong University, China;202, 248;69, 258, 276
+2;3;uni;China;Shanghai Jiao Tong University;202, 248;69, 258, 276
 ;3;gov;China;Shanghai Municipal Science and Technology Major Project;;69, 73, 258
 ;1;gov;China;Shanghai Science and Technology Committee;;69
 ;1;corp;China;Shanghai United Imaging Intelligence Co., Ltd.;;204
@@ -73,8 +72,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;corp;China;Tencent AI Lab;;301
 ;1;corp;China;Tencent Jarvis Lab;;302
 ;1;hosp;China;The Affiliated Hospital of Qingdao University;;73
-;3;uni;China;The Chinese University of Hong Kong;;118, 159, 268
-;1;uni;China;The Hong Kong University of Science and Technology;;118
+;3;uni;Hong Kong SAR;The Chinese University of Hong Kong (CUHK);;118, 159, 268
 ;2;uni;China;Tianjin University;;315321
 ;1;uni;China;Tsinghua University;;73
 ;3;uni;China;University of Science and Technology of China;;265, 266, 288
@@ -115,8 +113,8 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;uni;Germany;University of Tubingen;;173
 1;;uni;Germany;University of Wuppertal;25;
 ;1;uni;Greece;University of Thessaly;;174
-;1;uni;Hong Kong;Hong Kong Baptist University;;267
-;3;uni;Hong Kong;University of Hong Kong;;82, 255, 257
+;1;uni;Hong Kong SAR;Hong Kong Baptist University;;267
+;3;uni;Hong Kong SAR;The University of Hong Kong;;82, 255, 257
 ;1;uni;India;IIIT Hyderabad;;311
 ;1;uni;Iran;Sharif University of Technology;;320
 1;;uni;Iran;Shiraz University of Technology;194;
@@ -135,8 +133,8 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;uni;Portugal;Instituto Superior Tecnico;;180
 1;;corp;Russia;Yandex, Moscow, Russia;42;
 1;;corp;Singapore;Institute for Infocomm Research, Agency for Science, Technology and Research, Singapore;7;
-1;;uni;Singapore;Nanyang Technological University, Singapore;7;
-1;;corp;Singapore;National University of Singapore, Singapore;7;
+1;;uni;Singapore;Nanyang Technological University, Singapore (NTU);7;
+1;;uni;Singapore;National University of Singapore (NUS);7;
 1;1;corp;Singapore;Singapore ASTAR SERC;7;310
 1;;corp;Singapore;Singapore Eye Research Institute, Singapore;7;
 ;1;gov;South Korea;Korea government;;300
@@ -152,7 +150,7 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 ;1;uni;Sweden;Linkoping University;;312
 ;1;corp;Sweden;Sectra AB;;312
 ;1;gov;Sweden;Sweden gov;;312
-;1;uni;Switzerland;ETH Zurich;;72
+;1;uni;Switzerland;ETH Zurich - Swiss Federal Institute of Technology;;72
 ;1;corp;Switzerland;Helmut Horten Foundation;;72
 ;1;corp;Switzerland;Novartis AG;;173
 ;1;uni;Switzerland;University of Geneva;;74
@@ -166,89 +164,88 @@ Training Center and a grant from the Canadian Health Research Project (CHRP)";36
 1;;uni;Turkey;Suleyman Demirel University;240;
 1;;gov;Turkey;TUBITAK-BIDEB 2219 program;240;
 1;;hosp;Uganda;Mulago Hospital of Kampala, Uganda;215;
-1;2;uni;UK;King’s College London, London, UK;62;284, 308
-;2;corp;UK;Astrazeneca;;170, 322
-;1;uni;UK;Bournemouth University;;283
-1;1;uni;UK;Imperial College London, London, UK;62;308
-1;;corp;UK;Microsoft Research, Cambridge, CB3 0FB, UK;97;
-;1;hosp;UK;National Hospital for Neurology and Neurosurgery;;284
-1;;hosp;UK;RCUK Centre for Doctoral Training in Healthcare Innovation;42;
-;1;uni;UK;UCL Queen Square Institute of Neurology;;284
-;2;gov;UK;UK gov;;284, 308
-;1;uni;UK;University College London;;284
-1;;uni;UK;University of Bristol;213;
-2;1;uni;UK;University of Oxford;42, 213;164
-;2;corp;UK;Wellcome Trust;;284, 308
-1;;uni;USA;Arizona State University, Tempe, USA;41;
-2;;hosp;USA;Childrens Hospital of Philadelphia;122, 230;
-1;2;uni;USA;University of Pittsburgh, Pittsburgh;37;74, 313
-1;;corp;USA;ADNI;16;
-;2;corp;USA;Amazon ;;145, 313
-;1;corp;USA;Boehringer-Ingelheim;;170
-;1;corp;USA;Bristol Myers-Squibb;;170
-2;;uni;USA;Carnegie Mellon University;248, 40;
-;1;uni;USA;Case Western Reserve University;;170
-1;;hosp;USA;Children Hospital of L.A., Department of Pathology Lab Medicine, Los Angeles, CA, USA;19;
-1;;uni;USA;Columbia University;163;
-;1;corp;USA;Dermatology Foundation;;78
-1;;uni;USA;Duke University Medical Center;117;
-1;;uni;USA;Georgia Institute of Technology, Atlanta;37;
-;1;corp;USA;Google Research Award 21;;180
-;1;uni;USA;Harvard Medical School;;94
-1;2;corp;USA;IBM ;234;94, 329
-1;;corp;USA;Intel Science and Technology Center on Embedded Computing, Pittsburgh;37;
-1;;corp;USA;Intuitive Surgical, Inc, Sunnyvale CA USA;163;
-2;3;uni;USA;Johns Hopkins University;4, 9;320, 160, 277
-1;;hosp;USA;Kaiser San Francisco Medical Center, San Francisco, CA, USA;234;
-;1;hosp;USA;Louis Stokes Cleveland VA Medical Center;;170
-1;;uni;USA;Michigan State Unversity;14;
-1;;uni;USA;Missouri University of Science and Technology;248;
-;2;uni;USA;MIT;;287, 94
-;1;gov;USA;National Institute of Mental Health;;145
-;1;gov;USA;National Institute on Aging;;145
-;1;hosp;USA;Newark Beth Israel Medical Center;;331
-7;7;gov;USA;NIH;10,16,37, 122, 202,230, 235;94, 102, 170, 269, 276, 313, 331
-;1;uni;USA;Northeastern University, Boston;;124
-;1;uni;USA;Northwestern University;;122
-2;3;gov;USA;NSF;4,16;102, 313, 314
-;1;corp;USA;NVIDIA Corporation;;180
-;1;uni;USA;Oklahoma State University;;309
-;2;corp;USA;PAII Inc;;278, 277
-;1;uni;USA;Penn Engineering;;145
-1;;uni;USA;Penn State College of Medicine;19;
-1;;hosp;USA;Piedmont Heart Institute;152;
-;1;uni;USA;Rensselaer Polytechnic Institute;;329
-1;;corp;USA;Research to Prevent Blindness, Inc. (New York, NY);37;
-2;;uni;USA;Rutgers University;97, 19;
-1;;hosp;USA;San Francisco General Hospital;215;
-1;;corp;USA;Siemens Corporation, Corporate Research and Technology, Princeton, NJ, USA;53;
-;1;corp;USA;Skin Cancer Foundation;;78
-1;;hosp;USA;St. Jude Children’s Research Hospital;19;
-1;1;uni;USA;Stanford University;40;124
-;2;uni;USA;Stony Brook University;;271, 331
-1;;hosp;USA;Stony Brook University Medical Center;152;
-;1;corp;USA;Tempus Labs, Inc;;316
-1;;corp;USA;The Eye and Ear Foundation (Pittsburgh, PA);37;
-2;;uni;USA;the University of California;16, 235;
-1;;uni;USA;The University of Georgia;152;
-;1;gov;USA;U.S. Department of Education;;102
-1;1;uni;USA;UC Berkeley ;215;102
-;1;uni;USA;UC San Diego;;74
-1;;uni;USA;UC San Francisco Medical School ;215;
-1;;uni;USA;UCLA School of Medicine, Los Angeles, CA, USA;41;
-3;3;uni;USA;University of North Carolina at Chapel Hill;10, 202, 117;102, 269, 276
-4;1;uni;USA;University of Pennsylvania;97, 122, 230, 88;145
-1;1;uni;USA;University of Pittsburgh School of Medicine, Pittsburgh;37;313
-;2;uni;USA;University of Texas;;321, 102
-1;;uni;USA;University of Utah;16;
-;1;gov;USA;US Air Force;;94
-;1;gov;USA;US Department of Agriculture (USDA);;309
-;2;uni;USA;Vanderbilt University;;78, 314
-;2;hosp;USA;Vanderbilt University Medical Center;;78, 314
-;1;uni;USA;Virginia Tech;;329
-;1;corp;USA;VoxelCloud Inc;;82
-;1;corp;USA;Wistron;;94
-;1;uni;USA;Yale University;;280
+1;2;uni;United Kingdom;King's College London;62;284, 308
+;2;corp;United Kingdom;Astrazeneca;;170, 322
+;1;uni;United Kingdom;Bournemouth University;;283
+1;1;uni;United Kingdom;Imperial College London;62;308
+1;;corp;United Kingdom;Microsoft Research, Cambridge, CB3 0FB, UK;97;
+;1;hosp;United Kingdom;National Hospital for Neurology and Neurosurgery;;284
+1;;hosp;United Kingdom;RCUK Centre for Doctoral Training in Healthcare Innovation;42;
+;1;uni;United Kingdom;UCL;;284
+;2;gov;United Kingdom;UK gov;;284, 308
+;1;uni;United Kingdom;University College London;;284
+1;;uni;United Kingdom;University of Bristol;213;
+2;1;uni;United Kingdom;University of Oxford;42, 213;164
+;2;corp;United Kingdom;Wellcome Trust;;284, 308
+1;;uni;United States;Arizona State University, Tempe, USA;41;
+2;;hosp;United States;Childrens Hospital of Philadelphia;122, 230;
+1;2;uni;United States;University of Pittsburgh;37;74, 313
+1;;corp;United States;ADNI;16;
+;2;corp;United States;Amazon ;;145, 313
+;1;corp;United States;Boehringer-Ingelheim;;170
+;1;corp;United States;Bristol Myers-Squibb;;170
+2;;uni;United States;Carnegie Mellon University;248, 40;
+;1;uni;United States;Case Western Reserve University;;170
+1;;hosp;United States;Children Hospital of L.A., Department of Pathology Lab Medicine, Los Angeles, CA, USA;19;
+1;;uni;United States;Columbia University;163;
+;1;corp;United States;Dermatology Foundation;;78
+1;;uni;United States;Duke University;117;
+1;;uni;United States;Georgia Institute of Technology;37;
+;1;corp;United States;Google Research Award 21;;180
+;1;uni;United States;Harvard University;;94
+1;2;corp;United States;IBM ;234;94, 329
+1;;corp;United States;Intel Science and Technology Center on Embedded Computing, Pittsburgh;37;
+1;;corp;United States;Intuitive Surgical, Inc, Sunnyvale CA USA;163;
+2;3;uni;United States;Johns Hopkins University;4, 9;320, 160, 277
+1;;hosp;United States;Kaiser San Francisco Medical Center, San Francisco, CA, USA;234;
+;1;hosp;United States;Louis Stokes Cleveland VA Medical Center;;170
+1;;uni;United States;Michigan State Unversity;14;
+1;;uni;United States;Missouri University of Science and Technology;248;
+;2;uni;United States;Massachusetts Institute of Technology (MIT);;287, 94
+;1;gov;United States;National Institute of Mental Health;;145
+;1;gov;United States;National Institute on Aging;;145
+;1;hosp;United States;Newark Beth Israel Medical Center;;331
+7;7;gov;United States;NIH;10,16,37, 122, 202,230, 235;94, 102, 170, 269, 276, 313, 331
+;1;uni;United States;Northeastern University;;124
+;1;uni;United States;Northwestern University;;122
+2;3;gov;United States;NSF;4,16;102, 313, 314
+;1;corp;United States;NVIDIA Corporation;;180
+;1;uni;United States;Oklahoma State University;;309
+;2;corp;United States;PAII Inc;;278, 277
+;1;uni;United States;Penn Engineering;;145
+1;;uni;United States;Penn State College of Medicine;19;
+1;;hosp;United States;Piedmont Heart Institute;152;
+;1;uni;United States;Rensselaer Polytechnic Institute;;329
+1;;corp;United States;Research to Prevent Blindness, Inc. (New York, NY);37;
+2;;uni;United States;Rutgers University;97, 19;
+1;;hosp;United States;San Francisco General Hospital;215;
+1;;corp;United States;Siemens Corporation, Corporate Research and Technology, Princeton, NJ, USA;53;
+;1;corp;United States;Skin Cancer Foundation;;78
+1;;hosp;United States;St. Jude Children’s Research Hospital;19;
+1;1;uni;United States;Stanford University;40;124
+;2;uni;United States;Stony Brook University;;271, 331
+1;;hosp;United States;Stony Brook University Medical Center;152;
+;1;corp;United States;Tempus Labs, Inc;;316
+1;;corp;United States;The Eye and Ear Foundation (Pittsburgh, PA);37;
+3;;uni;United States;University of California, Los Angeles (UCLA);16, 235, 41;
+1;;uni;United States;University of Georgia;152;
+;1;gov;United States;U.S. Department of Education;;102
+1;1;uni;United States;University of California, Berkeley (UCB);215;102
+;1;uni;United States;UC San Diego;;74
+1;;uni;United States;UC San Francisco Medical School ;215;
+3;3;uni;United States;University of North Carolina at Chapel Hill;10, 202, 117;102, 269, 276
+4;1;uni;United States;University of Pennsylvania;97, 122, 230, 88;145
+1;1;uni;United States;University of Pittsburgh School of Medicine;37;313
+;2;uni;United States;University of Texas;;321, 102
+1;;uni;United States;University of Utah;16;
+;1;gov;United States;US Air Force;;94
+;1;gov;United States;US Department of Agriculture (USDA);;309
+;2;uni;United States;Vanderbilt University;;78, 314
+;2;hosp;United States;Vanderbilt University Medical Center;;78, 314
+;1;uni;United States;Virginia Tech;;329
+;1;corp;United States;VoxelCloud Inc;;82
+;1;corp;United States;Wistron;;94
+;1;uni;United States;Yale University;;280
 ;1;uni;Vietnam;Hanoi University of Science and Technology;;280
 ;1;corp;Vietnam;Medical Imaging Center, Vingroup Big Data Institute;;280
 ;1;uni;Vietnam;VinUniversity;;280
