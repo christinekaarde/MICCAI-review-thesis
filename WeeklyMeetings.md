@@ -45,6 +45,7 @@ Replace this text with a one/two sentence description of what helped you this we
 * made a plan for what I need to get done before Veronika reads on Nov 21st
 * finished affiliations analysis (coding part)
 * cleaned up graphs
+* editing/writing my analysis section
 
 #### What did you struggle with?
 
@@ -59,9 +60,8 @@ Replace this text with a one/two sentence description of what helped you this we
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* a discussion about dataset method/survey, how to handle that I'm not happy with the data I've collected
+* how to handle longer quotes in this double column format (+ 40 words)?
 
 #### Any other topics
 
