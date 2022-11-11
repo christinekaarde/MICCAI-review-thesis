@@ -1,4 +1,4 @@
-# MICCAI-review-Thesis
+# MICCAI-review-thesis
 
 This repo contains the data and code for processing MICCAI papers from 2012 and 2021, creating an initial database of basic meta data, expanding with categorising articles as classification and other, mining the articles references and processing the data, generating graphs and qualitative outputs for further processing based on data gathered through manual annotation. 
 
