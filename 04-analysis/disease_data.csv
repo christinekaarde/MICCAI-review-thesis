@@ -85,7 +85,7 @@
 2021;adolescent idopathic scoliosis;spine;abdomen;;288
 2021;;mouth;mouth;tooth localization;287
 2021;;breast ;chest;mammography lesion matching;286
-2021;;eyes;eyes;managing imbalanced datasets;283
+2021;;eyes;eyes;imbalanced datasets;283
 2021;;gastro/intestines;abdomen;managing imbalanced datasets;283
 2021;Subjective cognitive decline;brain;neuro;;276
 2021;lung disease;lungs;chest;;271
@@ -108,7 +108,7 @@
 2021;cancer;skin;microscopy;;160
 2021;;skin;microscopy;fixing degrading models (retrogress);161
 2021;covid;lungs;chest;;164
-2021;;skin;microscopy;imbalanced datasets;172
+2021;;skin;microscopy;alleviating imbalanced datasets;172
 2021;;eyes;eyes;imbalanced datasets;172
 2021;gastrointestinal abnormalities;gastro/intestines;abdomen;;174
 2021;cancer;skin;microscopy;;180
