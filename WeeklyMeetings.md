@@ -38,7 +38,7 @@
 
 #### What helped you this week?
 
-Replace this text with a one/two sentence description of what helped you this week and how.
+My partner is an overleaf user as well, so he helped me with some formatting issues, thank you!
 
 #### What did you achieve?
 
@@ -46,17 +46,16 @@ Replace this text with a one/two sentence description of what helped you this we
 * finished affiliations analysis (coding part)
 * cleaned up graphs
 * editing/writing my analysis section
+* started discussion and conclusion
 
 #### What did you struggle with?
 
 * Stuff taking longer than expected (as usual, but always catches me unaware)
-* It's ok if your list is only one bullet point long!
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* word query and square 1 analysis (if possible)
+* finish discussion, conclusion, abstract and be ready for Veronika to read through week after!
 
 #### Where do you need help from Veronika?
 
