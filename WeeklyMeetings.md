@@ -47,6 +47,7 @@ My partner is an overleaf user as well, so he helped me with some formatting iss
 * cleaned up graphs
 * editing/writing my analysis section
 * started discussion and conclusion
+* some word query stuff in NVivo
 
 #### What did you struggle with?
 
@@ -61,6 +62,7 @@ My partner is an overleaf user as well, so he helped me with some formatting iss
 
 * a discussion about dataset method/survey, how to handle that I'm not happy with the data I've collected
 * how to handle longer quotes in this double column format (+ 40 words)?
+* how to use the word query results in a meaningful way?
 
 #### Any other topics
 
