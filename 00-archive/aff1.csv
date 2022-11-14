@@ -1,0 +1,339 @@
+,Type,Country,list of 2012 ids,list of 2021 ids
+0,gov ,Australia,0.0,283
+1,uni,Australia,0.0,"315, 321"
+2,uni,Australia,0.0,"315, 321"
+3,uni,Australia,0.0,283
+4,uni,Australia,9,0
+5,gov,Austria,242,0
+6,hosp,Austria,242,0
+7,uni,Austria,242,0
+8,uni,Belgium,13,0
+9,corp,Belgium,13,0
+10,gov,Belgium,13,0
+11,hosp,Belgium,13,0
+12,uni,Canada,"36, 38",304
+13,uni,Canada,"36, 38",304
+14,gov,Canada,36,324
+15,corp,Canada,36,0
+16,uni,Canada,137,0
+17,corp,Canada,137,0
+18,hosp,Canada,0,304
+19,hosp,Canada,0,324
+20,uni,Canada,36,0
+21,uni,Canada,0,324
+22,uni,China,41,0
+23,hosp,China,41,0
+24,uni,China,0,"262, 269"
+25,uni,China,0,"262, 269"
+26,gov,China,0,"69, 258"
+27,gov,China,0,"69, 258"
+28,uni,China,0,159
+29,uni,China,0,269
+30,uni,China,0,"265, 266, 270, 288"
+31,uni,China,0,"265, 266, 270, 288"
+32,uni,China,0,"265, 266, 270, 288"
+33,uni,China,0,"265, 266, 270, 288"
+34,hosp,China,0,277
+35,uni,China,0,"118, 159, 269, 270, 288"
+36,uni,China,0,"118, 159, 269, 270, 288"
+37,uni,China,0,"118, 159, 269, 270, 288"
+38,uni,China,0,"118, 159, 269, 270, 288"
+39,uni,China,0,"118, 159, 269, 270, 288"
+40,uni,China,0,"161, 268"
+41,uni,China,0,"161, 268"
+42,uni,China,10,0
+43,corp,China,0,"265, 266"
+44,corp,China,0,"265, 266"
+45,corp,China,0,"255, 257"
+46,corp,China,0,"255, 257"
+47,gov,China,0,159
+48,uni,China,0,"315, 321"
+49,uni,China,0,"315, 321"
+50,gov,Hong Kong SAR,0,"118, 159"
+51,gov,Hong Kong SAR,0,"118, 159"
+52,uni,Hong Kong SAR,0,"286, 118"
+53,uni,Hong Kong SAR,0,"286, 118"
+54,corp,China,0,"164, 294, 298"
+55,corp,China,0,"164, 294, 298"
+56,corp,China,0,"164, 294, 298"
+57,uni,China,0,286
+58,corp,China,0,118
+59,gov,China,0,"118, 159, 302"
+60,gov,China,0,"118, 159, 302"
+61,gov,China,0,"118, 159, 302"
+62,gov,China,0,92
+63,uni,China,0,72
+64,corp,China,7,0
+65,uni,China,"10, 202",0
+66,uni,China,"10, 202",0
+67,gov,China,0,"73, 262, 268, 269, 270"
+68,gov,China,0,"73, 262, 268, 269, 270"
+69,gov,China,0,"73, 262, 268, 269, 270"
+70,gov,China,0,"73, 262, 268, 269, 270"
+71,gov,China,0,"73, 262, 268, 269, 270"
+72,corp,China,0,306
+73,uni,China,0,"204, 298"
+74,uni,China,0,"204, 298"
+75,gov,China,"10,41,202","73, 92, 118, 255, 257, 266, 270, 286, 288, 290, 291, 294, 297, 298"
+76,gov,China,"10,41,202","73, 92, 118, 255, 257, 266, 270, 286, 288, 290, 291, 294, 297, 298"
+77,gov,China,"10,41,202","73, 92, 118, 255, 257, 266, 270, 286, 288, 290, 291, 294, 297, 298"
+78,corp,China,0,288
+79,corp,China,0,"290, 297"
+80,corp,China,0,"290, 297"
+81,hosp,China,0,301
+82,uni,China,0,"255, 257"
+83,uni,China,0,"255, 257"
+84,corp,China,0,"278, 277"
+85,corp,China,0,"278, 277"
+86,hosp,China,0,278
+87,uni,China,0,"315, 321"
+88,uni,China,0,"315, 321"
+89,gov,China,0,73
+90,uni,China,"202, 248","69, 258, 276"
+91,uni,China,"202, 248","69, 258, 276"
+92,gov,China,0,"69, 73, 258"
+93,gov,China,0,"69, 73, 258"
+94,gov,China,0,"69, 73, 258"
+95,gov,China,0,69
+96,corp,China,0,204
+97,uni,China,0,"204, 298"
+98,uni,China,0,"204, 298"
+99,gov,China,0,161
+100,uni,China,0,310
+101,uni,China,0,276
+102,uni,China,0,"72, 268"
+103,uni,China,0,"72, 268"
+104,uni,China,0,"290, 291, 297"
+105,uni,China,0,"290, 291, 297"
+106,uni,China,0,"290, 291, 297"
+107,gov,China,0,73
+108,corp,China,0,301
+109,corp,China,0,302
+110,hosp,China,0,73
+111,uni,Hong Kong SAR,0,"118, 159, 268"
+112,uni,Hong Kong SAR,0,"118, 159, 268"
+113,uni,Hong Kong SAR,0,"118, 159, 268"
+114,uni,China,0,315321
+115,uni,China,0,73
+116,uni,China,0,"265, 266, 288"
+117,uni,China,0,"265, 266, 288"
+118,uni,China,0,"265, 266, 288"
+119,uni,China,0,"265, 266, 270"
+120,uni,China,0,"265, 266, 270"
+121,uni,China,0,"265, 266, 270"
+122,uni,China,0,"268, 302"
+123,uni,China,0,"268, 302"
+124,uni,China,0,321
+125,uni,China,0,288
+126,uni,Colombia,19,0
+127,uni,Denmark,0,106
+128,uni,Denmark,0,106
+129,gov,EU,62,"72, 122, 283"
+130,gov,EU,62,"72, 122, 283"
+131,gov,EU,62,"72, 122, 283"
+132,uni,France,0,92
+133,hosp,France,0,324
+134,uni,France,0,74
+135,corp,France,0,74
+136,corp,France,0,74
+137,uni,France,0,74
+138,uni,France,194,0
+139,uni,France,"194, 203",0
+140,uni,France,"194, 203",0
+141,gov,Germany,0,172
+142,uni,Germany,0,308
+143,corp,Germany,0,160
+144,gov,Germany,0,"173, 318"
+145,gov,Germany,0,"173, 318"
+146,corp,Germany,0,160
+147,uni,Germany,227,0
+148,hosp,Germany,25,0
+149,uni,Germany,0,74
+150,uni,Germany,227,318
+151,uni,Germany,25,0
+152,corp,Germany,53,0
+153,uni,Germany,0,"320, 72, 160"
+154,uni,Germany,0,"320, 72, 160"
+155,uni,Germany,0,"320, 72, 160"
+156,uni,Germany,227,0
+157,corp,Germany,0,173
+158,hosp,Germany,53,0
+159,hosp,Germany,206,0
+160,uni,Germany,0,172
+161,uni,Germany,206,0
+162,uni,Germany,0,173
+163,uni,Germany,25,0
+164,uni,Greece,0,174
+165,uni,Hong Kong SAR,0,267
+166,uni,Hong Kong SAR,0,"82, 255, 257"
+167,uni,Hong Kong SAR,0,"82, 255, 257"
+168,uni,Hong Kong SAR,0,"82, 255, 257"
+169,uni,India,0,311
+170,uni,Iran,0,320
+171,uni,Iran,194,0
+172,uni,Ireland,0,74
+173,uni,Italy,0,74
+174,gov,Japan,0,112
+175,hosp,Japan,0,112
+176,uni,Japan,0,112
+177,uni,Japan,0,112
+178,hosp,Netherlands,240,0
+179,uni,Netherlands,240,0
+180,gov,Netherlands,0,138
+181,uni,Netherlands,0,138
+182,uni,Netherlands,0,138
+183,gov,Portugal,0,180
+184,uni,Portugal,0,180
+185,corp,Russia,42,0
+186,corp,Singapore,7,0
+187,uni,Singapore,7,0
+188,uni,Singapore,7,0
+189,corp,Singapore,7,310
+190,corp,Singapore,7,0
+191,gov,South Korea,0,300
+192,uni,South Korea,0,300
+193,uni,South Korea,0,102
+194,uni,South Korea,0,102
+195,gov,Spain,0,283
+196,gov,Spain,0,"106, 122"
+197,gov,Spain,0,"106, 122"
+198,gov,Spain,4,0
+199,uni,Spain,0,122
+200,uni,Spain,0,"106, 283"
+201,uni,Spain,0,"106, 283"
+202,corp,Sweden,0,312
+203,uni,Sweden,0,312
+204,corp,Sweden,0,312
+205,gov,Sweden,0,312
+206,uni,Switzerland,0,72
+207,corp,Switzerland,0,72
+208,corp,Switzerland,0,173
+209,uni,Switzerland,0,74
+210,uni,Switzerland,0,72
+211,corp,Taiwan,0,"139, 322"
+212,corp,Taiwan,0,"139, 322"
+213,hosp,Taiwan,0,278
+214,uni,Taiwan,0,287
+215,gov,Taiwan,0,139
+216,hosp,Taiwan,0,139
+217,uni,Taiwan,0,139
+218,uni,Turkey,240,0
+219,gov,Turkey,240,0
+220,hosp,Uganda,215,0
+221,uni,United Kingdom,62,"284, 308"
+222,uni,United Kingdom,62,"284, 308"
+223,corp,United Kingdom,0,"170, 322"
+224,corp,United Kingdom,0,"170, 322"
+225,uni,United Kingdom,0,283
+226,uni,United Kingdom,62,308
+227,corp,United Kingdom,97,0
+228,hosp,United Kingdom,0,284
+229,hosp,United Kingdom,42,0
+230,uni,United Kingdom,0,284
+231,gov,United Kingdom,0,"284, 308"
+232,gov,United Kingdom,0,"284, 308"
+233,uni,United Kingdom,0,284
+234,uni,United Kingdom,213,0
+235,uni,United Kingdom,"42, 213",164
+236,uni,United Kingdom,"42, 213",164
+237,corp,United Kingdom,0,"284, 308"
+238,corp,United Kingdom,0,"284, 308"
+239,uni,United States,41,0
+240,hosp,United States,"122, 230",0
+241,hosp,United States,"122, 230",0
+242,uni,United States,37,"74, 313"
+243,uni,United States,37,"74, 313"
+244,corp,United States,16,0
+245,corp,United States,0,"145, 313"
+246,corp,United States,0,"145, 313"
+247,corp,United States,0,170
+248,corp,United States,0,170
+249,uni,United States,"248, 40",0
+250,uni,United States,"248, 40",0
+251,uni,United States,0,170
+252,hosp,United States,19,0
+253,uni,United States,163,0
+254,corp,United States,0,78
+255,uni,United States,117,0
+256,uni,United States,37,0
+257,corp,United States,0,180
+258,uni,United States,0,94
+259,corp,United States,234,"94, 329"
+260,corp,United States,234,"94, 329"
+261,corp,United States,37,0
+262,corp,United States,163,0
+263,uni,United States,"4, 9","320, 160, 277"
+264,uni,United States,"4, 9","320, 160, 277"
+265,hosp,United States,234,0
+266,hosp,United States,0,170
+267,uni,United States,14,0
+268,uni,United States,248,0
+269,uni,United States,0,"287, 94"
+270,uni,United States,0,"287, 94"
+271,gov,United States,0,145
+272,gov,United States,0,145
+273,hosp,United States,0,331
+274,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+275,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+276,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+277,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+278,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+279,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+280,gov,United States,"10,16,37, 122, 202,230, 235","94, 102, 170, 269, 276, 313, 331"
+281,uni,United States,0,124
+282,uni,United States,0,122
+283,gov,United States,"4,16","102, 313, 314"
+284,gov,United States,"4,16","102, 313, 314"
+285,corp,United States,0,180
+286,uni,United States,0,309
+287,corp,United States,0,"278, 277"
+288,corp,United States,0,"278, 277"
+289,uni,United States,0,145
+290,uni,United States,19,0
+291,hosp,United States,152,0
+292,uni,United States,0,329
+293,corp,United States,37,0
+294,uni,United States,"97, 19",0
+295,uni,United States,"97, 19",0
+296,hosp,United States,215,0
+297,corp,United States,53,0
+298,corp,United States,0,78
+299,hosp,United States,19,0
+300,uni,United States,40,124
+301,uni,United States,0,"271, 331"
+302,uni,United States,0,"271, 331"
+303,hosp,United States,152,0
+304,corp,United States,0,316
+305,corp,United States,37,0
+306,uni,United States,"16, 235, 41",0
+307,uni,United States,"16, 235, 41",0
+308,uni,United States,"16, 235, 41",0
+309,uni,United States,152,0
+310,gov,United States,0,102
+311,uni,United States,215,102
+312,uni,United States,0,74
+313,uni,United States,215,0
+314,uni,United States,"10, 202, 117","102, 269, 276"
+315,uni,United States,"10, 202, 117","102, 269, 276"
+316,uni,United States,"10, 202, 117","102, 269, 276"
+317,uni,United States,"97, 122, 230, 88",145
+318,uni,United States,"97, 122, 230, 88",145
+319,uni,United States,"97, 122, 230, 88",145
+320,uni,United States,"97, 122, 230, 88",145
+321,uni,United States,37,313
+322,uni,United States,0,"321, 102"
+323,uni,United States,0,"321, 102"
+324,uni,United States,16,0
+325,gov,United States,0,94
+326,gov,United States,0,309
+327,uni,United States,0,"78, 314"
+328,uni,United States,0,"78, 314"
+329,hosp,United States,0,"78, 314"
+330,hosp,United States,0,"78, 314"
+331,uni,United States,0,329
+332,corp,United States,0,82
+333,corp,United States,0,94
+334,uni,United States,0,280
+335,uni,Vietnam,0,280
+336,corp,Vietnam,0,280
+337,uni,Vietnam,0,280
