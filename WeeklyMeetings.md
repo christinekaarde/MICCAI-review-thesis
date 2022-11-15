@@ -1,5 +1,6 @@
 
 # Christine's Weekly Meeting Notes
+* [14 November 2022](#date-14-november-2022)
 
 * [07 November 2022](#date-07-november-2022)
 
@@ -30,6 +31,40 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+### Date: 14 November 2022
+
+#### Who did you help this week?
+
+#### What helped you this week?
+
+Good meeting with Veronika Monday, setting expectations and feeling good about the work I've done
+
+#### What did you achieve?
+
+* word query stuff
+* square 1 analysis (of some kind)
+* writing and making the thesis pretty
+* getting the appendix to work
+
+#### What did you struggle with?
+
+* Overleaf is hard! Had issues with the appendix and formatting in general, but think I've solved most of it/will solve the rest
+
+#### What would you like to work on next week?
+
+* Fix edits from Veronika
+* Do presentation for Purrlab and get feedback
+* Get ready for hand in!
+* Write abstract
+
+#### Where do you need help from Veronika?
+
+* Just feedback I believe
+
+#### Any other topics
+
+I'm so looking forward to being finished! But am grateful that its been more or less a smooth process. Have really enjoyed having Veronika as my supervisor!
 
 
 ### Date: 07 November 2022
