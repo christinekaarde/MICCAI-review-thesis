@@ -46,6 +46,7 @@ Good meeting with Veronika Monday, setting expectations and feeling good about t
 * square 1 analysis (of some kind)
 * writing and making the thesis pretty
 * getting the appendix to work
+* wrote abstract
 
 #### What did you struggle with?
 
@@ -56,7 +57,6 @@ Good meeting with Veronika Monday, setting expectations and feeling good about t
 * Fix edits from Veronika
 * Do presentation for Purrlab and get feedback
 * Get ready for hand in!
-* Write abstract
 
 #### Where do you need help from Veronika?
 
