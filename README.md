@@ -64,8 +64,8 @@ The csv files contain the following data:
   * What is the size of the used dataset? (input quote) : text based answer
   * What type is the dataset? : public or private
   * Please input the quote from which you infer the answer to the previous question (if possible) : text based answer
-  * Draft_Is the survey/method of how the dataset was obtained accessible?: yes or no
-  * Please input the quote from which you infer the answer to the previous question (if possible) : text based answer
+  * Draft_Is the survey/method of how the dataset was obtained accessible? : yes or no
+  * Draft_Please input the quote from which you infer the answer to the previous question (if possible) : text based answer
   * Does the article mention the demographics of the patients/images included in the used dataset? : yes or no
   * Please input the quote from which you infer the answer to the previous question (if possible) : text based answer
   * Does the article mention the intent for collecting the dataset? The intended task for the dataset? : yes or no
