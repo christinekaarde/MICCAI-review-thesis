@@ -1,5 +1,7 @@
 
 # Christine's Weekly Meeting Notes
+* [21 November 2022](#date-21-november-2022)
+
 * [14 November 2022](#date-14-november-2022)
 
 * [07 November 2022](#date-07-november-2022)
@@ -31,6 +33,39 @@
 * [08 August 2022](#date-08-august-2022)
 
 * [Template](#template-date-dd-month-yyyy)
+
+
+### Date: 21 November 2022
+
+#### Who did you help this week?
+
+#### What helped you this week?
+
+#### What did you achieve?
+
+* Changing thesis structure according to Veronika's comments
+* Starting to finalise everything
+
+#### What did you struggle with?
+
+* Wanting things to look nice in the paper - graphs not going where I want them
+* Never having actually written a research paper before, so having a different understanding of e.g. a method section
+
+#### What would you like to work on next week?
+
+* It's hand in time! So finish up and hand in report
+
+#### Where do you need help from Veronika?
+
+* Replace this text with a bullet point list of what you need help from Veronika on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+Yay! Finally time to hand this thesis in :D
+
+
 
 ### Date: 14 November 2022
 
