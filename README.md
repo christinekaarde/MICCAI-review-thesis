@@ -111,9 +111,9 @@ The csv files contain the following data:
     * score: used to calculate rank, max 100
   
 The four notebooks have the following contents:
-* 04.01_quantitative-analysis: notebook that takes the data from annotation_data and creates graphs
-* 04.02_qualitative-analysis-part-1: notebook that looks at the text based answers in my annotations data, used to collect the data contained in the 3 csv files: affiliations_data, disease_data and justification_data
-* 04.03_qualitative-analysis-part-2: notebook that uses affiliations_data, elite_universities, disease_data and justification_data and looks for insights in the data
+* 04.01_non-textbased-answers: notebook that takes the data from the non-text based questions in the annotations_data and creates graphs
+* 04.02_more-data-gathering: notebook that looks at the text based answers in my annotations data, used to collect the data contained in the 3 csv files: affiliations_data, disease_data and justification_data
+* 04.03_additional-data: notebook that uses affiliations_data, elite_universities, disease_data and justification_data and looks for insights in the data
 * 04.04_square-1: notebook that generates 4d scatter plots using annotations_data, disease_data and justification_data
 
 ## 00 Archive 
