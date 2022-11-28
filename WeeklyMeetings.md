@@ -59,6 +59,7 @@ Glad to get positive feedback from Veronika Monday about the contents, even if s
 #### Where do you need help from Veronika?
 
 * Skimming my updated method section, to be sure it reads as a research paper, not a blogpost
+* How would you define classification - one line? "image classification, classifying a found object into set categories."?
 
 #### Any other topics
 
