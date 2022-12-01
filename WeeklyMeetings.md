@@ -40,6 +40,7 @@
 #### Who did you help this week?
 
 #### What helped you this week?
+Glad to get positive feedback from Veronika Monday about the contents, even if structure needs to be changed
 
 #### What did you achieve?
 
@@ -57,9 +58,8 @@
 
 #### Where do you need help from Veronika?
 
-* Replace this text with a bullet point list of what you need help from Veronika on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* Skimming my updated method section, to be sure it reads as a research paper, not a blogpost
+* How would you define classification - one line? "image classification, classifying a found object into set categories."?
 
 #### Any other topics
 
